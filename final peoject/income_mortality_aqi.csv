@@ -1,0 +1,897 @@
+FIPS,subregion,region,Year,Days.with.AQI,Good.Days,Moderate.Days,Unhealthy.for.Sensitive.Groups.Days,Unhealthy.Days,Very.Unhealthy.Days,Hazardous.Days,Max.AQI,X90th.Percentile.AQI,Median.AQI,Days.CO,Days.NO2,Days.Ozone,Days.PM2.5,Days.PM10,STATE_FIPS,CNTY_FIPS,State,Value..Dollars.,Rank.within.US,County,Deaths,Population,Crude.Rate,rate_100k
+10001,Kent,Delaware,2020,362,332,30,0,0,0,0,80,48,36,0,0,290,72,0,10,001,"Kent County, Delaware",60910,706 of 3146,"Kent County, DE",197,184149,107.0,106.98
+10003,New Castle,Delaware,2020,366,300,64,2,0,0,0,105,58,40,0,9,218,139,0,10,003,"New Castle County, Delaware",73892,248 of 3146,"New Castle County, DE",392,571708,68.6,68.57
+10005,Sussex,Delaware,2020,366,329,37,0,0,0,0,87,51,38,0,0,277,89,0,10,005,"Sussex County, Delaware",63162,579 of 3146,"Sussex County, DE",258,247527,104.2,104.23
+1003,Baldwin,Alabama,2020,269,250,19,0,0,0,0,74,49,36,0,0,198,71,0,01,003,"Baldwin County, Alabama",58320,894 of 3146,"Baldwin County, AL",245,239294,102.4,102.38
+1027,Clay,Alabama,2020,108,99,9,0,0,0,0,86,49,26,0,0,0,108,0,01,027,"Clay County, Alabama",40845,2656 of 3146,"Clay County, AL",23,14190,162.1,162.09
+1049,DeKalb,Alabama,2020,364,350,14,0,0,0,0,90,45,36,0,0,331,33,0,01,049,"DeKalb County, Alabama",40440,2679 of 3146,"DeKalb County, AL",119,71813,165.7,165.71
+1051,Elmore,Alabama,2020,197,197,0,0,0,0,0,47,41,31,0,0,197,0,0,01,051,"Elmore County, Alabama",60891,710 of 3146,"Elmore County, AL",107,89304,119.8,119.82
+1055,Etowah,Alabama,2020,278,260,18,0,0,0,0,92,46,34,0,0,204,74,0,01,055,"Etowah County, Alabama",44637,2317 of 3146,"Etowah County, AL",183,103162,177.4,177.39
+1073,Jefferson,Alabama,2020,366,212,151,3,0,0,0,129,67,48,0,2,123,241,0,01,073,"Jefferson County, Alabama",53901,1305 of 3146,"Jefferson County, AL",657,667820,98.4,98.38
+1079,Lawrence,Alabama,2020,90,87,3,0,0,0,0,75,36,18,0,0,0,90,0,01,079,"Lawrence County, Alabama",44886,2292 of 3146,"Lawrence County, AL",62,33090,187.4,187.37
+1089,Madison,Alabama,2020,364,307,57,0,0,0,0,88,54,40,0,0,132,227,5,01,089,"Madison County, Alabama",65449,450 of 3146,"Madison County, AL",284,395211,71.9,71.86
+1097,Mobile,Alabama,2020,348,256,92,0,0,0,0,75,58,42,0,0,114,234,0,01,097,"Mobile County, Alabama",47583,2029 of 3146,"Mobile County, AL",437,413073,105.8,105.79
+1101,Montgomery,Alabama,2020,361,162,197,2,0,0,0,116,66,52,0,0,36,325,0,01,101,"Montgomery County, Alabama",50124,1769 of 3146,"Montgomery County, AL",195,227434,85.7,85.74
+1103,Morgan,Alabama,2020,355,308,47,0,0,0,0,71,52,35,0,0,140,215,0,01,103,"Morgan County, Alabama",52156,1533 of 3146,"Morgan County, AL",157,123668,127.0,126.95
+1113,Russell,Alabama,2020,365,299,66,0,0,0,0,99,56,36,0,0,111,254,0,01,113,"Russell County, Alabama",42443,2515 of 3146,"Russell County, AL",64,58722,109.0,108.99
+1117,Shelby,Alabama,2020,241,232,9,0,0,0,0,67,46,34,0,0,241,0,0,01,117,"Shelby County, Alabama",77799,192 of 3146,"Shelby County, AL",154,226902,67.9,67.87
+1119,Sumter,Alabama,2020,355,343,12,0,0,0,0,70,44,29,0,0,178,177,0,01,119,"Sumter County, Alabama",24320,3139 of 3146,"Sumter County, AL",11,12164,Unreliable,90.43
+1125,Tuscaloosa,Alabama,2020,278,267,11,0,0,0,0,97,45,31,0,0,205,73,0,01,125,"Tuscaloosa County, Alabama",53326,1374 of 3146,"Tuscaloosa County, AL",177,227007,78.0,77.97
+12001,Alachua,Florida,2020,366,325,40,1,0,0,0,105,52,36,0,0,200,166,0,12,001,"Alachua County, Florida",49689,1818 of 3146,"Alachua County, FL",170,279238,60.9,60.88
+12003,Baker,Florida,2020,363,331,30,2,0,0,0,140,49,35,0,0,208,155,0,12,003,"Baker County, Florida",63275,575 of 3146,"Baker County, FL",31,28715,108.0,107.96
+12005,Bay,Florida,2020,363,281,80,2,0,0,0,146,58,40,0,0,162,201,0,12,005,"Bay County, Florida",54316,1258 of 3146,"Bay County, FL",227,179168,126.7,126.7
+12009,Brevard,Florida,2020,366,324,42,0,0,0,0,84,52,39,0,0,245,121,0,12,009,"Brevard County, Florida",56775,1032 of 3146,"Brevard County, FL",701,616628,113.7,113.68
+12011,Broward,Florida,2020,366,290,74,2,0,0,0,142,57,40,0,4,145,217,0,12,011,"Broward County, Florida",59547,807 of 3146,"Broward County, FL",1103,1930983,57.1,57.12
+12017,Citrus,Florida,2020,359,309,49,1,0,0,0,125,53,32,0,0,0,359,0,12,017,"Citrus County, Florida",44237,2351 of 3146,"Citrus County, FL",313,158083,198.0,198
+12021,Collier,Florida,2020,364,316,48,0,0,0,0,85,54,36,0,0,178,186,0,12,021,"Collier County, Florida",69653,330 of 3146,"Collier County, FL",219,385980,56.7,56.74
+12023,Columbia,Florida,2020,311,255,53,1,2,0,0,158,56,36,0,0,94,217,0,12,023,"Columbia County, Florida",46494,2150 of 3146,"Columbia County, FL",111,70385,157.7,157.7
+12031,Duval,Florida,2020,366,274,89,3,0,0,0,125,59,42,0,0,125,240,1,12,031,"Duval County, Florida",55807,1112 of 3146,"Duval County, FL",745,999935,74.5,74.5
+12033,Escambia,Florida,2020,360,269,91,0,0,0,0,80,58,42,0,0,165,195,0,12,033,"Escambia County, Florida",50915,1660 of 3146,"Escambia County, FL",347,322390,107.6,107.63
+12035,Flagler,Florida,2020,366,363,3,0,0,0,0,64,43,31,0,0,366,0,0,12,035,"Flagler County, Florida",54514,1241 of 3146,"Flagler County, FL",125,120932,103.4,103.36
+12047,Hamilton,Florida,2020,298,263,33,1,1,0,0,154,52,34,0,0,0,298,0,12,047,"Hamilton County, Florida",38569,2801 of 3146,"Hamilton County, FL",18,13993,Unreliable,128.64
+12055,Highlands,Florida,2020,358,345,13,0,0,0,0,74,44,31,0,0,358,0,0,12,055,"Highlands County, Florida",40942,2644 of 3146,"Highlands County, FL",173,103296,167.5,167.48
+12057,Hillsborough,Florida,2020,366,280,83,3,0,0,0,112,60,43,0,0,165,196,5,12,057,"Hillsborough County, Florida",58884,855 of 3146,"Hillsborough County, FL",1011,1478194,68.4,68.39
+12059,Holmes,Florida,2020,363,308,52,3,0,0,0,138,54,38,0,0,150,213,0,12,059,"Holmes County, Florida",39102,2776 of 3146,"Holmes County, FL",38,19784,192.1,192.07
+12061,Indian River,Florida,2020,338,323,15,0,0,0,0,87,47,37,0,0,338,0,0,12,061,"Indian River County, Florida",54740,1215 of 3146,"Indian River County, FL",155,163662,94.7,94.71
+12069,Lake,Florida,2020,366,354,12,0,0,0,0,87,45,32,0,0,366,0,0,12,069,"Lake County, Florida",54513,1242 of 3146,"Lake County, FL",381,395804,96.3,96.26
+12071,Lee,Florida,2020,366,330,36,0,0,0,0,100,50,36,0,0,258,108,0,12,071,"Lee County, Florida",57832,941 of 3146,"Lee County, FL",576,787976,73.1,73.1
+12073,Leon,Florida,2020,366,289,74,2,1,0,0,160,58,40,0,0,106,260,0,12,073,"Leon County, Florida",53106,1402 of 3146,"Leon County, FL",177,292817,60.4,60.45
+12081,Manatee,Florida,2020,366,355,11,0,0,0,0,97,44,33,0,0,366,0,0,12,081,"Manatee County, Florida",59009,847 of 3146,"Manatee County, FL",378,412703,91.6,91.59
+12083,Marion,Florida,2020,366,300,66,0,0,0,0,100,55,39,0,0,169,197,0,12,083,"Marion County, Florida",45371,2254 of 3146,"Marion County, FL",461,385915,119.5,119.46
+12085,Martin,Florida,2020,365,320,45,0,0,0,0,95,52,36,0,0,200,165,0,12,085,"Martin County, Florida",61133,690 of 3146,"Martin County, FL",191,159942,119.4,119.42
+12086,Miami-Dade,Florida,2020,366,297,69,0,0,0,0,90,58,39,0,4,156,206,0,12,086,"Miami-Dade County, Florida",51347,1625 of 3146,"Miami-Dade County, FL",1464,2662777,55.0,54.98
+12089,Nassau,Florida,2020,43,42,1,0,0,0,0,51,43,31,0,0,0,43,0,12,089,"Nassau County, Florida",69943,324 of 3146,"Nassau County, FL",89,94189,94.5,94.49
+12091,Okaloosa,Florida,2020,364,355,9,0,0,0,0,74,46,34,0,0,334,0,30,12,091,"Okaloosa County, Florida",63412,563 of 3146,"Okaloosa County, FL",186,213255,87.2,87.22
+12095,Orange,Florida,2020,366,326,40,0,0,0,0,93,51,36,0,0,265,100,1,12,095,"Orange County, Florida",58254,901 of 3146,"Orange County, FL",626,1422746,44.0,44
+12097,Osceola,Florida,2020,366,354,12,0,0,0,0,90,44,32,0,0,366,0,0,12,097,"Osceola County, Florida",52279,1514 of 3146,"Osceola County, FL",236,403282,58.5,58.52
+12099,Palm Beach,Florida,2020,361,310,51,0,0,0,0,92,53,38,0,0,211,119,31,12,099,"Palm Beach County, Florida",63299,574 of 3146,"Palm Beach County, FL",1006,1497987,67.2,67.16
+12101,Pasco,Florida,2020,366,355,11,0,0,0,0,77,46,35,0,0,366,0,0,12,101,"Pasco County, Florida",52828,1439 of 3146,"Pasco County, FL",656,584067,112.3,112.32
+12103,Pinellas,Florida,2020,366,301,65,0,0,0,0,100,56,40,0,0,195,171,0,12,103,"Pinellas County, Florida",54090,1283 of 3146,"Pinellas County, FL",1048,956615,109.6,109.55
+12105,Polk,Florida,2020,365,311,54,0,0,0,0,87,54,37,0,0,198,165,2,12,105,"Polk County, Florida",50584,1695 of 3146,"Polk County, FL",816,753520,108.3,108.29
+12107,Putnam,Florida,2020,366,365,1,0,0,0,0,67,27,14,0,0,0,0,366,12,107,"Putnam County, Florida",37670,2863 of 3146,"Putnam County, FL",134,74167,180.7,180.67
+12111,St. Lucie,Florida,2020,360,351,9,0,0,0,0,74,44,33,0,0,360,0,0,12,111,"St. Lucie County, Florida",52322,1508 of 3146,"St. Lucie County, FL",336,343579,97.8,97.79
+12113,Santa Rosa,Florida,2020,365,295,70,0,0,0,0,84,57,40,0,0,206,159,0,12,113,"Santa Rosa County, Florida",67949,369 of 3146,"Santa Rosa County, FL",148,193998,76.3,76.29
+12115,Sarasota,Florida,2020,366,308,58,0,0,0,0,90,55,38,0,0,211,155,0,12,115,"Sarasota County, Florida",62236,634 of 3146,"Sarasota County, FL",523,447057,117.0,116.99
+12117,Seminole,Florida,2020,365,332,33,0,0,0,0,84,49,36,0,0,242,120,3,12,117,"Seminole County, Florida",66768,413 of 3146,"Seminole County, FL",269,470093,57.2,57.22
+12127,Volusia,Florida,2020,362,327,35,0,0,0,0,77,50,38,0,0,209,153,0,12,127,"Volusia County, Florida",49494,1844 of 3146,"Volusia County, FL",768,564412,136.1,136.07
+12129,Wakulla,Florida,2020,363,315,46,0,2,0,0,161,54,35,4,0,194,165,0,12,129,"Wakulla County, Florida",61410,672 of 3146,"Wakulla County, FL",39,34690,112.4,112.42
+13021,Bibb,Georgia,2020,366,323,43,0,0,0,0,97,52,35,0,0,128,238,0,13,021,"Bibb County, Georgia",41334,2618 of 3146,"Bibb County, GA",329,156762,209.9,209.87
+13049,Charlton,Georgia,2020,120,115,4,1,0,0,0,139,34,19,0,0,0,120,0,13,049,"Charlton County, Georgia",41961,2560 of 3146,"Charlton County, GA",16,12766,Unreliable,125.33
+13051,Chatham,Georgia,2020,365,313,51,1,0,0,0,131,53,37,0,0,111,254,0,13,051,"Chatham County, Georgia",56842,1027 of 3146,"Chatham County, GA",270,296329,91.1,91.11
+13055,Chattooga,Georgia,2020,245,244,1,0,0,0,0,58,43,32,0,0,245,0,0,13,055,"Chattooga County, Georgia",36807,2912 of 3146,"Chattooga County, GA",50,24932,200.5,200.55
+13059,Clarke,Georgia,2020,366,312,54,0,0,0,0,99,54,36,0,0,131,235,0,13,059,"Clarke County, Georgia",38623,2798 of 3146,"Clarke County, GA",74,128711,57.5,57.49
+13063,Clayton,Georgia,2020,121,103,18,0,0,0,0,90,54,28,0,0,0,121,0,13,063,"Clayton County, Georgia",47864,2001 of 3146,"Clayton County, GA",166,297100,55.9,55.87
+13067,Cobb,Georgia,2020,285,263,22,0,0,0,0,90,49,35,0,0,214,71,0,13,067,"Cobb County, Georgia",77932,190 of 3146,"Cobb County, GA",362,766802,47.2,47.21
+13069,Coffee,Georgia,2020,120,115,4,1,0,0,0,108,42,25,0,0,0,120,0,13,069,"Coffee County, Georgia",40859,2654 of 3146,"Coffee County, GA",46,43386,106.0,106.02
+13073,Columbia,Georgia,2020,241,239,2,0,0,0,0,51,44,31,0,0,241,0,0,13,073,"Columbia County, Georgia",82339,138 of 3146,"Columbia County, GA",123,159639,77.0,77.05
+13085,Dawson,Georgia,2020,245,239,6,0,0,0,0,74,43,31,0,0,245,0,0,13,085,"Dawson County, Georgia",66281,428 of 3146,"Dawson County, GA",26,28497,91.2,91.24
+13089,DeKalb,Georgia,2020,366,300,65,1,0,0,0,106,57,38,0,32,127,207,0,13,089,"DeKalb County, Georgia",62399,625 of 3146,"DeKalb County, GA",338,757718,44.6,44.61
+13095,Dougherty,Georgia,2020,365,276,87,2,0,0,0,114,61,37,0,0,0,365,0,13,095,"Dougherty County, Georgia",39584,2747 of 3146,"Dougherty County, GA",106,84844,124.9,124.94
+13097,Douglas,Georgia,2020,245,238,7,0,0,0,0,77,44,32,0,0,245,0,0,13,097,"Douglas County, Georgia",63835,534 of 3146,"Douglas County, GA",84,145814,57.6,57.61
+13115,Floyd,Georgia,2020,326,283,43,0,0,0,0,80,53,31,0,0,0,326,0,13,115,"Floyd County, Georgia",48336,1953 of 3146,"Floyd County, GA",132,98771,133.6,133.64
+13121,Fulton,Georgia,2020,366,257,107,2,0,0,0,125,62,43,0,24,82,260,0,13,121,"Fulton County, Georgia",69673,328 of 3146,"Fulton County, GA",504,1065334,47.3,47.31
+13127,Glynn,Georgia,2020,285,273,12,0,0,0,0,96,44,31,0,0,218,67,0,13,127,"Glynn County, Georgia",52977,1419 of 3146,"Glynn County, GA",62,84739,73.2,73.17
+13135,Gwinnett,Georgia,2020,364,301,62,1,0,0,0,101,55,37,0,0,145,219,0,13,135,"Gwinnett County, Georgia",71026,298 of 3146,"Gwinnett County, GA",401,964546,41.6,41.57
+13139,Hall,Georgia,2020,359,304,55,0,0,0,0,98,55,33,0,0,0,359,0,13,139,"Hall County, Georgia",62984,596 of 3146,"Hall County, GA",114,207369,55.0,54.97
+13151,Henry,Georgia,2020,366,332,34,0,0,0,0,95,50,32,0,0,166,200,0,13,151,"Henry County, Georgia",71288,290 of 3146,"Henry County, GA",169,245235,68.9,68.91
+13153,Houston,Georgia,2020,362,287,74,1,0,0,0,114,57,35,0,0,0,362,0,13,153,"Houston County, Georgia",61723,656 of 3146,"Houston County, GA",149,166829,89.3,89.31
+13185,Lowndes,Georgia,2020,202,177,24,1,0,0,0,141,54,30,0,0,0,202,0,13,185,"Lowndes County, Georgia",42441,2517 of 3146,"Lowndes County, GA",111,119276,93.1,93.06
+13213,Murray,Georgia,2020,272,259,13,0,0,0,0,61,45,34,0,0,235,37,0,13,213,"Murray County, Georgia",48033,1980 of 3146,"Murray County, GA",55,39951,137.7,137.67
+13215,Muscogee,Georgia,2020,366,317,48,1,0,0,0,101,53,35,0,0,146,220,0,13,215,"Muscogee County, Georgia",46408,2160 of 3146,"Muscogee County, GA",167,205617,81.2,81.22
+13231,Pike,Georgia,2020,354,351,3,0,0,0,0,64,44,33,0,0,354,0,0,13,231,"Pike County, Georgia",64878,472 of 3146,"Pike County, GA",19,19477,Unreliable,97.55
+13245,Richmond,Georgia,2020,366,268,97,1,0,0,0,114,59,42,0,0,84,267,15,13,245,"Richmond County, Georgia",42728,2489 of 3146,"Richmond County, GA",210,205673,102.1,102.1
+13247,Rockdale,Georgia,2020,244,232,12,0,0,0,0,77,46,34,0,0,244,0,0,13,247,"Rockdale County, Georgia",60189,762 of 3146,"Rockdale County, GA",55,94082,58.5,58.46
+13261,Sumter,Georgia,2020,240,237,3,0,0,0,0,64,44,32,0,0,240,0,0,13,261,"Sumter County, Georgia",36681,2918 of 3146,"Sumter County, GA",34,29283,116.1,116.11
+13295,Walker,Georgia,2020,177,151,26,0,0,0,0,84,53,30,0,0,0,177,0,13,295,"Walker County, Georgia",46157,2180 of 3146,"Walker County, GA",96,68510,140.1,140.13
+13303,Washington,Georgia,2020,353,297,54,2,0,0,0,112,54,32,0,0,0,353,0,13,303,"Washington County, Georgia",38068,2835 of 3146,"Washington County, GA",28,19785,141.5,141.52
+15001,Hawaii,Hawaii,2020,366,357,9,0,0,0,0,80,30,17,0,0,0,366,0,15,001,"Hawaii County, Hawaii",62409,624 of 3146,"Hawaii County, HI",176,202906,86.7,86.74
+15003,Honolulu,Hawaii,2020,366,365,1,0,0,0,0,58,36,26,0,1,308,54,3,15,003,"Honolulu County, Hawaii",85857,108 of 3146,"Honolulu County, HI",572,1000890,57.1,57.15
+15007,Kauai,Hawaii,2020,365,365,0,0,0,0,0,41,25,11,0,85,0,280,0,15,007,"Kauai County, Hawaii",83554,125 of 3146,"Kauai County, HI",38,73454,51.7,51.73
+15009,Maui,Hawaii,2020,349,347,2,0,0,0,0,56,23,15,0,0,0,349,0,15,009,"Maui County, Hawaii",80948,157 of 3146,"Maui County, HI",88,164221,53.6,53.59
+16001,Ada,Idaho,2020,366,273,75,11,7,0,0,185,72,40,0,22,214,124,6,16,001,"Ada County, Idaho",66293,425 of 3146,"Ada County, ID",283,511931,55.3,55.28
+16005,Bannock,Idaho,2020,362,301,55,2,4,0,0,161,58,37,0,0,140,136,86,16,005,"Bannock County, Idaho",51734,1579 of 3146,"Bannock County, ID",82,88263,92.9,92.9
+16009,Benewah,Idaho,2020,366,272,85,2,4,2,1,371,65,32,0,0,0,366,0,16,009,"Benewah County, Idaho",47556,2032 of 3146,"Benewah County, ID",21,9931,211.5,211.46
+16017,Bonner,Idaho,2020,365,325,30,5,5,0,0,190,52,25,0,0,0,308,57,16,017,"Bonner County, Idaho",50256,1747 of 3146,"Bonner County, ID",51,49491,103.0,103.05
+16019,Bonneville,Idaho,2020,362,326,31,1,4,0,0,154,49,21,0,0,0,362,0,16,019,"Bonneville County, Idaho",60615,729 of 3146,"Bonneville County, ID",104,127930,81.3,81.29
+16027,Canyon,Idaho,2020,366,257,93,10,6,0,0,156,73,33,0,0,0,327,39,16,027,"Canyon County, Idaho",52134,1536 of 3146,"Canyon County, ID",167,243115,68.7,68.69
+16049,Idaho,Idaho,2020,366,293,64,3,6,0,0,191,60,36,0,0,184,182,0,16,049,"Idaho County, Idaho",41516,2598 of 3146,"Idaho County, ID",18,17040,Unreliable,105.63
+16053,Jerome,Idaho,2020,213,213,0,0,0,0,0,37,19,10,0,0,0,213,0,16,053,"Jerome County, Idaho",52921,1425 of 3146,"Jerome County, ID",19,24662,Unreliable,77.04
+16055,Kootenai,Idaho,2020,354,323,23,1,3,3,1,384,48,19,0,0,0,354,0,16,055,"Kootenai County, Idaho",57242,985 of 3146,"Kootenai County, ID",146,179789,81.2,81.21
+16057,Latah,Idaho,2020,361,335,19,0,4,2,1,333,41,16,0,0,0,361,0,16,057,"Latah County, Idaho",49158,1883 of 3146,"Latah County, ID",25,40313,62.0,62.01
+16059,Lemhi,Idaho,2020,365,226,128,8,3,0,0,163,77,35,0,0,0,365,0,16,059,"Lemhi County, Idaho",39324,2762 of 3146,"Lemhi County, ID",11,8162,Unreliable,134.77
+16069,Nez Perce,Idaho,2020,366,309,46,4,3,3,1,363,59,21,0,0,0,366,0,16,069,"Nez Perce County, Idaho",58107,914 of 3146,"Nez Perce County, ID",55,42454,129.6,129.55
+16079,Shoshone,Idaho,2020,366,275,84,0,3,3,1,346,64,30,0,0,0,356,10,16,079,"Shoshone County, Idaho",39386,2756 of 3146,"Shoshone County, ID",26,13612,191.0,191.01
+16083,Twin Falls,Idaho,2020,364,330,27,3,4,0,0,160,48,18,0,0,0,364,0,16,083,"Twin Falls County, Idaho",52919,1426 of 3146,"Twin Falls County, ID",104,92243,112.7,112.75
+17001,Adams,Illinois,2020,244,220,24,0,0,0,0,84,50,38,0,0,244,0,0,17,001,"Adams County, Illinois",52993,1417 of 3146,"Adams County, IL",82,64954,126.2,126.24
+17019,Champaign,Illinois,2020,366,302,62,2,0,0,0,126,56,39,0,0,218,148,0,17,019,"Champaign County, Illinois",52797,1447 of 3146,"Champaign County, IL",118,205943,57.3,57.3
+17023,Clark,Illinois,2020,363,347,16,0,0,0,0,97,45,31,0,0,363,0,0,17,023,"Clark County, Illinois",56531,1057 of 3146,"Clark County, IL",22,15300,143.8,143.79
+17031,Cook,Illinois,2020,366,156,190,16,4,0,0,164,84,53,0,19,116,194,37,17,031,"Cook County, Illinois",64660,482 of 3146,"Cook County, IL",2866,5173146,55.4,55.4
+17043,DuPage,Illinois,2020,366,279,83,3,1,0,0,154,59,41,0,0,164,202,0,17,043,"DuPage County, Illinois",92809,62 of 3146,"DuPage County, IL",469,924885,50.7,50.71
+17049,Effingham,Illinois,2020,166,156,10,0,0,0,0,84,48,37,0,0,166,0,0,17,049,"Effingham County, Illinois",56685,1043 of 3146,"Effingham County, IL",31,34430,90.0,90.04
+17065,Hamilton,Illinois,2020,353,275,77,1,0,0,0,118,56,40,0,0,154,199,0,17,065,"Hamilton County, Illinois",54046,1290 of 3146,"Hamilton County, IL",12,7911,Unreliable,151.69
+17083,Jersey,Illinois,2020,358,307,50,1,0,0,0,112,55,39,0,0,192,166,0,17,083,"Jersey County, Illinois",63028,591 of 3146,"Jersey County, IL",31,21333,145.3,145.31
+17085,Jo Daviess,Illinois,2020,353,337,16,0,0,0,0,87,44,32,0,0,353,0,0,17,085,"Jo Daviess County, Illinois",57946,932 of 3146,"Jo Daviess County, IL",14,21939,Unreliable,63.81
+17089,Kane,Illinois,2020,279,225,47,6,1,0,0,161,64,39,0,0,209,70,0,17,089,"Kane County, Illinois",79394,177 of 3146,"Kane County, IL",264,515588,51.2,51.2
+17097,Lake,Illinois,2020,241,199,31,10,1,0,0,185,74,39,0,0,241,0,0,17,097,"Lake County, Illinois",89427,74 of 3146,"Lake County, IL",376,711239,52.9,52.87
+17111,McHenry,Illinois,2020,334,259,66,9,0,0,0,147,58,40,0,0,136,198,0,17,111,"McHenry County, Illinois",86799,101 of 3146,"McHenry County, IL",182,311122,58.5,58.5
+17113,McLean,Illinois,2020,364,286,75,3,0,0,0,136,58,41,0,0,167,197,0,17,113,"McLean County, Illinois",67675,376 of 3146,"McLean County, IL",104,170889,60.9,60.86
+17115,Macon,Illinois,2020,362,298,64,0,0,0,0,90,55,40,0,0,153,209,0,17,115,"Macon County, Illinois",50480,1717 of 3146,"Macon County, IL",130,102432,126.9,126.91
+17117,Macoupin,Illinois,2020,364,346,18,0,0,0,0,93,45,31,0,129,235,0,0,17,117,"Macoupin County, Illinois",55159,1169 of 3146,"Macoupin County, IL",52,44406,117.1,117.1
+17119,Madison,Illinois,2020,365,213,149,3,0,0,0,112,70,47,0,0,144,219,2,17,119,"Madison County, Illinois",60738,718 of 3146,"Madison County, IL",278,264490,105.1,105.11
+17143,Peoria,Illinois,2020,364,301,62,1,0,0,0,115,57,40,0,0,210,154,0,17,143,"Peoria County, Illinois",55842,1110 of 3146,"Peoria County, IL",169,179432,94.2,94.19
+17157,Randolph,Illinois,2020,366,302,62,2,0,0,0,103,54,38,0,0,170,196,0,17,157,"Randolph County, Illinois",53816,1319 of 3146,"Randolph County, IL",35,30142,116.1,116.12
+17161,Rock Island,Illinois,2020,355,295,59,1,0,0,0,102,56,38,0,0,163,192,0,17,161,"Rock Island County, Illinois",54858,1201 of 3146,"Rock Island County, IL",149,142909,104.3,104.26
+17167,Sangamon,Illinois,2020,364,312,52,0,0,0,0,97,54,39,0,0,192,172,0,17,167,"Sangamon County, Illinois",61912,646 of 3146,"Sangamon County, IL",177,194734,90.9,90.89
+17197,Will,Illinois,2020,363,262,97,3,1,0,0,155,60,42,0,0,145,218,0,17,197,"Will County, Illinois",86961,98 of 3146,"Will County, IL",356,697252,51.1,51.06
+17201,Winnebago,Illinois,2020,366,284,81,1,0,0,0,101,61,39,0,0,144,222,0,17,201,"Winnebago County, Illinois",54489,1244 of 3146,"Winnebago County, IL",321,283119,113.4,113.38
+18003,Allen,Indiana,2020,366,296,68,2,0,0,0,120,58,39,0,0,221,145,0,18,003,"Allen County, Indiana",54857,1202 of 3146,"Allen County, IN",272,388608,70.0,69.99
+18005,Bartholomew,Indiana,2020,366,323,43,0,0,0,0,97,52,37,0,0,258,108,0,18,005,"Bartholomew County, Indiana",63431,562 of 3146,"Bartholomew County, IN",76,82475,92.1,92.15
+18011,Boone,Indiana,2020,352,330,20,2,0,0,0,101,48,32,0,0,352,0,0,18,011,"Boone County, Indiana",83077,130 of 3146,"Boone County, IN",44,73052,60.2,60.23
+18013,Brown,Indiana,2020,364,349,15,0,0,0,0,80,44,33,0,0,364,0,0,18,013,"Brown County, Indiana",61030,697 of 3146,"Brown County, IN",17,15552,Unreliable,109.31
+18015,Carroll,Indiana,2020,364,352,12,0,0,0,0,100,44,31,0,0,364,0,0,18,015,"Carroll County, Indiana",54806,1206 of 3146,"Carroll County, IN",21,20444,102.7,102.72
+18019,Clark,Indiana,2020,366,269,97,0,0,0,0,91,58,42,0,0,161,205,0,18,019,"Clark County, Indiana",55630,1127 of 3146,"Clark County, IN",142,122738,115.7,115.69
+18035,Delaware,Indiana,2020,365,330,35,0,0,0,0,97,50,35,0,0,315,50,0,18,035,"Delaware County, Indiana",43512,2421 of 3146,"Delaware County, IN",159,111871,142.1,142.13
+18037,Dubois,Indiana,2020,123,104,19,0,0,0,0,67,54,33,0,0,0,121,2,18,037,"Dubois County, Indiana",60666,725 of 3146,"Dubois County, IN",35,43549,80.4,80.37
+18039,Elkhart,Indiana,2020,366,314,50,0,2,0,0,158,54,36,0,0,221,145,0,18,039,"Elkhart County, Indiana",57021,1013 of 3146,"Elkhart County, IN",164,206921,79.3,79.26
+18043,Floyd,Indiana,2020,363,347,15,1,0,0,0,143,44,32,0,0,363,0,0,18,043,"Floyd County, Indiana",64468,499 of 3146,"Floyd County, IN",82,80454,101.9,101.92
+18055,Greene,Indiana,2020,361,328,33,0,0,0,0,90,50,34,0,0,323,38,0,18,055,"Greene County, Indiana",51613,1596 of 3146,"Greene County, IN",39,30786,126.7,126.68
+18057,Hamilton,Indiana,2020,366,315,51,0,0,0,0,97,54,38,0,0,221,145,0,18,057,"Hamilton County, Indiana",98173,44 of 3146,"Hamilton County, IN",174,356650,48.8,48.79
+18063,Hendricks,Indiana,2020,366,348,18,0,0,0,0,87,45,32,0,0,366,0,0,18,063,"Hendricks County, Indiana",81933,146 of 3146,"Hendricks County, IN",132,179355,73.6,73.6
+18065,Henry,Indiana,2020,118,105,13,0,0,0,0,63,51,29,0,0,0,118,0,18,065,"Henry County, Indiana",49832,1807 of 3146,"Henry County, IN",63,48935,128.7,128.74
+18067,Howard,Indiana,2020,366,319,46,1,0,0,0,108,53,38,0,0,257,109,0,18,067,"Howard County, Indiana",52373,1496 of 3146,"Howard County, IN",123,83687,147.0,146.98
+18083,Knox,Indiana,2020,351,328,22,1,0,0,0,105,48,33,0,0,351,0,0,18,083,"Knox County, Indiana",47380,2054 of 3146,"Knox County, IN",53,35956,147.4,147.4
+18089,Lake,Indiana,2020,366,243,117,6,0,0,0,136,64,44,0,4,154,199,9,18,089,"Lake County, Indiana",56128,1085 of 3146,"Lake County, IN",462,498558,92.7,92.67
+18091,LaPorte,Indiana,2020,366,310,49,6,1,0,0,154,61,37,0,0,324,42,0,18,091,"LaPorte County, Indiana",53658,1332 of 3146,"La Porte County, IN",125,112390,111.2,111.22
+18095,Madison,Indiana,2020,366,305,61,0,0,0,0,97,55,39,0,0,198,168,0,18,095,"Madison County, Indiana",49522,1841 of 3146,"Madison County, IN",185,130782,141.5,141.46
+18097,Marion,Indiana,2020,366,196,164,6,0,0,0,144,68,48,0,2,108,252,4,18,097,"Marion County, Indiana",48316,1957 of 3146,"Marion County, IN",789,971102,81.2,81.25
+18105,Monroe,Indiana,2020,357,315,42,0,0,0,0,69,51,31,0,0,0,357,0,18,105,"Monroe County, Indiana",49839,1804 of 3146,"Monroe County, IN",81,139875,57.9,57.91
+18123,Perry,Indiana,2020,366,352,13,1,0,0,0,105,45,34,0,0,366,0,0,18,123,"Perry County, Indiana",52348,1502 of 3146,"Perry County, IN",22,19316,113.9,113.9
+18127,Porter,Indiana,2020,366,304,56,5,1,0,0,151,58,39,0,0,259,96,11,18,127,"Porter County, Indiana",71152,295 of 3146,"Porter County, IN",175,174243,100.4,100.43
+18129,Posey,Indiana,2020,355,336,18,1,0,0,0,112,45,31,0,0,355,0,0,18,129,"Posey County, Indiana",64196,514 of 3146,"Posey County, IN",26,25116,103.5,103.52
+18141,St. Joseph,Indiana,2020,366,272,89,4,1,0,0,162,62,41,0,1,209,156,0,18,141,"St. Joseph County, Indiana",52769,1449 of 3146,"St. Joseph County, IN",238,272212,87.4,87.43
+18145,Shelby,Indiana,2020,366,347,18,1,0,0,0,115,46,32,0,0,366,0,0,18,145,"Shelby County, Indiana",60404,741 of 3146,"Shelby County, IN",46,45039,102.1,102.13
+18147,Spencer,Indiana,2020,122,106,16,0,0,0,0,63,53,32,0,0,0,122,0,18,147,"Spencer County, Indiana",57305,980 of 3146,"Spencer County, IN",23,19798,116.2,116.17
+18153,Sullivan,Indiana,2020,31,27,4,0,0,0,0,53,51,29,0,0,0,31,0,18,153,"Sullivan County, Indiana",50245,1750 of 3146,"Sullivan County, IN",21,20758,101.2,101.17
+18157,Tippecanoe,Indiana,2020,348,255,93,0,0,0,0,69,56,39,0,0,0,348,0,18,157,"Tippecanoe County, Indiana",53130,1399 of 3146,"Tippecanoe County, IN",126,187076,67.4,67.35
+18163,Vanderburgh,Indiana,2020,366,298,66,2,0,0,0,101,57,39,0,0,224,142,0,18,163,"Vanderburgh County, Indiana",49708,1813 of 3146,"Vanderburgh County, IN",231,179987,128.3,128.34
+18167,Vigo,Indiana,2020,366,295,70,1,0,0,0,112,57,40,0,0,212,154,0,18,167,"Vigo County, Indiana",45230,2265 of 3146,"Vigo County, IN",154,105994,145.3,145.29
+18169,Wabash,Indiana,2020,363,337,26,0,0,0,0,97,49,35,0,0,363,0,0,18,169,"Wabash County, Indiana",54259,1266 of 3146,"Wabash County, IN",49,30816,159.0,159.01
+18173,Warrick,Indiana,2020,366,347,17,2,0,0,0,112,47,33,0,0,366,0,0,18,173,"Warrick County, Indiana",73482,256 of 3146,"Warrick County, IN",77,64514,119.4,119.35
+18183,Whitley,Indiana,2020,336,260,76,0,0,0,0,76,56,39,0,0,0,336,0,18,183,"Whitley County, Indiana",61741,655 of 3146,"Whitley County, IN",36,34430,104.6,104.56
+19013,Black Hawk,Iowa,2020,366,311,55,0,0,0,0,91,53,32,0,0,0,366,0,19,013,"Black Hawk County, Iowa",53539,1347 of 3146,"Black Hawk County, IA",126,130368,96.6,96.65
+19017,Bremer,Iowa,2020,244,232,12,0,0,0,0,87,45,35,0,0,244,0,0,19,017,"Bremer County, Iowa",70395,312 of 3146,"Bremer County, IA",13,25081,Unreliable,51.83
+19033,Cerro Gordo,Iowa,2020,122,120,2,0,0,0,0,60,37,18,0,0,0,0,122,19,033,"Cerro Gordo County, Iowa",53963,1300 of 3146,"Cerro Gordo County, IA",31,42706,72.6,72.59
+19045,Clinton,Iowa,2020,324,256,68,0,0,0,0,87,58,39,0,0,173,151,0,19,045,"Clinton County, Iowa",51688,1584 of 3146,"Clinton County, IA",44,46463,94.7,94.7
+19085,Harrison,Iowa,2020,242,223,19,0,0,0,0,87,49,37,0,0,242,0,0,19,085,"Harrison County, Iowa",63854,533 of 3146,"Harrison County, IA",25,14669,170.4,170.43
+19103,Johnson,Iowa,2020,362,270,91,1,0,0,0,105,58,35,0,0,0,362,0,19,103,"Johnson County, Iowa",62542,620 of 3146,"Johnson County, IA",52,154748,33.6,33.6
+19111,Lee,Iowa,2020,118,105,13,0,0,0,0,73,52,30,0,0,0,118,0,19,111,"Lee County, Iowa",49564,1834 of 3146,"Lee County, IA",28,33215,84.3,84.3
+19113,Linn,Iowa,2020,366,276,89,1,0,0,0,105,59,40,0,0,137,229,0,19,113,"Linn County, Iowa",64903,470 of 3146,"Linn County, IA",161,228939,70.3,70.32
+19137,Montgomery,Iowa,2020,366,327,39,0,0,0,0,76,51,35,0,0,177,189,0,19,137,"Montgomery County, Iowa",51696,1583 of 3146,"Montgomery County, IA",22,10322,213.1,213.14
+19139,Muscatine,Iowa,2020,366,309,56,1,0,0,0,124,54,30,0,0,0,359,7,19,139,"Muscatine County, Iowa",58453,886 of 3146,"Muscatine County, IA",45,42688,105.4,105.42
+19147,Palo Alto,Iowa,2020,366,327,39,0,0,0,0,87,51,36,0,0,192,174,0,19,147,"Palo Alto County, Iowa",52932,1423 of 3146,"Palo Alto County, IA",13,8906,Unreliable,145.97
+19153,Polk,Iowa,2020,366,308,56,0,2,0,0,186,54,36,0,13,180,172,1,19,153,"Polk County, Iowa",67637,378 of 3146,"Polk County, IA",288,496844,58.0,57.97
+19155,Pottawattamie,Iowa,2020,124,110,14,0,0,0,0,77,52,31,0,0,0,111,13,19,155,"Pottawattamie County, Iowa",60065,779 of 3146,"Pottawattamie County, IA",100,93304,107.2,107.18
+19163,Scott,Iowa,2020,366,230,133,2,1,0,0,155,63,44,0,0,111,152,103,19,163,"Scott County, Iowa",61183,686 of 3146,"Scott County, IA",182,174170,104.5,104.5
+19193,Woodbury,Iowa,2020,122,110,12,0,0,0,0,79,50,29,0,0,0,122,0,19,193,"Woodbury County, Iowa",59224,833 of 3146,"Woodbury County, IA",101,105607,95.6,95.64
+20057,Ford,Kansas,2020,302,297,5,0,0,0,0,79,29,11,0,0,0,0,302,20,057,"Ford County, Kansas",51711,1582 of 3146,"Ford County, KS",15,34159,Unreliable,43.91
+20091,Johnson,Kansas,2020,365,308,56,1,0,0,0,117,56,36,0,0,213,149,3,20,091,"Johnson County, Kansas",89087,80 of 3146,"Johnson County, KS",352,613219,57.4,57.4
+20103,Leavenworth,Kansas,2020,366,356,10,0,0,0,0,77,44,32,0,0,366,0,0,20,103,"Leavenworth County, Kansas",73013,260 of 3146,"Leavenworth County, KS",75,82184,91.3,91.26
+20133,Neosho,Kansas,2020,366,304,60,2,0,0,0,106,54,39,0,0,184,170,12,20,133,"Neosho County, Kansas",46291,2168 of 3146,"Neosho County, KS",21,15784,133.0,133.05
+20173,Sedgwick,Kansas,2020,366,321,42,3,0,0,0,114,54,38,0,4,293,59,10,20,173,"Sedgwick County, Kansas",56524,1059 of 3146,"Sedgwick County, KS",445,523828,85.0,84.95
+20177,Shawnee,Kansas,2020,366,296,66,2,2,0,0,169,58,39,0,0,195,166,5,20,177,"Shawnee County, Kansas",56762,1035 of 3146,"Shawnee County, KS",161,178264,90.3,90.32
+20191,Sumner,Kansas,2020,366,286,77,3,0,0,0,117,59,40,0,1,195,146,24,20,191,"Sumner County, Kansas",55000,1182 of 3146,"Sumner County, KS",23,22385,102.7,102.75
+20209,Wyandotte,Kansas,2020,366,233,128,5,0,0,0,116,63,44,0,6,112,238,10,20,209,"Wyandotte County, Kansas",46881,2107 of 3146,"Wyandotte County, KS",122,167046,73.0,73.03
+21013,Bell,Kentucky,2020,263,256,7,0,0,0,0,71,46,33,0,0,232,31,0,21,013,"Bell County, Kentucky",26272,3131 of 3146,"Bell County, KY",59,23858,247.3,247.3
+21015,Boone,Kentucky,2020,242,218,24,0,0,0,0,87,50,36,0,0,242,0,0,21,015,"Boone County, Kentucky",78327,186 of 3146,"Boone County, KY",85,137412,61.9,61.86
+21019,Boyd,Kentucky,2020,366,324,42,0,0,0,0,88,51,36,0,7,194,164,1,21,019,"Boyd County, Kentucky",48308,1959 of 3146,"Boyd County, KY",54,47899,112.7,112.74
+21029,Bullitt,Kentucky,2020,240,224,15,1,0,0,0,115,48,37,0,0,240,0,0,21,029,"Bullitt County, Kentucky",63348,570 of 3146,"Bullitt County, KY",83,82918,100.1,100.1
+21037,Campbell,Kentucky,2020,366,306,60,0,0,0,0,93,54,39,0,3,182,181,0,21,037,"Campbell County, Kentucky",63050,588 of 3146,"Campbell County, KY",72,93050,77.4,77.38
+21043,Carter,Kentucky,2020,285,283,2,0,0,0,0,59,44,31,0,0,230,54,1,21,043,"Carter County, Kentucky",34736,2990 of 3146,"Carter County, KY",44,26412,166.6,166.59
+21047,Christian,Kentucky,2020,320,288,32,0,0,0,0,83,51,38,0,0,199,121,0,21,047,"Christian County, Kentucky",43919,2381 of 3146,"Christian County, KY",76,72357,105.0,105.03
+21059,Daviess,Kentucky,2020,366,308,57,1,0,0,0,105,54,38,0,3,184,179,0,21,059,"Daviess County, Kentucky",51673,1587 of 3146,"Daviess County, KY",98,103063,95.1,95.09
+21061,Edmonson,Kentucky,2020,365,357,8,0,0,0,0,64,45,33,4,0,346,15,0,21,061,"Edmonson County, Kentucky",43401,2430 of 3146,"Edmonson County, KY",23,12291,187.1,187.13
+21067,Fayette,Kentucky,2020,366,328,38,0,0,0,0,84,51,38,0,11,177,178,0,21,067,"Fayette County, Kentucky",57291,981 of 3146,"Fayette County, KY",207,321793,64.3,64.33
+21089,Greenup,Kentucky,2020,243,241,2,0,0,0,0,61,44,33,0,0,243,0,0,21,089,"Greenup County, Kentucky",51655,1591 of 3146,"Greenup County, KY",52,35649,145.9,145.87
+21091,Hancock,Kentucky,2020,245,233,12,0,0,0,0,97,47,37,0,0,245,0,0,21,091,"Hancock County, Kentucky",57217,989 of 3146,"Hancock County, KY",12,9064,Unreliable,132.39
+21093,Hardin,Kentucky,2020,366,328,38,0,0,0,0,80,51,38,0,0,188,178,0,21,093,"Hardin County, Kentucky",54367,1252 of 3146,"Hardin County, KY",89,111607,79.7,79.74
+21111,Jefferson,Kentucky,2020,366,239,120,7,0,0,0,115,61,45,0,10,160,196,0,21,111,"Jefferson County, Kentucky",56586,1050 of 3146,"Jefferson County, KY",655,777874,84.2,84.2
+21113,Jessamine,Kentucky,2020,243,232,11,0,0,0,0,77,47,37,0,0,243,0,0,21,113,"Jessamine County, Kentucky",58245,902 of 3146,"Jessamine County, KY",60,53626,111.9,111.89
+21139,Livingston,Kentucky,2020,248,235,12,1,0,0,0,105,47,37,0,0,239,0,9,21,139,"Livingston County, Kentucky",50839,1669 of 3146,"Livingston County, KY",16,8959,Unreliable,178.59
+21145,McCracken,Kentucky,2020,366,299,66,1,0,0,0,111,57,39,0,7,166,193,0,21,145,"McCracken County, Kentucky",46080,2190 of 3146,"McCracken County, KY",118,67454,174.9,174.93
+21175,Morgan,Kentucky,2020,365,361,4,0,0,0,0,64,44,33,0,0,365,0,0,21,175,"Morgan County, Kentucky",36134,2938 of 3146,"Morgan County, KY",14,13820,Unreliable,101.3
+21185,Oldham,Kentucky,2020,239,218,21,0,0,0,0,97,49,38,0,0,239,0,0,21,185,"Oldham County, Kentucky",99128,43 of 3146,"Oldham County, KY",25,68685,36.4,36.4
+21193,Perry,Kentucky,2020,364,335,29,0,0,0,0,99,48,34,0,0,159,205,0,21,193,"Perry County, Kentucky",33640,3019 of 3146,"Perry County, KY",48,27929,171.9,171.86
+21195,Pike,Kentucky,2020,365,351,14,0,0,0,0,92,45,32,0,0,178,187,0,21,195,"Pike County, Kentucky",34856,2985 of 3146,"Pike County, KY",110,57391,191.7,191.67
+21199,Pulaski,Kentucky,2020,283,265,18,0,0,0,0,77,48,36,0,0,221,62,0,21,199,"Pulaski County, Kentucky",39998,2717 of 3146,"Pulaski County, KY",79,65423,120.8,120.75
+21213,Simpson,Kentucky,2020,221,217,4,0,0,0,0,67,46,36,0,0,221,0,0,21,213,"Simpson County, Kentucky",48623,1929 of 3146,"Simpson County, KY",13,19718,Unreliable,65.93
+21221,Trigg,Kentucky,2020,362,350,12,0,0,0,0,84,45,34,0,0,362,0,0,21,221,"Trigg County, Kentucky",50536,1708 of 3146,"Trigg County, KY",19,14192,Unreliable,133.88
+21227,Warren,Kentucky,2020,366,313,53,0,0,0,0,97,53,38,0,0,143,223,0,21,227,"Warren County, Kentucky",52270,1516 of 3146,"Warren County, KY",96,137212,70.0,69.96
+21229,Washington,Kentucky,2020,364,352,12,0,0,0,0,77,46,34,0,0,364,0,0,21,229,"Washington County, Kentucky",53743,1321 of 3146,"Washington County, KY",13,12072,Unreliable,107.69
+22005,Ascension,Louisiana,2020,364,350,14,0,0,0,0,100,46,31,0,6,358,0,0,22,005,"Ascension Parish, Louisiana",80527,160 of 3146,"Ascension Parish, LA",60,128369,46.7,46.74
+22015,Bossier,Louisiana,2020,362,312,49,1,0,0,0,105,53,36,0,0,214,142,6,22,015,"Bossier Parish, Louisiana",54268,1265 of 3146,"Bossier Parish, LA",112,129144,86.7,86.72
+22017,Caddo,Louisiana,2020,349,317,31,1,0,0,0,126,49,34,0,0,275,74,0,22,017,"Caddo Parish, Louisiana",41797,2575 of 3146,"Caddo Parish, LA",264,233092,113.3,113.26
+22019,Calcasieu,Louisiana,2020,349,258,90,1,0,0,0,116,61,41,0,2,167,180,0,22,019,"Calcasieu Parish, Louisiana",51148,1645 of 3146,"Calcasieu Parish, LA",169,205282,82.3,82.33
+22033,East Baton Rouge,Louisiana,2020,366,306,57,3,0,0,0,119,54,38,0,6,201,159,0,22,033,"East Baton Rouge Parish, Louisiana",54948,1190 of 3146,"East Baton Rouge Parish, LA",274,453301,60.4,60.45
+22047,Iberville,Louisiana,2020,366,321,42,3,0,0,0,136,54,36,0,0,331,35,0,22,047,"Iberville Parish, Louisiana",50161,1764 of 3146,"Iberville Parish, LA",21,29824,70.4,70.41
+22051,Jefferson,Louisiana,2020,366,308,58,0,0,0,0,87,54,36,0,2,267,97,0,22,051,"Jefferson Parish, Louisiana",54032,1291 of 3146,"Jefferson Parish, LA",374,433688,86.2,86.24
+22055,Lafayette,Louisiana,2020,364,274,89,1,0,0,0,120,59,40,0,0,191,172,1,22,055,"Lafayette Parish, Louisiana",56999,1016 of 3146,"Lafayette Parish, LA",113,244205,46.3,46.27
+22057,Lafourche,Louisiana,2020,366,289,76,1,0,0,0,115,56,39,0,0,162,204,0,22,057,"LaFourche Parish, Louisiana",55506,1137 of 3146,"Lafourche Parish, LA",99,97504,101.5,101.53
+22063,Livingston,Louisiana,2020,355,273,81,1,0,0,0,105,58,39,0,0,157,198,0,22,063,"Livingston Parish, Louisiana",63389,566 of 3146,"Livingston Parish, LA",130,145830,89.1,89.14
+22071,Orleans,Louisiana,2020,366,333,33,0,0,0,0,88,47,28,2,120,0,230,14,22,071,"Orleans Parish, Louisiana",41604,2593 of 3146,"Orleans Parish, LA",199,376971,52.8,52.79
+22073,Ouachita,Louisiana,2020,362,343,18,1,0,0,0,111,45,32,0,0,311,51,0,22,073,"Ouachita Parish, Louisiana",41121,2632 of 3146,"Ouachita Parish, LA",128,158768,80.6,80.62
+22077,Pointe Coupee,Louisiana,2020,362,343,19,0,0,0,0,100,45,32,0,0,362,0,0,22,077,"Pointe Coupee Parish, Louisiana",41480,2604 of 3146,"Pointe Coupee Parish, LA",25,20356,122.8,122.81
+22079,Rapides,Louisiana,2020,121,111,9,1,0,0,0,103,49,26,0,0,0,121,0,22,079,"Rapides Parish, Louisiana",47269,2067 of 3146,"Rapides Parish, LA",178,128654,138.4,138.36
+22087,St. Bernard,Louisiana,2020,357,295,62,0,0,0,0,84,54,39,0,0,213,142,2,22,087,"St. Bernard Parish, Louisiana",44661,2315 of 3146,"St. Bernard Parish, LA",35,44258,79.1,79.08
+22093,St. James,Louisiana,2020,357,351,6,0,0,0,0,90,44,29,0,0,357,0,0,22,093,"St. James Parish, Louisiana",51603,1598 of 3146,"St. James Parish, LA",19,19742,Unreliable,96.24
+22095,St. John the Baptist,Louisiana,2020,351,341,10,0,0,0,0,80,45,31,0,0,351,0,0,22,095,"St. John the Baptist Parish, Louisiana",57429,974 of 3146,"St. John the Baptist Parish, LA",32,42094,76.0,76.02
+22099,St. Martin,Louisiana,2020,358,337,21,0,0,0,0,87,48,33,0,0,358,0,0,22,099,"St. Martin Parish, Louisiana",48656,1925 of 3146,"St. Martin Parish, LA",48,51540,93.1,93.13
+22103,St. Tammany,Louisiana,2020,364,317,47,0,0,0,0,90,52,36,0,0,243,121,0,22,103,"St. Tammany Parish, Louisiana",68905,347 of 3146,"St. Tammany Parish, LA",263,269388,97.6,97.63
+22105,Tangipahoa,Louisiana,2020,121,110,11,0,0,0,0,64,49,26,0,0,0,121,0,22,105,"Tangipahoa Parish, Louisiana",47832,2006 of 3146,"Tangipahoa Parish, LA",108,135217,79.9,79.87
+22109,Terrebonne,Louisiana,2020,120,110,10,0,0,0,0,74,50,27,0,0,0,120,0,22,109,"Terrebonne Parish, Louisiana",48747,1918 of 3146,"Terrebonne Parish, LA",95,108708,87.4,87.39
+22121,West Baton Rouge,Louisiana,2020,366,302,61,3,0,0,0,101,58,37,0,6,174,186,0,22,121,"West Baton Rouge Parish, Louisiana",65385,454 of 3146,"West Baton Rouge Parish, LA",26,27792,93.6,93.55
+23001,Androscoggin,Maine,2020,360,344,16,0,0,0,0,66,44,29,0,0,191,164,5,23,001,"Androscoggin County, Maine",53509,1349 of 3146,"Androscoggin County, ME",116,111034,104.5,104.47
+23003,Aroostook,Maine,2020,366,341,24,0,1,0,0,189,47,33,0,0,263,86,17,23,003,"Aroostook County, Maine",41123,2631 of 3146,"Aroostook County, ME",134,66859,200.4,200.42
+23005,Cumberland,Maine,2020,366,320,46,0,0,0,0,97,53,38,0,12,240,113,1,23,005,"Cumberland County, Maine",73072,259 of 3146,"Cumberland County, ME",235,305231,77.0,76.99
+23009,Hancock,Maine,2020,366,339,26,1,0,0,0,105,48,35,0,0,359,7,0,23,009,"Hancock County, Maine",57178,998 of 3146,"Hancock County, ME",65,56192,115.7,115.67
+23011,Kennebec,Maine,2020,230,227,3,0,0,0,0,64,44,35,0,4,196,29,1,23,011,"Kennebec County, Maine",55365,1148 of 3146,"Kennebec County, ME",109,124486,87.6,87.56
+23013,Knox,Maine,2020,148,142,6,0,0,0,0,71,45,31,0,0,148,0,0,23,013,"Knox County, Maine",57751,949 of 3146,"Knox County, ME",55,41084,133.9,133.87
+23017,Oxford,Maine,2020,324,313,11,0,0,0,0,65,44,33,0,0,226,98,0,23,017,"Oxford County, Maine",49204,1877 of 3146,"Oxford County, ME",68,58629,116.0,115.98
+23019,Penobscot,Maine,2020,363,352,11,0,0,0,0,73,44,29,0,0,208,152,3,23,019,"Penobscot County, Maine",50808,1673 of 3146,"Penobscot County, ME",150,152765,98.2,98.19
+23029,Washington,Maine,2020,353,351,2,0,0,0,0,61,44,33,0,0,348,5,0,23,029,"Washington County, Maine",41347,2617 of 3146,"Washington County, ME",52,31121,167.1,167.09
+23031,York,Maine,2020,235,223,12,0,0,0,0,87,47,39,0,0,235,0,0,23,031,"York County, Maine",67830,370 of 3146,"York County, ME",157,214591,73.2,73.16
+24003,Anne Arundel,Maryland,2020,262,235,25,2,0,0,0,108,51,39,0,0,240,0,22,24,003,"Anne Arundel County, Maryland",100798,35 of 3146,"Anne Arundel County, MD",266,590336,45.1,45.06
+24005,Baltimore,Maryland,2020,365,306,57,2,0,0,0,105,57,39,0,22,238,105,0,24,005,"Baltimore County, Maryland",76866,206 of 3146,"Baltimore County, MD",573,849316,67.5,67.47
+24009,Calvert,Maryland,2020,238,235,3,0,0,0,0,67,44,35,0,0,238,0,0,24,009,"Calvert County, Maryland",109313,19 of 3146,"Calvert County, MD",42,93928,44.7,44.72
+24013,Carroll,Maryland,2020,242,225,17,0,0,0,0,84,49,39,0,0,242,0,0,24,013,"Carroll County, Maryland",96769,50 of 3146,"Carroll County, MD",153,173873,88.0,88
+24015,Cecil,Maryland,2020,357,329,28,0,0,0,0,97,49,34,0,0,223,134,0,24,015,"Cecil County, Maryland",76887,203 of 3146,"Cecil County, MD",88,103905,84.7,84.69
+24017,Charles,Maryland,2020,236,235,1,0,0,0,0,58,44,34,0,0,236,0,0,24,017,"Charles County, Maryland",100003,38 of 3146,"Charles County, MD",86,168698,51.0,50.98
+24019,Dorchester,Maryland,2020,365,351,14,0,0,0,0,84,47,35,0,0,343,22,0,24,019,"Dorchester County, Maryland",52917,1427 of 3146,"Dorchester County, MD",32,32489,98.5,98.49
+24021,Frederick,Maryland,2020,237,217,20,0,0,0,0,90,49,40,0,0,237,0,0,24,021,"Frederick County, Maryland",97730,46 of 3146,"Frederick County, MD",157,279835,56.1,56.1
+24023,Garrett,Maryland,2020,365,355,10,0,0,0,0,71,46,36,0,0,344,21,0,24,023,"Garrett County, Maryland",52617,1470 of 3146,"Garrett County, MD",27,28702,94.1,94.07
+24025,Harford,Maryland,2020,357,308,48,1,0,0,0,119,55,38,0,0,226,131,0,24,025,"Harford County, Maryland",89147,77 of 3146,"Harford County, MD",209,262977,79.5,79.47
+24027,Howard,Maryland,2020,364,348,16,0,0,0,0,68,44,28,5,119,0,240,0,24,027,"Howard County, Maryland",121160,7 of 3146,"Howard County, MD",120,334529,35.9,35.87
+24029,Kent,Maryland,2020,359,346,13,0,0,0,0,100,46,33,0,0,235,124,0,24,029,"Kent County, Maryland",58598,877 of 3146,"Kent County, MD",18,19270,Unreliable,93.41
+24031,Montgomery,Maryland,2020,355,333,22,0,0,0,0,77,45,33,0,0,214,141,0,24,031,"Montgomery County, Maryland",108820,20 of 3146,"Montgomery County, MD",461,1054827,43.7,43.7
+24033,Prince George's,Maryland,2020,366,333,32,1,0,0,0,105,50,37,0,4,307,55,0,24,033,"Prince Georges County, Maryland",84920,117 of 3146,"Prince George's County, MD",342,955306,35.8,35.8
+24043,Washington,Maryland,2020,359,319,40,0,0,0,0,81,51,37,0,0,216,143,0,24,043,"Washington County, Maryland",60860,712 of 3146,"Washington County, MD",140,154937,90.4,90.36
+25001,Barnstable,Massachusetts,2020,351,340,9,2,0,0,0,108,45,35,0,0,346,5,0,25,001,"Barnstable County, Massachusetts",74336,240 of 3146,"Barnstable County, MA",265,232411,114.0,114.02
+25003,Berkshire,Massachusetts,2020,366,327,39,0,0,0,0,94,52,36,0,0,242,124,0,25,003,"Berkshire County, Massachusetts",59230,832 of 3146,"Berkshire County, MA",132,128657,102.6,102.6
+25005,Bristol,Massachusetts,2020,366,315,48,3,0,0,0,119,53,39,0,0,277,89,0,25,005,"Bristol County, Massachusetts",69095,342 of 3146,"Bristol County, MA",562,580164,96.9,96.87
+25007,Dukes,Massachusetts,2020,357,347,9,1,0,0,0,126,45,36,0,0,349,8,0,25,007,"Dukes County, Massachusetts",71811,281 of 3146,"Dukes County, MA",12,21097,Unreliable,56.88
+25009,Essex,Massachusetts,2020,366,330,36,0,0,0,0,97,50,37,0,6,257,103,0,25,009,"Essex County, Massachusetts",79263,180 of 3146,"Essex County, MA",588,807074,72.9,72.86
+25011,Franklin,Massachusetts,2020,365,315,50,0,0,0,0,96,55,37,0,0,193,172,0,25,011,"Franklin County, Massachusetts",60950,704 of 3146,"Franklin County, MA",59,71015,83.1,83.08
+25013,Hampden,Massachusetts,2020,366,313,53,0,0,0,0,99,55,39,0,7,205,154,0,25,013,"Hampden County, Massachusetts",55429,1142 of 3146,"Hampden County, MA",427,462718,92.3,92.28
+25015,Hampshire,Massachusetts,2020,366,341,25,0,0,0,0,84,48,35,0,9,264,92,1,25,015,"Hampshire County, Massachusetts",70876,301 of 3146,"Hampshire County, MA",95,161572,58.8,58.8
+25017,Middlesex,Massachusetts,2020,366,340,26,0,0,0,0,93,48,36,0,18,253,95,0,25,017,"Middlesex County, Massachusetts",102603,28 of 3146,"Middlesex County, MA",899,1614742,55.7,55.67
+25021,Norfolk,Massachusetts,2020,366,352,14,0,0,0,0,71,43,32,0,8,284,74,0,25,021,"Norfolk County, Massachusetts",103291,26 of 3146,"Norfolk County, MA",440,724505,60.7,60.73
+25023,Plymouth,Massachusetts,2020,366,328,38,0,0,0,0,80,51,37,0,0,235,131,0,25,023,"Plymouth County, Massachusetts",89489,73 of 3146,"Plymouth County, MA",446,533003,83.7,83.68
+25025,Suffolk,Massachusetts,2020,366,326,40,0,0,0,0,84,51,37,0,33,130,203,0,25,025,"Suffolk County, Massachusetts",69669,329 of 3146,"Suffolk County, MA",318,771245,41.2,41.23
+25027,Worcester,Massachusetts,2020,366,319,47,0,0,0,0,90,52,38,0,12,223,131,0,25,027,"Worcester County, Massachusetts",74679,232 of 3146,"Worcester County, MA",672,862029,78.0,77.96
+26005,Allegan,Michigan,2020,359,311,42,6,0,0,0,136,54,36,0,0,241,118,0,26,005,"Allegan County, Michigan",62965,599 of 3146,"Allegan County, MI",105,120950,86.8,86.81
+26017,Bay,Michigan,2020,365,350,15,0,0,0,0,74,39,17,0,0,0,365,0,26,017,"Bay County, Michigan",48819,1908 of 3146,"Bay County, MI",109,102985,105.8,105.84
+26019,Benzie,Michigan,2020,262,244,16,1,1,0,0,164,47,36,0,0,262,0,0,26,019,"Benzie County, Michigan",57974,928 of 3146,"Benzie County, MI",19,18223,Unreliable,104.26
+26021,Berrien,Michigan,2020,258,217,34,7,0,0,0,150,61,38,0,0,258,0,0,26,021,"Berrien County, Michigan",50795,1674 of 3146,"Berrien County, MI",133,153101,86.9,86.87
+26027,Cass,Michigan,2020,253,212,36,5,0,0,0,122,61,39,0,0,253,0,0,26,027,"Cass County, Michigan",55107,1174 of 3146,"Cass County, MI",62,51483,120.4,120.43
+26037,Clinton,Michigan,2020,256,244,12,0,0,0,0,93,46,34,0,0,256,0,0,26,037,"Clinton County, Michigan",70390,313 of 3146,"Clinton County, MI",53,79426,66.7,66.73
+26049,Genesee,Michigan,2020,366,322,43,1,0,0,0,126,52,35,0,0,242,124,0,26,049,"Genesee County, Michigan",48588,1933 of 3146,"Genesee County, MI",423,404208,104.6,104.65
+26063,Huron,Michigan,2020,266,246,13,7,0,0,0,150,48,36,0,0,266,0,0,26,063,"Huron County, Michigan",48289,1961 of 3146,"Huron County, MI",29,31252,92.8,92.79
+26065,Ingham,Michigan,2020,366,329,36,0,1,0,0,151,51,34,0,10,277,79,0,26,065,"Ingham County, Michigan",52872,1436 of 3146,"Ingham County, MI",188,284034,66.2,66.19
+26077,Kalamazoo,Michigan,2020,323,269,48,6,0,0,0,115,58,38,0,0,224,99,0,26,077,"Kalamazoo County, Michigan",56511,1060 of 3146,"Kalamazoo County, MI",181,261108,69.3,69.32
+26081,Kent,Michigan,2020,365,302,55,7,1,0,0,153,58,36,1,0,288,76,0,26,081,"Kent County, Michigan",63053,587 of 3146,"Kent County, MI",359,658046,54.6,54.56
+26091,Lenawee,Michigan,2020,366,296,68,2,0,0,0,122,57,38,0,0,199,167,0,26,091,"Lenawee County, Michigan",55450,1141 of 3146,"Lenawee County, MI",124,98956,125.3,125.31
+26099,Macomb,Michigan,2020,299,258,29,12,0,0,0,126,60,36,0,0,260,39,0,26,099,"Macomb County, Michigan",62855,604 of 3146,"Macomb County, MI",728,876792,83.0,83.03
+26101,Manistee,Michigan,2020,139,133,6,0,0,0,0,80,41,28,0,0,69,70,0,26,101,"Manistee County, Michigan",50055,1777 of 3146,"Manistee County, MI",35,25350,138.1,138.07
+26105,Mason,Michigan,2020,251,229,20,1,1,0,0,159,49,37,0,0,251,0,0,26,105,"Mason County, Michigan",51725,1581 of 3146,"Mason County, MI",37,29383,125.9,125.92
+26113,Missaukee,Michigan,2020,365,320,44,1,0,0,0,105,52,36,0,13,202,150,0,26,113,"Missaukee County, Michigan",47194,2082 of 3146,"Missaukee County, MI",28,15130,185.1,185.06
+26115,Monroe,Michigan,2020,61,58,3,0,0,0,0,66,40,17,0,0,0,0,61,26,115,"Monroe County, Michigan",62203,636 of 3146,"Monroe County, MI",175,155274,112.7,112.7
+26121,Muskegon,Michigan,2020,248,210,32,6,0,0,0,143,64,37,0,0,248,0,0,26,121,"Muskegon County, Michigan",50854,1668 of 3146,"Muskegon County, MI",148,176511,83.8,83.85
+26125,Oakland,Michigan,2020,298,254,38,6,0,0,0,126,59,36,0,0,247,51,0,26,125,"Oakland County, Michigan",79698,174 of 3146,"Oakland County, MI",768,1270017,60.5,60.47
+26139,Ottawa,Michigan,2020,365,315,44,6,0,0,0,150,56,33,0,82,239,41,3,26,139,"Ottawa County, Michigan",69314,336 of 3146,"Ottawa County, MI",127,299157,42.5,42.45
+26147,St. Clair,Michigan,2020,328,275,52,1,0,0,0,105,56,35,0,0,204,124,0,26,147,"St. Clair County, Michigan",56951,1018 of 3146,"St. Clair County, MI",174,160053,108.7,108.71
+26157,Tuscola,Michigan,2020,343,330,11,2,0,0,0,101,44,32,0,0,343,0,0,26,157,"Tuscola County, Michigan",49988,1784 of 3146,"Tuscola County, MI",73,52917,138.0,137.95
+26161,Washtenaw,Michigan,2020,366,292,68,5,1,0,0,157,58,38,0,0,239,127,0,26,161,"Washtenaw County, Michigan",72586,265 of 3146,"Washtenaw County, MI",174,369390,47.1,47.1
+26163,Wayne,Michigan,2020,366,203,153,8,2,0,0,179,73,48,0,10,100,240,16,26,163,"Wayne County, Michigan",47301,2059 of 3146,"Wayne County, MI",1365,1774816,76.9,76.91
+26165,Wexford,Michigan,2020,356,341,15,0,0,0,0,100,44,33,0,0,356,0,0,26,165,"Wexford County, Michigan",47193,2083 of 3146,"Wexford County, MI",43,33901,126.8,126.84
+27003,Anoka,Minnesota,2020,366,325,41,0,0,0,0,87,52,35,0,8,234,122,2,27,003,"Anoka County, Minnesota",82175,144 of 3146,"Anoka County, MN",186,367018,50.7,50.68
+27005,Becker,Minnesota,2020,366,343,22,1,0,0,0,101,46,32,0,0,229,137,0,27,005,"Becker County, Minnesota",60284,755 of 3146,"Becker County, MN",34,35219,96.5,96.54
+27007,Beltrami,Minnesota,2020,359,348,11,0,0,0,0,73,39,23,0,0,0,359,0,27,007,"Beltrami County, Minnesota",49160,1882 of 3146,"Beltrami County, MN",30,46380,64.7,64.68
+27017,Carlton,Minnesota,2020,354,351,3,0,0,0,0,84,42,24,0,0,190,164,0,27,017,"Carlton County, Minnesota",63098,582 of 3146,"Carlton County, MN",41,36409,112.6,112.61
+27021,Cass,Minnesota,2020,346,335,11,0,0,0,0,75,35,17,0,0,0,346,0,27,021,"Cass County, Minnesota",52204,1522 of 3146,"Cass County, MN",34,30639,111.0,110.97
+27035,Crow Wing,Minnesota,2020,359,348,11,0,0,0,0,76,42,28,0,0,196,163,0,27,035,"Crow Wing County, Minnesota",56549,1056 of 3146,"Crow Wing County, MN",75,67270,111.5,111.49
+27037,Dakota,Minnesota,2020,366,324,41,1,0,0,0,135,52,30,0,17,0,349,0,27,037,"Dakota County, Minnesota",86036,106 of 3146,"Dakota County, MN",202,442038,45.7,45.7
+27049,Goodhue,Minnesota,2020,210,201,9,0,0,0,0,87,46,35,0,0,210,0,0,27,049,"Goodhue County, Minnesota",66800,411 of 3146,"Goodhue County, MN",31,47968,64.6,64.63
+27053,Hennepin,Minnesota,2020,366,274,90,1,1,0,0,156,57,38,0,12,32,222,100,27,053,"Hennepin County, Minnesota",78167,187 of 3146,"Hennepin County, MN",568,1267416,44.8,44.82
+27083,Lyon,Minnesota,2020,360,330,30,0,0,0,0,80,48,32,0,0,196,164,0,27,083,"Lyon County, Minnesota",57730,952 of 3146,"Lyon County, MN",22,25231,87.2,87.19
+27095,Mille Lacs,Minnesota,2020,245,240,5,0,0,0,0,87,44,33,0,0,245,0,0,27,095,"Mille Lacs County, Minnesota",56135,1084 of 3146,"Mille Lacs County, MN",28,26867,104.2,104.22
+27109,Olmsted,Minnesota,2020,366,325,40,1,0,0,0,111,52,35,0,0,225,141,0,27,109,"Olmsted County, Minnesota",76951,202 of 3146,"Olmsted County, MN",76,163436,46.5,46.5
+27123,Ramsey,Minnesota,2020,366,318,47,0,1,0,0,160,54,30,0,0,0,324,42,27,123,"Ramsey County, Minnesota",64660,482 of 3146,"Ramsey County, MN",286,543257,52.6,52.65
+27139,Scott,Minnesota,2020,365,335,29,1,0,0,0,121,49,32,0,0,227,138,0,27,139,"Scott County, Minnesota",102152,29 of 3146,"Scott County, MN",56,153268,36.5,36.54
+27145,Stearns,Minnesota,2020,366,336,30,0,0,0,0,80,47,33,0,0,210,156,0,27,145,"Stearns County, Minnesota",62789,608 of 3146,"Stearns County, MN",97,158947,61.0,61.03
+27163,Washington,Minnesota,2020,215,210,5,0,0,0,0,77,44,33,0,0,215,0,0,27,163,"Washington County, Minnesota",96671,51 of 3146,"Washington County, MN",132,272256,48.5,48.48
+27169,Winona,Minnesota,2020,119,117,2,0,0,0,0,52,30,17,0,0,0,119,0,27,169,"Winona County, Minnesota",59329,827 of 3146,"Winona County, MN",30,49630,60.4,60.45
+27171,Wright,Minnesota,2020,357,321,35,1,0,0,0,112,51,34,0,0,194,163,0,27,171,"Wright County, Minnesota",84974,115 of 3146,"Wright County, MN",75,144845,51.8,51.78
+28011,Bolivar,Mississippi,2020,363,295,68,0,0,0,0,85,56,39,0,0,144,219,0,28,011,"Bolivar County, Mississippi",29854,3096 of 3146,"Bolivar County, MS",42,30308,138.6,138.58
+28033,DeSoto,Mississippi,2020,365,309,56,0,0,0,0,100,54,37,0,0,144,221,0,28,033,"DeSoto County, Mississippi",67038,398 of 3146,"DeSoto County, MS",218,188633,115.6,115.57
+28035,Forrest,Mississippi,2020,361,274,87,0,0,0,0,97,59,36,0,0,0,361,0,28,035,"Forrest County, Mississippi",39840,2731 of 3146,"Forrest County, MS",99,77875,127.1,127.13
+28045,Hancock,Mississippi,2020,351,288,63,0,0,0,0,88,54,38,0,0,130,221,0,28,045,"Hancock County, Mississippi",48119,1971 of 3146,"Hancock County, MS",83,46055,180.2,180.22
+28047,Harrison,Mississippi,2020,352,263,88,1,0,0,0,101,60,42,0,0,103,249,0,28,047,"Harrison County, Mississippi",47894,1998 of 3146,"Harrison County, MS",272,209396,129.9,129.9
+28049,Hinds,Mississippi,2020,366,249,116,1,0,0,0,114,62,44,0,0,101,265,0,28,049,"Hinds County, Mississippi",44625,2319 of 3146,"Hinds County, MS",189,222679,84.9,84.88
+28059,Jackson,Mississippi,2020,356,291,65,0,0,0,0,84,55,39,0,3,138,215,0,28,059,"Jackson County, Mississippi",51657,1589 of 3146,"Jackson County, MS",102,143987,70.8,70.84
+28075,Lauderdale,Mississippi,2020,252,252,0,0,0,0,0,50,42,31,0,0,252,0,0,28,075,"Lauderdale County, Mississippi",42534,2505 of 3146,"Lauderdale County, MS",88,72088,122.1,122.07
+28081,Lee,Mississippi,2020,243,242,1,0,0,0,0,54,45,35,0,0,243,0,0,28,081,"Lee County, Mississippi",50559,1704 of 3146,"Lee County, MS",106,82883,127.9,127.89
+28161,Yalobusha,Mississippi,2020,348,345,3,0,0,0,0,51,42,31,0,0,348,0,0,28,161,"Yalobusha County, Mississippi",41464,2607 of 3146,"Yalobusha County, MS",20,12415,161.1,161.1
+29003,Andrew,Missouri,2020,245,225,20,0,0,0,0,77,49,38,0,0,245,0,0,29,003,"Andrew County, Missouri",58772,864 of 3146,"Andrew County, MO",16,18002,Unreliable,88.88
+29019,Boone,Missouri,2020,244,235,9,0,0,0,0,93,44,33,0,0,244,0,0,29,019,"Boone County, Missouri",55328,1156 of 3146,"Boone County, MO",114,185840,61.3,61.34
+29021,Buchanan,Missouri,2020,365,304,60,1,0,0,0,126,53,33,0,0,0,258,107,29,021,"Buchanan County, Missouri",51916,1562 of 3146,"Buchanan County, MO",138,83853,164.6,164.57
+29027,Callaway,Missouri,2020,245,234,11,0,0,0,0,87,45,35,0,0,245,0,0,29,027,"Callaway County, Missouri",56938,1020 of 3146,"Callaway County, MO",51,44638,114.3,114.25
+29037,Cass,Missouri,2020,362,333,27,2,0,0,0,105,49,36,0,0,206,156,0,29,037,"Cass County, Missouri",69433,334 of 3146,"Cass County, MO",111,109638,101.2,101.24
+29039,Cedar,Missouri,2020,352,320,32,0,0,0,0,99,50,36,0,0,196,156,0,29,039,"Cedar County, Missouri",39365,2759 of 3146,"Cedar County, MO",26,14496,179.4,179.36
+29047,Clay,Missouri,2020,364,313,50,1,0,0,0,101,55,35,0,0,224,140,0,29,047,"Clay County, Missouri",70510,309 of 3146,"Clay County, MO",197,255518,77.1,77.1
+29049,Clinton,Missouri,2020,245,226,19,0,0,0,0,87,48,37,0,0,245,0,0,29,049,"Clinton County, Missouri",62701,612 of 3146,"Clinton County, MO",25,21287,117.4,117.44
+29077,Greene,Missouri,2020,364,320,43,1,0,0,0,116,52,37,0,0,168,190,6,29,077,"Greene County, Missouri",46086,2189 of 3146,"Greene County, MO",266,300865,88.4,88.41
+29095,Jackson,Missouri,2020,366,253,110,2,1,0,0,157,60,40,0,24,0,271,71,29,095,"Jackson County, Missouri",55134,1171 of 3146,"Jackson County, MO",573,716862,79.9,79.93
+29097,Jasper,Missouri,2020,366,320,46,0,0,0,0,82,52,35,0,0,212,0,154,29,097,"Jasper County, Missouri",48357,1949 of 3146,"Jasper County, MO",168,123155,136.4,136.41
+29099,Jefferson,Missouri,2020,365,319,44,2,0,0,0,141,54,38,0,0,171,185,9,29,099,"Jefferson County, Missouri",65454,449 of 3146,"Jefferson County, MO",219,227771,96.1,96.15
+29113,Lincoln,Missouri,2020,245,228,16,1,0,0,0,108,48,37,0,0,245,0,0,29,113,"Lincoln County, Missouri",64196,514 of 3146,"Lincoln County, MO",47,61586,76.3,76.32
+29137,Monroe,Missouri,2020,366,360,6,0,0,0,0,84,43,31,0,0,362,0,4,29,137,"Monroe County, Missouri",43966,2379 of 3146,"Monroe County, MO",10,8712,Unreliable,114.78
+29157,Perry,Missouri,2020,245,231,14,0,0,0,0,97,47,36,0,0,245,0,0,29,157,"Perry County, Missouri",55863,1108 of 3146,"Perry County, MO",26,18922,137.4,137.41
+29207,Stoddard,Missouri,2020,63,59,4,0,0,0,0,62,45,19,0,0,0,63,0,29,207,"Stoddard County, Missouri",41062,2633 of 3146,"Stoddard County, MO",61,28479,214.2,214.19
+29213,Taney,Missouri,2020,122,120,2,0,0,0,0,57,36,17,0,0,0,122,0,29,213,"Taney County, Missouri",46031,2197 of 3146,"Taney County, MO",52,56387,92.2,92.22
+29510,St. Louis City,Missouri,2020,366,224,137,4,1,0,0,155,67,46,0,8,122,192,44,29,510,"St. Louis City, Missouri",43896,2384 of 3146,"St. Louis city, MO",213,293310,72.6,72.62
+30013,Cascade,Montana,2020,359,338,18,3,0,0,0,115,44,18,0,0,0,359,0,30,013,"Cascade County, Montana",49913,1791 of 3146,"Cascade County, MT",99,84511,117.1,117.14
+30027,Fergus,Montana,2020,366,342,21,1,2,0,0,157,47,39,0,1,327,38,0,30,027,"Fergus County, Montana",50540,1707 of 3146,"Fergus County, MT",18,11617,Unreliable,154.95
+30029,Flathead,Montana,2020,366,317,41,3,5,0,0,190,56,35,0,0,249,82,35,30,029,"Flathead County, Montana",56182,1081 of 3146,"Flathead County, MT",72,108454,66.4,66.39
+30031,Gallatin,Montana,2020,366,327,28,9,2,0,0,159,52,22,3,9,0,354,0,30,031,"Gallatin County, Montana",66397,421 of 3146,"Gallatin County, MT",42,122713,34.2,34.23
+30047,Lake,Montana,2020,117,113,1,1,2,0,0,174,20,5,0,0,0,117,0,30,047,"Lake County, Montana",48829,1905 of 3146,"Lake County, MT",23,32033,71.8,71.8
+30049,Lewis and Clark,Montana,2020,366,311,50,1,4,0,0,164,55,40,0,0,278,88,0,30,049,"Lewis and Clark County, Montana",65791,440 of 3146,"Lewis and Clark County, MT",50,72223,69.2,69.23
+30053,Lincoln,Montana,2020,366,217,140,2,4,2,1,327,71,40,0,0,0,357,9,30,053,"Lincoln County, Montana",40140,2704 of 3146,"Lincoln County, MT",29,20525,141.3,141.29
+30063,Missoula,Montana,2020,366,210,137,13,6,0,0,176,83,47,0,0,148,218,0,30,063,"Missoula County, Montana",54062,1288 of 3146,"Missoula County, MT",82,119533,68.6,68.6
+30081,Ravalli,Montana,2020,361,319,34,3,5,0,0,176,53,11,0,0,0,361,0,30,081,"Ravalli County, Montana",53054,1410 of 3146,"Ravalli County, MT",47,45959,102.3,102.27
+30085,Roosevelt,Montana,2020,77,75,2,0,0,0,0,55,25,9,0,0,0,77,0,30,085,"Roosevelt County, Montana",43194,2454 of 3146,"Roosevelt County, MT",15,10821,Unreliable,138.62
+30089,Sanders,Montana,2020,366,328,30,1,5,2,0,236,51,23,0,0,0,346,20,30,089,"Sanders County, Montana",40823,2657 of 3146,"Sanders County, MT",20,12959,154.3,154.33
+30093,Silver Bow,Montana,2020,366,317,41,5,3,0,0,173,56,19,0,0,0,205,161,30,093,"Silver Bow County, Montana",45718,2220 of 3146,"Silver Bow County, MT",41,35411,115.8,115.78
+30111,Yellowstone,Montana,2020,364,329,32,2,1,0,0,160,48,23,0,0,0,364,0,30,111,"Yellowstone County, Montana",61264,682 of 3146,"Yellowstone County, MT",147,167146,87.9,87.95
+31025,Cass,Nebraska,2020,358,346,12,0,0,0,0,71,32,14,0,0,0,0,358,31,025,"Cass County, Nebraska",71846,279 of 3146,"Cass County, NE",28,27017,103.6,103.64
+31055,Douglas,Nebraska,2020,366,324,40,1,1,0,0,156,53,35,2,0,187,153,24,31,055,"Douglas County, Nebraska",64629,485 of 3146,"Douglas County, NE",378,585008,64.6,64.61
+31079,Hall,Nebraska,2020,338,314,24,0,0,0,0,85,43,20,0,0,0,338,0,31,079,"Hall County, Nebraska",57104,1008 of 3146,"Hall County, NE",54,61979,87.1,87.13
+31109,Lancaster,Nebraska,2020,282,272,10,0,0,0,0,74,45,33,0,0,217,65,0,31,109,"Lancaster County, Nebraska",60527,736 of 3146,"Lancaster County, NE",219,324514,67.5,67.49
+31153,Sarpy,Nebraska,2020,316,279,35,2,0,0,0,149,52,29,0,0,0,316,0,31,153,"Sarpy County, Nebraska",82032,145 of 3146,"Sarpy County, NE",98,193418,50.7,50.67
+31157,Scotts Bluff,Nebraska,2020,278,224,52,2,0,0,0,122,55,27,0,0,0,278,0,31,157,"Scotts Bluff County, Nebraska",49745,1810 of 3146,"Scotts Bluff County, NE",43,35745,120.3,120.3
+31177,Washington,Nebraska,2020,110,104,6,0,0,0,0,72,42,23,0,0,0,110,0,31,177,"Washington County, Nebraska",71430,287 of 3146,"Washington County, NE",25,20969,119.2,119.22
+32001,Churchill,Nevada,2020,363,336,25,2,0,0,0,147,50,40,0,0,363,0,0,32,001,"Churchill County, Nevada",57824,943 of 3146,"Churchill County, NV",43,25723,167.2,167.17
+32003,Clark,Nevada,2020,366,108,233,22,3,0,0,174,93,61,0,17,214,123,12,32,003,"Clark County, Nevada",59340,826 of 3146,"Clark County, NV",1433,2292476,62.5,62.51
+32005,Douglas,Nevada,2020,366,311,38,6,9,2,0,249,60,17,0,0,0,366,0,32,005,"Douglas County, Nevada",66810,410 of 3146,"Douglas County, NV",53,49870,106.3,106.28
+32007,Elko,Nevada,2020,363,332,29,1,1,0,0,154,48,18,0,0,0,15,348,32,007,"Elko County, Nevada",81232,153 of 3146,"Elko County, NV",34,53915,63.1,63.06
+32019,Lyon,Nevada,2020,356,308,39,5,3,0,1,331,59,38,0,0,302,0,54,32,019,"Lyon County, Nevada",56875,1024 of 3146,"Lyon County, NV",82,60903,134.6,134.64
+32023,Nye,Nevada,2020,366,343,20,1,2,0,0,200,40,21,0,0,0,0,366,32,023,"Nye County, Nevada",47300,2060 of 3146,"Nye County, NV",97,53450,181.5,181.48
+32031,Washoe,Nevada,2020,366,239,103,11,11,2,0,240,85,46,0,4,259,96,7,32,031,"Washoe County, Nevada",64791,477 of 3146,"Washoe County, NV",352,493392,71.3,71.34
+32510,Carson City,Nevada,2020,366,302,44,12,8,0,0,192,67,41,0,0,260,106,0,32,510,"Carson City, Nevada",55718,1118 of 3146,"Carson City, NV",84,58993,142.4,142.39
+33001,Belknap,New Hampshire,2020,359,353,6,0,0,0,0,61,43,30,0,0,200,159,0,33,001,"Belknap County, New Hampshire",69447,333 of 3146,"Belknap County, NH",72,64460,111.7,111.7
+33005,Cheshire,New Hampshire,2020,366,339,27,0,0,0,0,75,47,35,0,0,250,116,0,33,005,"Cheshire County, New Hampshire",64751,480 of 3146,"Cheshire County, NH",69,77329,89.2,89.23
+33007,Coos,New Hampshire,2020,366,339,27,0,0,0,0,74,50,43,0,0,366,0,0,33,007,"Coos County, New Hampshire",47117,2091 of 3146,"Coos County, NH",46,31289,147.0,147.02
+33009,Grafton,New Hampshire,2020,366,355,11,0,0,0,0,66,43,33,0,0,318,48,0,33,009,"Grafton County, New Hampshire",63389,566 of 3146,"Grafton County, NH",66,92201,71.6,71.58
+33011,Hillsborough,New Hampshire,2020,366,358,8,0,0,0,0,90,45,36,0,0,355,11,0,33,011,"Hillsborough County, New Hampshire",81460,150 of 3146,"Hillsborough County, NH",278,424079,65.6,65.55
+33013,Merrimack,New Hampshire,2020,213,209,4,0,0,0,0,74,44,38,0,0,213,0,0,33,013,"Merrimack County, New Hampshire",75737,219 of 3146,"Merrimack County, NH",129,155238,83.1,83.1
+33015,Rockingham,New Hampshire,2020,366,328,38,0,0,0,0,90,51,38,0,0,273,93,0,33,015,"Rockingham County, New Hampshire",93756,60 of 3146,"Rockingham County, NH",229,316947,72.3,72.25
+34001,Atlantic,New Jersey,2020,359,330,29,0,0,0,0,90,47,34,0,0,244,115,0,34,001,"Atlantic County, New Jersey",62110,641 of 3146,"Atlantic County, NJ",227,274966,82.6,82.56
+34003,Bergen,New Jersey,2020,364,292,69,3,0,0,0,119,58,39,3,66,159,136,0,34,003,"Bergen County, New Jersey",101144,31 of 3146,"Bergen County, NJ",499,953819,52.3,52.32
+34007,Camden,New Jersey,2020,366,292,74,0,0,0,0,87,58,40,0,10,202,154,0,34,007,"Camden County, New Jersey",70451,311 of 3146,"Camden County, NJ",399,523771,76.2,76.18
+34011,Cumberland,New Jersey,2020,365,319,46,0,0,0,0,71,52,38,0,4,206,155,0,34,011,"Cumberland County, New Jersey",54149,1280 of 3146,"Cumberland County, NJ",156,153627,101.5,101.54
+34013,Essex,New Jersey,2020,366,294,71,1,0,0,0,127,58,39,1,63,161,141,0,34,013,"Essex County, New Jersey",61510,665 of 3146,"Essex County, NJ",572,854917,66.9,66.91
+34015,Gloucester,New Jersey,2020,253,231,21,1,0,0,0,101,49,36,0,0,203,50,0,34,015,"Gloucester County, New Jersey",87283,93 of 3146,"Gloucester County, NJ",264,304477,86.7,86.71
+34017,Hudson,New Jersey,2020,366,308,58,0,0,0,0,90,54,37,0,88,177,101,0,34,017,"Hudson County, New Jersey",71189,294 of 3146,"Hudson County, NJ",321,702463,45.7,45.7
+34019,Hunterdon,New Jersey,2020,364,320,44,0,0,0,0,85,52,38,0,0,242,122,0,34,019,"Hunterdon County, New Jersey",115379,13 of 3146,"Hunterdon County, NJ",64,129924,49.3,49.26
+34021,Mercer,New Jersey,2020,366,311,52,3,0,0,0,112,54,38,0,0,262,104,0,34,021,"Mercer County, New Jersey",81057,155 of 3146,"Mercer County, NJ",235,385898,60.9,60.9
+34023,Middlesex,New Jersey,2020,366,313,52,1,0,0,0,112,53,37,0,15,224,127,0,34,023,"Middlesex County, New Jersey",89533,72 of 3146,"Middlesex County, NJ",503,860807,58.4,58.43
+34025,Monmouth,New Jersey,2020,226,209,17,0,0,0,0,93,48,37,0,0,226,0,0,34,025,"Monmouth County, New Jersey",99733,39 of 3146,"Monmouth County, NJ",470,645354,72.8,72.83
+34027,Morris,New Jersey,2020,366,347,19,0,0,0,0,84,47,35,0,8,349,9,0,34,027,"Morris County, New Jersey",115527,12 of 3146,"Morris County, NJ",309,510981,60.5,60.47
+34029,Ocean,New Jersey,2020,356,327,29,0,0,0,0,84,48,35,0,0,215,141,0,34,029,"Ocean County, New Jersey",70909,300 of 3146,"Ocean County, NJ",626,648998,96.5,96.46
+34031,Passaic,New Jersey,2020,262,247,15,0,0,0,0,100,47,36,0,0,244,18,0,34,031,"Passaic County, New Jersey",69688,327 of 3146,"Passaic County, NJ",298,518117,57.5,57.52
+34039,Union,New Jersey,2020,366,291,74,1,0,0,0,111,56,38,2,113,0,251,0,34,039,"Union County, New Jersey",80198,164 of 3146,"Union County, NJ",326,572114,57.0,56.98
+34041,Warren,New Jersey,2020,361,327,34,0,0,0,0,100,50,34,0,33,207,121,0,34,041,"Warren County, New Jersey",81307,152 of 3146,"Warren County, NJ",80,110731,72.2,72.25
+35001,Bernalillo,New Mexico,2020,366,135,222,7,1,1,0,214,77,54,0,0,200,83,83,35,001,"Bernalillo County, New Mexico",53329,1373 of 3146,"Bernalillo County, NM",533,674393,79.0,79.03
+35005,Chaves,New Mexico,2020,119,116,3,0,0,0,0,75,37,17,0,0,0,119,0,35,005,"Chaves County, New Mexico",43359,2437 of 3146,"Chaves County, NM",48,64629,74.3,74.27
+35013,Dona Ana,New Mexico,2020,366,168,177,15,3,1,2,400,88,53,0,7,237,39,83,35,013,"Dona Ana County, New Mexico",40973,2641 of 3146,"Dona Ana County, NM",174,221508,78.6,78.55
+35015,Eddy,New Mexico,2020,364,248,105,11,0,0,0,115,80,46,0,0,357,7,0,35,015,"Eddy County, New Mexico",65328,458 of 3146,"Eddy County, NM",57,60911,93.6,93.58
+35025,Lea,New Mexico,2020,366,334,32,0,0,0,0,76,50,39,0,5,322,39,0,35,025,"Lea County, New Mexico",60546,735 of 3146,"Lea County, NM",49,73004,67.1,67.12
+35027,Lincoln,New Mexico,2020,115,114,1,0,0,0,0,51,28,11,0,0,0,115,0,35,027,"Lincoln County, New Mexico",46216,2173 of 3146,"Lincoln County, NM",36,20436,176.2,176.16
+35028,Los Alamos,New Mexico,2020,117,116,1,0,0,0,0,53,19,10,0,0,0,117,0,35,028,"Los Alamos County, New Mexico",121324,6 of 3146,"Los Alamos County, NM",12,19330,Unreliable,62.08
+35029,Luna,New Mexico,2020,354,335,18,0,0,0,1,360,40,19,0,0,0,0,354,35,029,"Luna County, New Mexico",29360,3103 of 3146,"Luna County, NM",38,25532,148.8,148.83
+35039,Rio Arriba,New Mexico,2020,362,314,48,0,0,0,0,90,54,44,0,0,361,1,0,35,039,"Rio Arriba County, New Mexico",39952,2720 of 3146,"Rio Arriba County, NM",35,40179,87.1,87.11
+35043,Sandoval,New Mexico,2020,358,271,82,5,0,0,0,119,61,44,0,0,358,0,0,35,043,"Sandoval County, New Mexico",63802,539 of 3146,"Sandoval County, NM",97,151369,64.1,64.08
+35045,San Juan,New Mexico,2020,366,265,96,5,0,0,0,109,64,45,0,0,364,0,2,35,045,"San Juan County, New Mexico",50518,1710 of 3146,"San Juan County, NM",125,120993,103.3,103.31
+35049,Santa Fe,New Mexico,2020,366,297,68,1,0,0,0,101,58,44,0,0,349,17,0,35,049,"Santa Fe County, New Mexico",61200,685 of 3146,"Santa Fe County, NM",109,155201,70.2,70.23
+35053,Socorro,New Mexico,2020,111,111,0,0,0,0,0,49,28,11,0,0,0,111,0,35,053,"Socorro County, New Mexico",42083,2552 of 3146,"Socorro County, NM",20,16311,122.6,122.62
+35055,Taos,New Mexico,2020,360,337,23,0,0,0,0,64,43,20,0,0,0,360,0,35,055,"Taos County, New Mexico",38329,2819 of 3146,"Taos County, NM",34,34623,98.2,98.2
+35061,Valencia,New Mexico,2020,359,283,74,2,0,0,0,105,61,44,0,0,359,0,0,35,061,"Valencia County, New Mexico",48945,1898 of 3146,"Valencia County, NM",67,77190,86.8,86.8
+36001,Albany,New York,2020,365,306,56,3,0,0,0,143,55,38,0,0,183,182,0,36,001,"Albany County, New York",66252,429 of 3146,"Albany County, NY",252,313743,80.3,80.32
+36005,Bronx,New York,2020,366,291,74,1,0,0,0,108,61,39,0,39,178,149,0,36,005,"Bronx County, New York",40088,2710 of 3146,"Bronx County, NY",801,1424948,56.2,56.21
+36013,Chautauqua,New York,2020,363,338,25,0,0,0,0,93,47,35,0,0,352,11,0,36,013,"Chautauqua County, New York",46820,2114 of 3146,"Chautauqua County, NY",145,126807,114.3,114.35
+36027,Dutchess,New York,2020,331,322,9,0,0,0,0,87,45,35,0,0,331,0,0,36,027,"Dutchess County, New York",81219,154 of 3146,"Dutchess County, NY",236,297112,79.4,79.43
+36029,Erie,New York,2020,366,317,47,0,2,0,0,155,52,37,0,10,224,132,0,36,029,"Erie County, New York",58121,912 of 3146,"Erie County, NY",884,950683,93.0,92.99
+36031,Essex,New York,2020,365,350,15,0,0,0,0,80,47,38,0,0,360,5,0,36,031,"Essex County, New York",56763,1034 of 3146,"Essex County, NY",49,37268,131.5,131.48
+36045,Jefferson,New York,2020,360,345,15,0,0,0,0,90,44,33,0,0,360,0,0,36,045,"Jefferson County, New York",52685,1460 of 3146,"Jefferson County, NY",99,116295,85.1,85.13
+36047,Kings,New York,2020,365,338,27,0,0,0,0,77,47,23,0,0,0,365,0,36,047,"Kings County, New York",60231,759 of 3146,"Kings County, NY",1234,2641052,46.7,46.72
+36055,Monroe,New York,2020,366,323,43,0,0,0,0,80,52,36,0,0,245,121,0,36,055,"Monroe County, New York",60075,777 of 3146,"Monroe County, NY",581,755160,76.9,76.94
+36059,Nassau,New York,2020,361,344,17,0,0,0,0,72,41,20,0,0,0,361,0,36,059,"Nassau County, New York",116100,11 of 3146,"Nassau County, NY",730,1390907,52.5,52.48
+36061,New York,New York,2020,366,311,54,1,0,0,0,108,56,37,2,0,222,142,0,36,061,"New York County, New York",86553,104 of 3146,"New York County, NY",641,1576876,40.6,40.65
+36063,Niagara,New York,2020,359,340,19,0,0,0,0,87,46,34,0,0,359,0,0,36,063,"Niagara County, New York",55522,1133 of 3146,"Niagara County, NY",254,211653,120.0,120.01
+36065,Oneida,New York,2020,349,334,15,0,0,0,0,78,36,16,0,0,0,349,0,36,065,"Oneida County, New York",56027,1093 of 3146,"Oneida County, NY",231,230274,100.3,100.32
+36067,Onondaga,New York,2020,364,336,28,0,0,0,0,74,48,35,0,0,281,83,0,36,067,"Onondaga County, New York",61359,675 of 3146,"Onondaga County, NY",435,473236,91.9,91.92
+36071,Orange,New York,2020,366,342,24,0,0,0,0,97,47,36,0,0,254,112,0,36,071,"Orange County, New York",79944,168 of 3146,"Orange County, NY",249,404525,61.6,61.55
+36075,Oswego,New York,2020,359,349,10,0,0,0,0,58,44,33,0,0,359,0,0,36,075,"Oswego County, New York",55967,1099 of 3146,"Oswego County, NY",129,117387,109.9,109.89
+36079,Putnam,New York,2020,314,308,6,0,0,0,0,64,44,33,0,0,314,0,0,36,079,"Putnam County, New York",104486,25 of 3146,"Putnam County, NY",78,97936,79.6,79.64
+36081,Queens,New York,2020,366,298,65,3,0,0,0,140,61,38,0,54,211,101,0,36,081,"Queens County, New York",68666,356 of 3146,"Queens County, NY",1074,2331143,46.1,46.07
+36085,Richmond,New York,2020,364,319,43,2,0,0,0,108,52,36,0,0,211,153,0,36,085,"Richmond County, New York",82783,133 of 3146,"Richmond County, NY",282,493494,57.1,57.14
+36087,Rockland,New York,2020,366,340,26,0,0,0,0,93,48,34,0,0,298,68,0,36,087,"Rockland County, New York",93024,61 of 3146,"Rockland County, NY",213,339227,62.8,62.79
+36091,Saratoga,New York,2020,319,315,4,0,0,0,0,61,44,33,0,0,319,0,0,36,091,"Saratoga County, New York",84291,122 of 3146,"Saratoga County, NY",199,237359,83.8,83.84
+36101,Steuben,New York,2020,365,356,9,0,0,0,0,79,44,34,0,0,310,55,0,36,101,"Steuben County, New York",53663,1331 of 3146,"Steuben County, NY",108,92948,116.2,116.19
+36103,Suffolk,New York,2020,366,309,51,6,0,0,0,133,59,37,0,0,293,73,0,36,103,"Suffolk County, New York",101031,32 of 3146,"Suffolk County, NY",1027,1526344,67.3,67.28
+36109,Tompkins,New York,2020,364,359,5,0,0,0,0,64,44,34,0,0,364,0,0,36,109,"Tompkins County, New York",60240,758 of 3146,"Tompkins County, NY",66,105162,62.8,62.76
+36117,Wayne,New York,2020,327,305,22,0,0,0,0,80,46,34,0,0,327,0,0,36,117,"Wayne County, New York",59449,814 of 3146,"Wayne County, NY",86,90923,94.6,94.59
+36119,Westchester,New York,2020,363,327,35,1,0,0,0,105,50,36,0,0,280,83,0,36,119,"Westchester County, New York",96610,52 of 3146,"Westchester County, NY",638,997895,63.9,63.93
+37003,Alexander,North Carolina,2020,300,297,3,0,0,0,0,54,45,33,0,0,243,0,57,37,003,"Alexander County, North Carolina",48756,1917 of 3146,"Alexander County, NC",64,36644,174.7,174.65
+37011,Avery,North Carolina,2020,366,352,14,0,0,0,0,80,46,37,0,0,363,3,0,37,011,"Avery County, North Carolina",40340,2687 of 3146,"Avery County, NC",21,17864,117.6,117.55
+37021,Buncombe,North Carolina,2020,363,353,10,0,0,0,0,97,45,31,0,0,210,153,0,37,021,"Buncombe County, North Carolina",52207,1521 of 3146,"Buncombe County, NC",276,271534,101.6,101.64
+37027,Caldwell,North Carolina,2020,243,243,0,0,0,0,0,50,44,34,0,0,243,0,0,37,027,"Caldwell County, North Carolina",44511,2329 of 3146,"Caldwell County, NC",111,80463,138.0,137.95
+37031,Carteret,North Carolina,2020,362,359,3,0,0,0,0,61,43,34,0,0,362,0,0,37,031,"Carteret County, North Carolina",57194,996 of 3146,"Carteret County, NC",88,68541,128.4,128.39
+37033,Caswell,North Carolina,2020,354,349,5,0,0,0,0,61,44,31,0,0,241,0,113,37,033,"Caswell County, North Carolina",45733,2218 of 3146,"Caswell County, NC",23,22714,101.3,101.26
+37035,Catawba,North Carolina,2020,357,312,45,0,0,0,0,94,53,31,0,0,0,357,0,37,035,"Catawba County, North Carolina",52056,1545 of 3146,"Catawba County, NC",201,161723,124.3,124.29
+37051,Cumberland,North Carolina,2020,363,329,34,0,0,0,0,81,49,35,0,0,191,167,5,37,051,"Cumberland County, North Carolina",46875,2108 of 3146,"Cumberland County, NC",271,335508,80.8,80.77
+37057,Davidson,North Carolina,2020,329,265,64,0,0,0,0,95,54,32,0,0,0,329,0,37,057,"Davidson County, North Carolina",49546,1836 of 3146,"Davidson County, NC",206,170637,120.7,120.72
+37063,Durham,North Carolina,2020,364,334,30,0,0,0,0,97,49,35,0,0,170,193,1,37,063,"Durham County, North Carolina",60958,702 of 3146,"Durham County, NC",158,326126,48.4,48.45
+37065,Edgecombe,North Carolina,2020,336,319,17,0,0,0,0,94,46,32,0,0,182,154,0,37,065,"Edgecombe County, North Carolina",36866,2910 of 3146,"Edgecombe County, NC",49,48359,101.3,101.33
+37067,Forsyth,North Carolina,2020,366,298,68,0,0,0,0,97,56,40,0,7,180,179,0,37,067,"Forsyth County, North Carolina",51569,1603 of 3146,"Forsyth County, NC",324,385523,84.0,84.04
+37077,Granville,North Carolina,2020,238,237,1,0,0,0,0,51,46,36,0,0,238,0,0,37,077,"Granville County, North Carolina",55856,1109 of 3146,"Granville County, NC",55,61986,88.7,88.73
+37081,Guilford,North Carolina,2020,365,335,30,0,0,0,0,87,50,36,0,0,198,160,7,37,081,"Guilford County, North Carolina",53261,1382 of 3146,"Guilford County, NC",401,542410,73.9,73.93
+37087,Haywood,North Carolina,2020,272,244,28,0,0,0,0,93,51,41,0,0,244,28,0,37,087,"Haywood County, North Carolina",51659,1588 of 3146,"Haywood County, NC",88,62476,140.9,140.85
+37099,Jackson,North Carolina,2020,111,107,4,0,0,0,0,68,40,24,0,0,0,111,0,37,099,"Jackson County, North Carolina",47252,2073 of 3146,"Jackson County, NC",54,43410,124.4,124.4
+37101,Johnston,North Carolina,2020,339,318,21,0,0,0,0,72,49,36,0,0,185,154,0,37,101,"Johnston County, North Carolina",59865,789 of 3146,"Johnston County, NC",161,226504,71.1,71.08
+37107,Lenoir,North Carolina,2020,296,290,6,0,0,0,0,58,45,32,0,0,238,0,58,37,107,"Lenoir County, North Carolina",39402,2755 of 3146,"Lenoir County, NC",84,54706,153.5,153.55
+37109,Lincoln,North Carolina,2020,243,241,2,0,0,0,0,71,45,35,0,0,243,0,0,37,109,"Lincoln County, North Carolina",57536,967 of 3146,"Lincoln County, NC",89,89670,99.3,99.25
+37113,Macon,North Carolina,2020,360,358,2,0,0,0,0,64,41,29,0,0,360,0,0,37,113,"Macon County, North Carolina",45507,2241 of 3146,"Macon County, NC",49,37564,130.4,130.44
+37117,Martin,North Carolina,2020,240,240,0,0,0,0,0,49,42,33,0,0,240,0,0,37,117,"Martin County, North Carolina",40090,2709 of 3146,"Martin County, NC",22,21754,101.1,101.13
+37119,Mecklenburg,North Carolina,2020,366,296,68,2,0,0,0,112,56,40,0,0,204,162,0,37,119,"Mecklenburg County, North Carolina",66641,414 of 3146,"Mecklenburg County, NC",473,1122276,42.1,42.15
+37121,Mitchell,North Carolina,2020,356,347,8,1,0,0,0,103,36,20,0,0,0,356,0,37,121,"Mitchell County, North Carolina",46103,2188 of 3146,"Mitchell County, NC",27,14963,180.4,180.45
+37123,Montgomery,North Carolina,2020,366,342,24,0,0,0,0,83,47,35,0,0,202,164,0,37,123,"Montgomery County, North Carolina",44146,2362 of 3146,"Montgomery County, NC",29,25798,112.4,112.41
+37129,New Hanover,North Carolina,2020,357,344,13,0,0,0,0,74,45,31,0,0,222,135,0,37,129,"New Hanover County, North Carolina",54891,1195 of 3146,"New Hanover County, NC",168,229018,73.4,73.36
+37131,Northampton,North Carolina,2020,360,346,14,0,0,0,0,88,42,22,0,41,0,319,0,37,131,"Northampton County, North Carolina",37146,2899 of 3146,"Northampton County, NC",21,17129,122.6,122.6
+37145,Person,North Carolina,2020,240,240,0,0,0,0,0,50,44,34,0,0,240,0,0,37,145,"Person County, North Carolina",51020,1655 of 3146,"Person County, NC",39,39127,99.7,99.68
+37147,Pitt,North Carolina,2020,361,344,17,0,0,0,0,95,47,33,0,0,199,162,0,37,147,"Pitt County, North Carolina",47437,2050 of 3146,"Pitt County, NC",90,172169,52.3,52.27
+37157,Rockingham,North Carolina,2020,243,238,5,0,0,0,0,54,47,36,0,0,243,0,0,37,157,"Rockingham County, North Carolina",43579,2414 of 3146,"Rockingham County, NC",109,91266,119.4,119.43
+37159,Rowan,North Carolina,2020,365,318,47,0,0,0,0,88,52,39,0,0,242,123,0,37,159,"Rowan County, North Carolina",49842,1803 of 3146,"Rowan County, NC",163,148150,110.0,110.02
+37173,Swain,North Carolina,2020,362,340,21,1,0,0,0,119,47,33,0,0,197,165,0,37,173,"Swain County, North Carolina",39317,2763 of 3146,"Swain County, NC",19,14136,Unreliable,134.41
+37179,Union,North Carolina,2020,242,242,0,0,0,0,0,50,44,31,0,0,242,0,0,37,179,"Union County, North Carolina",80033,166 of 3146,"Union County, NC",154,243648,63.2,63.21
+37183,Wake,North Carolina,2020,365,284,80,1,0,0,0,101,56,38,1,2,168,194,0,37,183,"Wake County, North Carolina",80591,159 of 3146,"Wake County, NC",410,1150204,35.6,35.65
+37199,Yancey,North Carolina,2020,244,204,39,1,0,0,0,105,58,44,0,0,244,0,0,37,199,"Yancey County, North Carolina",42222,2537 of 3146,"Yancey County, NC",30,18757,159.9,159.94
+38015,Burleigh,North Dakota,2020,366,336,30,0,0,0,0,74,48,33,0,7,215,137,7,38,015,"Burleigh County, North Dakota",71524,286 of 3146,"Burleigh County, ND",73,98933,73.8,73.79
+38017,Cass,North Dakota,2020,363,336,27,0,0,0,0,80,46,34,0,7,251,105,0,38,017,"Cass County, North Dakota",64482,497 of 3146,"Cass County, ND",98,186562,52.5,52.53
+38101,Ward,North Dakota,2020,366,357,9,0,0,0,0,69,43,33,0,1,311,54,0,38,101,"Ward County, North Dakota",68871,348 of 3146,"Ward County, ND",59,69071,85.4,85.42
+39001,Adams,Ohio,2020,287,268,19,0,0,0,0,81,48,29,0,0,0,287,0,39,001,"Adams County, Ohio",39079,2778 of 3146,"Adams County, OH",54,27542,196.1,196.06
+39003,Allen,Ohio,2020,360,318,41,1,0,0,0,105,52,36,0,0,225,135,0,39,003,"Allen County, Ohio",53131,1398 of 3146,"Allen County, OH",115,101670,113.1,113.11
+39007,Ashtabula,Ohio,2020,241,224,17,0,0,0,0,93,47,37,0,0,241,0,0,39,007,"Ashtabula County, Ohio",46700,2125 of 3146,"Ashtabula County, OH",130,97337,133.6,133.56
+39009,Athens,Ohio,2020,86,83,3,0,0,0,0,61,41,24,0,0,0,86,0,39,009,"Athens County, Ohio",40905,2650 of 3146,"Athens County, OH",48,62056,77.3,77.35
+39013,Belmont,Ohio,2020,366,357,9,0,0,0,0,66,30,12,0,276,0,82,8,39,013,"Belmont County, Ohio",50904,1661 of 3146,"Belmont County, OH",90,65849,136.7,136.68
+39017,Butler,Ohio,2020,366,307,56,3,0,0,0,126,58,38,0,0,304,59,3,39,017,"Butler County, Ohio",66117,433 of 3146,"Butler County, OH",340,390234,87.1,87.13
+39023,Clark,Ohio,2020,343,274,68,1,0,0,0,108,58,40,0,0,201,142,0,39,023,"Clark County, Ohio",50873,1665 of 3146,"Clark County, OH",177,135633,130.5,130.5
+39025,Clermont,Ohio,2020,361,325,36,0,0,0,0,100,50,35,0,0,211,150,0,39,025,"Clermont County, Ohio",66968,404 of 3146,"Clermont County, OH",210,209642,100.2,100.17
+39027,Clinton,Ohio,2020,229,205,24,0,0,0,0,97,54,39,0,0,229,0,0,39,027,"Clinton County, Ohio",52815,1443 of 3146,"Clinton County, OH",41,42004,97.6,97.61
+39029,Columbiana,Ohio,2020,48,48,0,0,0,0,0,31,20,10,0,0,0,0,48,39,029,"Columbiana County, Ohio",48345,1950 of 3146,"Columbiana County, OH",136,101310,134.2,134.24
+39035,Cuyahoga,Ohio,2020,366,226,130,9,1,0,0,152,66,46,0,1,156,202,7,39,035,"Cuyahoga County, Ohio",50366,1732 of 3146,"Cuyahoga County, OH",1053,1249387,84.3,84.28
+39041,Delaware,Ohio,2020,244,222,21,1,0,0,0,101,50,38,0,0,244,0,0,39,041,"Delaware County, Ohio",106908,24 of 3146,"Delaware County, OH",103,220740,46.7,46.66
+39047,Fayette,Ohio,2020,341,318,23,0,0,0,0,80,49,35,0,0,341,0,0,39,047,"Fayette County, Ohio",47308,2058 of 3146,"Fayette County, OH",43,28906,148.8,148.76
+39049,Franklin,Ohio,2020,366,296,68,2,0,0,0,102,58,40,0,9,194,163,0,39,049,"Franklin County, Ohio",61305,679 of 3146,"Franklin County, OH",892,1321414,67.5,67.5
+39055,Geauga,Ohio,2020,245,214,31,0,0,0,0,100,61,41,0,0,245,0,0,39,055,"Geauga County, Ohio",82303,139 of 3146,"Geauga County, OH",75,95565,78.5,78.48
+39057,Greene,Ohio,2020,245,220,25,0,0,0,0,93,51,39,0,0,245,0,0,39,057,"Greene County, Ohio",68720,352 of 3146,"Greene County, OH",125,168412,74.2,74.22
+39061,Hamilton,Ohio,2020,366,211,148,7,0,0,0,126,70,48,0,14,124,228,0,39,061,"Hamilton County, Ohio",57212,992 of 3146,"Hamilton County, OH",710,826139,85.9,85.94
+39067,Harrison,Ohio,2020,304,304,0,0,0,0,0,49,23,1,259,0,0,40,5,39,067,"Harrison County, Ohio",49689,1818 of 3146,"Harrison County, OH",26,14477,179.6,179.6
+39081,Jefferson,Ohio,2020,359,292,66,1,0,0,0,112,58,37,0,0,194,164,1,39,081,"Jefferson County, Ohio",46581,2144 of 3146,"Jefferson County, OH",96,64789,148.2,148.17
+39083,Knox,Ohio,2020,245,226,19,0,0,0,0,80,49,38,0,0,245,0,0,39,083,"Knox County, Ohio",57749,950 of 3146,"Knox County, OH",70,62897,111.3,111.29
+39085,Lake,Ohio,2020,366,322,38,6,0,0,0,140,54,37,0,0,223,141,2,39,085,"Lake County, Ohio",64466,501 of 3146,"Lake County, OH",219,232023,94.4,94.39
+39087,Lawrence,Ohio,2020,354,316,38,0,0,0,0,77,51,36,0,0,201,153,0,39,087,"Lawrence County, Ohio",45118,2270 of 3146,"Lawrence County, OH",82,57445,142.7,142.75
+39089,Licking,Ohio,2020,245,230,15,0,0,0,0,77,48,37,0,0,245,0,0,39,089,"Licking County, Ohio",64589,487 of 3146,"Licking County, OH",200,180401,110.9,110.86
+39093,Lorain,Ohio,2020,358,322,35,0,1,0,0,154,51,35,0,0,189,169,0,39,093,"Lorain County, Ohio",58427,888 of 3146,"Lorain County, OH",354,315595,112.2,112.17
+39095,Lucas,Ohio,2020,354,291,55,8,0,0,0,136,62,38,0,0,201,153,0,39,095,"Lucas County, Ohio",48736,1919 of 3146,"Lucas County, OH",431,429191,100.4,100.42
+39097,Madison,Ohio,2020,245,220,25,0,0,0,0,84,51,39,0,0,245,0,0,39,097,"Madison County, Ohio",68022,367 of 3146,"Madison County, OH",56,44386,126.2,126.17
+39099,Mahoning,Ohio,2020,365,320,44,1,0,0,0,142,54,38,0,0,169,196,0,39,099,"Mahoning County, Ohio",46042,2196 of 3146,"Mahoning County, OH",252,226762,111.1,111.13
+39103,Medina,Ohio,2020,360,321,39,0,0,0,0,93,51,35,0,0,187,173,0,39,103,"Medina County, Ohio",76600,210 of 3146,"Medina County, OH",165,183092,90.1,90.12
+39109,Miami,Ohio,2020,229,217,12,0,0,0,0,93,49,39,0,0,229,0,0,39,109,"Miami County, Ohio",61041,695 of 3146,"Miami County, OH",89,109264,81.5,81.45
+39113,Montgomery,Ohio,2020,361,246,111,4,0,0,0,112,64,44,0,0,162,198,1,39,113,"Montgomery County, Ohio",51542,1606 of 3146,"Montgomery County, OH",467,535840,87.2,87.15
+39133,Portage,Ohio,2020,262,229,32,1,0,0,0,101,55,39,0,0,241,21,0,39,133,"Portage County, Ohio",57618,962 of 3146,"Portage County, OH",148,162382,91.1,91.14
+39135,Preble,Ohio,2020,366,315,50,1,0,0,0,101,54,38,0,0,245,121,0,39,135,"Preble County, Ohio",58957,851 of 3146,"Preble County, OH",44,40867,107.7,107.67
+39145,Scioto,Ohio,2020,366,361,5,0,0,0,0,92,31,14,0,0,0,96,270,39,145,"Scioto County, Ohio",41330,2621 of 3146,"Scioto County, OH",140,73346,190.9,190.88
+39151,Stark,Ohio,2020,358,262,92,4,0,0,0,119,62,42,0,0,173,185,0,39,151,"Stark County, Ohio",53860,1313 of 3146,"Stark County, OH",386,373834,103.3,103.25
+39153,Summit,Ohio,2020,361,276,82,3,0,0,0,114,59,39,0,0,121,240,0,39,153,"Summit County, Ohio",57181,997 of 3146,"Summit County, OH",526,537633,97.8,97.84
+39155,Trumbull,Ohio,2020,357,315,39,2,1,0,0,153,52,37,0,0,219,138,0,39,155,"Trumbull County, Ohio",47280,2066 of 3146,"Trumbull County, OH",252,201335,125.2,125.16
+39165,Warren,Ohio,2020,361,293,64,4,0,0,0,115,59,39,0,0,211,150,0,39,165,"Warren County, Ohio",87125,96 of 3146,"Warren County, OH",163,246553,66.1,66.11
+39167,Washington,Ohio,2020,245,233,11,1,0,0,0,108,48,38,0,0,245,0,0,39,167,"Washington County, Ohio",50021,1779 of 3146,"Washington County, OH",92,59423,154.8,154.82
+39173,Wood,Ohio,2020,229,216,13,0,0,0,0,80,46,34,0,0,229,0,0,39,173,"Wood County, Ohio",62390,627 of 3146,"Wood County, OH",90,132472,67.9,67.94
+40001,Adair,Oklahoma,2020,363,337,25,0,1,0,0,151,49,33,1,0,217,137,8,40,001,"Adair County, Oklahoma",34695,2992 of 3146,"Adair County, OK",29,19414,149.4,149.38
+4001,Apache,Arizona,2020,364,360,4,0,0,0,0,58,29,14,0,0,0,24,340,04,001,"Apache County, Arizona",32508,3038 of 3146,"Apache County, AZ",73,65623,111.2,111.24
+40017,Canadian,Oklahoma,2020,358,332,26,0,0,0,0,84,49,36,0,0,358,0,0,40,017,"Canadian County, Oklahoma",72056,273 of 3146,"Canadian County, OK",130,161737,80.4,80.38
+40019,Carter,Oklahoma,2020,345,247,97,1,0,0,0,147,64,43,0,0,184,161,0,40,019,"Carter County, Oklahoma",51419,1618 of 3146,"Carter County, OK",72,48291,149.1,149.1
+40027,Cleveland,Oklahoma,2020,354,253,99,2,0,0,0,121,64,43,0,0,162,192,0,40,027,"Cleveland County, Oklahoma",64016,523 of 3146,"Cleveland County, OK",235,297597,79.0,78.97
+4003,Cochise,Arizona,2020,366,274,90,2,0,0,0,108,61,45,0,0,303,2,61,04,003,"Cochise County, Arizona",49260,1874 of 3146,"Cochise County, AZ",156,126050,123.8,123.76
+40031,Comanche,Oklahoma,2020,366,306,59,1,0,0,0,107,58,40,0,0,233,133,0,40,031,"Comanche County, Oklahoma",52161,1532 of 3146,"Comanche County, OK",127,122063,104.0,104.04
+40037,Creek,Oklahoma,2020,363,350,13,0,0,0,0,93,47,35,0,0,363,0,0,40,037,"Creek County, Oklahoma",51318,1628 of 3146,"Creek County, OK",76,72029,105.5,105.51
+4005,Coconino,Arizona,2020,366,308,58,0,0,0,0,93,54,44,0,0,352,14,0,04,005,"Coconino County, Arizona",59460,812 of 3146,"Coconino County, AZ",71,145052,48.9,48.95
+40069,Johnston,Oklahoma,2020,289,267,22,0,0,0,0,97,49,38,0,0,289,0,0,40,069,"Johnston County, Oklahoma",41332,2620 of 3146,"Johnston County, OK",20,10301,194.2,194.16
+4007,Gila,Arizona,2020,366,256,99,8,3,0,0,174,74,44,0,0,338,1,27,04,007,"Gila County, Arizona",43524,2418 of 3146,"Gila County, AZ",74,53589,138.1,138.09
+40071,Kay,Oklahoma,2020,366,266,98,2,0,0,0,113,58,42,0,0,86,280,0,40,071,"Kay County, Oklahoma",46809,2115 of 3146,"Kay County, OK",51,43732,116.6,116.62
+40097,Mayes,Oklahoma,2020,258,255,3,0,0,0,0,51,44,34,0,0,258,0,0,40,097,"Mayes County, Oklahoma",50345,1735 of 3146,"Mayes County, OK",69,39159,176.2,176.2
+40109,Oklahoma,Oklahoma,2020,366,235,127,4,0,0,0,112,67,45,0,13,168,183,2,40,109,"Oklahoma County, Oklahoma",54520,1239 of 3146,"Oklahoma County, OK",638,798575,79.9,79.89
+40113,Osage,Oklahoma,2020,350,322,28,0,0,0,0,90,49,36,0,0,350,0,0,40,113,"Osage County, Oklahoma",49103,1890 of 3146,"Osage County, OK",46,45772,100.5,100.5
+40115,Ottawa,Oklahoma,2020,352,271,79,1,1,0,0,154,60,37,0,0,72,252,28,40,115,"Ottawa County, Oklahoma",39872,2726 of 3146,"Ottawa County, OK",54,30340,178.0,177.98
+4012,La Paz,Arizona,2020,366,294,70,2,0,0,0,125,58,44,0,0,358,0,8,04,012,"La Paz County, Arizona",34643,2995 of 3146,"La Paz County, AZ",43,16408,262.1,262.07
+40121,Pittsburg,Oklahoma,2020,366,303,62,1,0,0,0,141,56,39,0,0,206,160,0,40,121,"Pittsburg County, Oklahoma",46784,2117 of 3146,"Pittsburg County, OK",68,43633,155.8,155.85
+4013,Maricopa,Arizona,2020,366,14,151,60,67,74,0,282,215,112,0,0,273,55,38,04,013,"Maricopa County, Arizona",64468,499 of 3146,"Maricopa County, AZ",2978,4496588,66.2,66.23
+40135,Sequoyah,Oklahoma,2020,363,337,25,1,0,0,0,141,47,33,0,17,215,131,0,40,135,"Sequoyah County, Oklahoma",40351,2686 of 3146,"Sequoyah County, OK",57,39508,144.3,144.27
+40143,Tulsa,Oklahoma,2020,366,278,86,2,0,0,0,129,58,42,0,0,200,162,4,40,143,"Tulsa County, Oklahoma",55517,1136 of 3146,"Tulsa County, OK",535,672858,79.5,79.51
+40147,Washington,Oklahoma,2020,344,299,44,1,0,0,0,101,56,40,0,0,220,124,0,40,147,"Washington County, Oklahoma",54997,1184 of 3146,"Washington County, OK",63,52772,119.4,119.38
+4015,Mohave,Arizona,2020,358,349,8,1,0,0,0,116,34,18,0,0,0,25,333,04,015,"Mohave County, Arizona",45587,2231 of 3146,"Mohave County, AZ",395,217692,181.4,181.45
+4017,Navajo,Arizona,2020,366,317,47,2,0,0,0,136,54,43,0,0,360,3,3,04,017,"Navajo County, Arizona",40067,2712 of 3146,"Navajo County, AZ",144,108147,133.2,133.15
+4019,Pima,Arizona,2020,366,154,199,12,0,1,0,277,77,53,0,0,202,45,119,04,019,"Pima County, Arizona",53379,1366 of 3146,"Pima County, AZ",875,1052030,83.2,83.17
+4021,Pinal,Arizona,2020,366,97,186,76,5,0,2,1124,119,72,0,0,143,36,187,04,021,"Pinal County, Arizona",58174,907 of 3146,"Pinal County, AZ",368,449557,81.9,81.86
+4023,Santa Cruz,Arizona,2020,360,233,122,4,1,0,0,165,69,34,0,0,0,191,169,04,023,"Santa Cruz County, Arizona",41259,2624 of 3146,"Santa Cruz County, AZ",25,47883,52.2,52.21
+4025,Yavapai,Arizona,2020,331,265,65,1,0,0,0,119,61,45,0,0,331,0,0,04,025,"Yavapai County, Arizona",52451,1487 of 3146,"Yavapai County, AZ",365,242253,150.7,150.67
+4027,Yuma,Arizona,2020,366,257,106,2,0,0,1,321,69,44,0,0,235,70,61,04,027,"Yuma County, Arizona",45243,2263 of 3146,"Yuma County, AZ",140,206990,67.6,67.64
+41001,Baker,Oregon,2020,366,327,32,2,5,0,0,200,51,25,0,0,0,366,0,41,001,"Baker County, Oregon",45998,2199 of 3146,"Baker County, OR",15,16847,Unreliable,89.04
+41003,Benton,Oregon,2020,366,330,25,0,3,5,3,396,50,18,0,0,0,366,0,41,003,"Benton County, Oregon",62077,642 of 3146,"Benton County, OR",44,96017,45.8,45.83
+41005,Clackamas,Oregon,2020,272,249,14,3,2,1,3,366,49,30,0,0,133,139,0,41,005,"Clackamas County, Oregon",80484,161 of 3146,"Clackamas County, OR",235,422537,55.6,55.62
+41009,Columbia,Oregon,2020,363,342,12,1,4,4,0,268,40,25,0,0,133,230,0,41,009,"Columbia County, Oregon",62257,632 of 3146,"Columbia County, OR",54,53074,101.7,101.74
+41013,Crook,Oregon,2020,365,297,61,0,2,2,3,561,60,21,0,0,0,365,0,41,013,"Crook County, Oregon",49006,1896 of 3146,"Crook County, OR",18,25739,Unreliable,69.93
+41017,Deschutes,Oregon,2020,366,317,35,4,2,1,7,583,55,18,0,0,0,366,0,41,017,"Deschutes County, Oregon",67043,397 of 3146,"Deschutes County, OR",116,204801,56.6,56.64
+41019,Douglas,Oregon,2020,366,313,43,1,1,2,6,518,57,22,0,0,0,366,0,41,019,"Douglas County, Oregon",47267,2068 of 3146,"Douglas County, OR",167,111978,149.1,149.14
+41023,Grant,Oregon,2020,364,248,109,1,5,0,1,322,66,33,0,0,0,364,0,41,023,"Grant County, Oregon",44712,2309 of 3146,"Grant County, OR",12,7272,Unreliable,165.02
+41025,Harney,Oregon,2020,366,248,107,2,8,0,1,304,72,32,0,0,0,366,0,41,025,"Harney County, Oregon",40735,2664 of 3146,"Harney County, OR",15,7575,Unreliable,198.02
+41029,Jackson,Oregon,2020,366,262,89,2,5,4,4,517,70,40,0,0,122,244,0,41,029,"Jackson County, Oregon",53412,1362 of 3146,"Jackson County, OR",174,223734,77.8,77.77
+41031,Jefferson,Oregon,2020,361,297,53,3,0,3,5,595,59,21,0,0,0,361,0,41,031,"Jefferson County, Oregon",53277,1379 of 3146,"Jefferson County, OR",16,25068,Unreliable,63.83
+41033,Josephine,Oregon,2020,366,273,67,4,15,0,7,472,73,26,0,0,0,366,0,41,033,"Josephine County, Oregon",45616,2228 of 3146,"Josephine County, OR",92,88346,104.1,104.14
+41035,Klamath,Oregon,2020,366,210,110,23,20,1,2,679,124,41,0,0,0,357,9,41,035,"Klamath County, Oregon",46491,2151 of 3146,"Klamath County, OR",104,70164,148.2,148.22
+41039,Lane,Oregon,2020,366,246,106,4,0,2,8,550,75,40,0,0,104,257,5,41,039,"Lane County, Oregon",52426,1492 of 3146,"Lane County, OR",278,383189,72.5,72.55
+41043,Linn,Oregon,2020,366,283,72,0,1,3,7,502,63,27,0,0,0,366,0,41,043,"Linn County, Oregon",55893,1107 of 3146,"Linn County, OR",114,129839,87.8,87.8
+41047,Marion,Oregon,2020,365,302,52,1,1,0,9,641,58,32,0,0,131,234,0,41,047,"Marion County, Oregon",59625,803 of 3146,"Marion County, OR",214,347119,61.7,61.65
+41051,Multnomah,Oregon,2020,366,308,49,1,0,3,5,477,58,33,0,1,243,122,0,41,051,"Multnomah County, Oregon",69176,340 of 3146,"Multnomah County, OR",368,803377,45.8,45.81
+41059,Umatilla,Oregon,2020,366,311,47,0,1,3,4,463,55,35,0,0,125,241,0,41,059,"Umatilla County, Oregon",54699,1218 of 3146,"Umatilla County, OR",69,79988,86.3,86.26
+41061,Union,Oregon,2020,366,330,27,1,5,3,0,288,48,20,0,0,0,362,4,41,061,"Union County, Oregon",52171,1528 of 3146,"Union County, OR",25,26212,95.4,95.38
+41065,Wasco,Oregon,2020,355,322,30,0,0,0,3,417,45,18,0,0,0,355,0,41,065,"Wasco County, Oregon",53105,1403 of 3146,"Wasco County, OR",31,26726,116.0,115.99
+41067,Washington,Oregon,2020,366,308,48,2,0,3,5,416,56,31,0,10,188,168,0,41,067,"Washington County, Oregon",82215,142 of 3146,"Washington County, OR",217,600811,36.1,36.12
+42001,Adams,Pennsylvania,2020,366,320,46,0,0,0,0,86,54,40,0,0,282,84,0,42,001,"Adams County, Pennsylvania",67253,387 of 3146,"Adams County, PA",85,104127,81.6,81.63
+42003,Allegheny,Pennsylvania,2020,366,218,138,10,0,0,0,128,75,47,0,0,156,208,2,42,003,"Allegheny County, Pennsylvania",61043,694 of 3146,"Allegheny County, PA",1065,1238090,86.0,86.02
+42005,Armstrong,Pennsylvania,2020,366,309,54,3,0,0,0,122,54,39,0,0,221,145,0,42,005,"Armstrong County, Pennsylvania",51410,1621 of 3146,"Armstrong County, PA",84,65093,129.0,129.05
+42007,Beaver,Pennsylvania,2020,366,279,86,1,0,0,0,142,62,42,0,1,219,146,0,42,007,"Beaver County, Pennsylvania",57807,945 of 3146,"Beaver County, PA",148,166624,88.8,88.82
+42011,Berks,Pennsylvania,2020,362,280,81,1,0,0,0,102,58,40,0,0,223,139,0,42,011,"Berks County, Pennsylvania",63728,545 of 3146,"Berks County, PA",298,429342,69.4,69.41
+42013,Blair,Pennsylvania,2020,360,309,51,0,0,0,0,87,54,38,0,0,229,131,0,42,013,"Blair County, Pennsylvania",49181,1878 of 3146,"Blair County, PA",135,121767,110.9,110.87
+42015,Bradford,Pennsylvania,2020,358,337,21,0,0,0,0,81,48,37,0,0,269,89,0,42,015,"Bradford County, Pennsylvania",52358,1499 of 3146,"Bradford County, PA",61,59892,101.8,101.85
+42017,Bucks,Pennsylvania,2020,351,331,16,4,0,0,0,115,46,33,0,0,351,0,0,42,017,"Bucks County, Pennsylvania",89139,78 of 3146,"Bucks County, PA",509,646098,78.8,78.78
+42021,Cambria,Pennsylvania,2020,366,309,57,0,0,0,0,89,56,38,1,1,183,181,0,42,021,"Cambria County, Pennsylvania",46659,2133 of 3146,"Cambria County, PA",141,132167,106.7,106.68
+42027,Centre,Pennsylvania,2020,366,324,42,0,0,0,0,90,51,38,0,0,276,90,0,42,027,"Centre County, Pennsylvania",60403,742 of 3146,"Centre County, PA",86,157527,54.6,54.59
+42029,Chester,Pennsylvania,2020,355,296,58,1,0,0,0,143,55,39,0,0,204,151,0,42,029,"Chester County, Pennsylvania",100214,37 of 3146,"Chester County, PA",289,538649,53.7,53.65
+42033,Clearfield,Pennsylvania,2020,343,341,2,0,0,0,0,54,42,31,0,0,343,0,0,42,033,"Clearfield County, Pennsylvania",49015,1895 of 3146,"Clearfield County, PA",110,80082,137.4,137.36
+42041,Cumberland,Pennsylvania,2020,363,292,69,2,0,0,0,137,55,33,0,0,0,363,0,42,041,"Cumberland County, Pennsylvania",71269,291 of 3146,"Cumberland County, PA",176,262919,66.9,66.94
+42043,Dauphin,Pennsylvania,2020,366,277,86,3,0,0,0,116,61,40,0,0,207,159,0,42,043,"Dauphin County, Pennsylvania",60715,719 of 3146,"Dauphin County, PA",203,287400,70.6,70.63
+42045,Delaware,Pennsylvania,2020,366,249,114,3,0,0,0,129,64,43,0,5,136,225,0,42,045,"Delaware County, Pennsylvania",74477,239 of 3146,"Delaware County, PA",451,573849,78.6,78.59
+42047,Elk,Pennsylvania,2020,358,356,2,0,0,0,0,67,44,34,0,0,358,0,0,42,047,"Elk County, Pennsylvania",53440,1357 of 3146,"Elk County, PA",39,30783,126.7,126.69
+42049,Erie,Pennsylvania,2020,363,329,34,0,0,0,0,87,49,34,3,1,262,97,0,42,049,"Erie County, Pennsylvania",51529,1607 of 3146,"Erie County, PA",267,269011,99.3,99.25
+42051,Fayette,Pennsylvania,2020,363,324,39,0,0,0,0,100,51,37,0,1,237,125,0,42,051,"Fayette County, Pennsylvania",47364,2055 of 3146,"Fayette County, PA",190,126931,149.7,149.69
+42055,Franklin,Pennsylvania,2020,363,363,0,0,0,0,0,50,42,32,0,0,363,0,0,42,055,"Franklin County, Pennsylvania",63379,568 of 3146,"Franklin County, PA",147,156289,94.1,94.06
+42059,Greene,Pennsylvania,2020,359,335,23,1,0,0,0,101,49,36,0,0,264,95,0,42,059,"Greene County, Pennsylvania",54776,1210 of 3146,"Greene County, PA",34,35369,96.1,96.13
+42063,Indiana,Pennsylvania,2020,351,325,25,1,0,0,0,112,48,36,0,0,326,25,0,42,063,"Indiana County, Pennsylvania",49320,1867 of 3146,"Indiana County, PA",89,82886,107.4,107.38
+42069,Lackawanna,Pennsylvania,2020,366,333,33,0,0,0,0,81,50,38,0,29,248,89,0,42,069,"Lackawanna County, Pennsylvania",52821,1442 of 3146,"Lackawanna County, PA",230,215663,106.6,106.65
+42071,Lancaster,Pennsylvania,2020,366,258,103,4,1,0,0,153,62,43,0,0,170,193,3,42,071,"Lancaster County, Pennsylvania",66056,436 of 3146,"Lancaster County, PA",364,553652,65.7,65.75
+42073,Lawrence,Pennsylvania,2020,363,354,9,0,0,0,0,93,43,31,0,0,363,0,0,42,073,"Lawrence County, Pennsylvania",50204,1756 of 3146,"Lawrence County, PA",96,85497,112.3,112.28
+42075,Lebanon,Pennsylvania,2020,170,144,25,1,0,0,0,115,55,30,0,0,2,168,0,42,075,"Lebanon County, Pennsylvania",60281,756 of 3146,"Lebanon County, PA",133,143493,92.7,92.69
+42077,Lehigh,Pennsylvania,2020,359,316,43,0,0,0,0,93,52,37,0,0,236,119,4,42,077,"Lehigh County, Pennsylvania",63897,531 of 3146,"Lehigh County, PA",219,375539,58.3,58.32
+42079,Luzerne,Pennsylvania,2020,356,354,2,0,0,0,0,54,43,31,0,0,308,0,48,42,079,"Luzerne County, Pennsylvania",53473,1356 of 3146,"Luzerne County, PA",288,326053,88.3,88.33
+42081,Lycoming,Pennsylvania,2020,366,329,36,1,0,0,0,109,51,37,0,0,257,109,0,42,081,"Lycoming County, Pennsylvania",54241,1269 of 3146,"Lycoming County, PA",120,113605,105.6,105.63
+42085,Mercer,Pennsylvania,2020,366,319,46,1,0,0,0,105,54,38,0,0,262,104,0,42,085,"Mercer County, Pennsylvania",50696,1685 of 3146,"Mercer County, PA",138,109972,125.5,125.49
+42089,Monroe,Pennsylvania,2020,357,355,2,0,0,0,0,80,44,33,0,0,357,0,0,42,089,"Monroe County, Pennsylvania",63934,528 of 3146,"Monroe County, PA",136,169273,80.3,80.34
+42091,Montgomery,Pennsylvania,2020,366,313,53,0,0,0,0,99,56,38,0,0,225,141,0,42,091,"Montgomery County, Pennsylvania",91546,64 of 3146,"Montgomery County, PA",560,860578,65.1,65.07
+42095,Northampton,Pennsylvania,2020,365,313,51,1,0,0,0,117,54,38,0,7,228,130,0,42,095,"Northampton County, Pennsylvania",70471,310 of 3146,"Northampton County, PA",211,313628,67.3,67.28
+42101,Philadelphia,Pennsylvania,2020,366,281,80,5,0,0,0,119,59,41,0,42,174,150,0,42,101,"Philadelphia County, Pennsylvania",45927,2205 of 3146,"Philadelphia County, PA",1073,1576251,68.1,68.07
+42111,Somerset,Pennsylvania,2020,365,357,8,0,0,0,0,71,44,34,0,0,365,0,0,42,111,"Somerset County, Pennsylvania",49089,1891 of 3146,"Somerset County, PA",85,73627,115.4,115.45
+42115,Susquehanna,Pennsylvania,2020,365,351,14,0,0,0,0,71,40,23,0,0,0,365,0,42,115,"Susquehanna County, Pennsylvania",54966,1187 of 3146,"Susquehanna County, PA",41,38389,106.8,106.8
+42117,Tioga,Pennsylvania,2020,352,334,18,0,0,0,0,79,47,37,0,0,282,70,0,42,117,"Tioga County, Pennsylvania",51324,1627 of 3146,"Tioga County, PA",59,40929,144.2,144.15
+42125,Washington,Pennsylvania,2020,366,299,67,0,0,0,0,100,58,41,0,2,226,138,0,42,125,"Washington County, Pennsylvania",63543,556 of 3146,"Washington County, PA",207,209470,98.8,98.82
+42129,Westmoreland,Pennsylvania,2020,362,331,31,0,0,0,0,81,50,35,0,0,248,114,0,42,129,"Westmoreland County, Pennsylvania",60471,738 of 3146,"Westmoreland County, PA",437,353057,123.8,123.78
+42131,Wyoming,Pennsylvania,2020,361,341,20,0,0,0,0,76,43,25,0,0,0,361,0,42,131,"Wyoming County, Pennsylvania",59415,818 of 3146,"Wyoming County, PA",18,26034,Unreliable,69.14
+42133,York,Pennsylvania,2020,366,301,65,0,0,0,0,97,57,40,0,15,195,156,0,42,133,"York County, Pennsylvania",66457,419 of 3146,"York County, PA",326,458696,71.1,71.07
+44003,Kent,Rhode Island,2020,358,339,18,1,0,0,0,133,47,31,0,0,190,168,0,44,003,"Kent County, Rhode Island",73521,253 of 3146,"Kent County, RI",147,170715,86.1,86.11
+44007,Providence,Rhode Island,2020,366,304,60,2,0,0,0,112,54,40,0,14,201,151,0,44,007,"Providence County, Rhode Island",58974,850 of 3146,"Providence County, RI",379,658221,57.6,57.58
+44009,Washington,Rhode Island,2020,366,336,28,1,1,0,0,154,49,32,0,0,210,156,0,44,009,"Washington County, Rhode Island",85531,111 of 3146,"Washington County, RI",79,130592,60.5,60.49
+45003,Aiken,South Carolina,2020,259,258,1,0,0,0,0,71,44,32,0,0,259,0,0,45,003,"Aiken County, South Carolina",51399,1622 of 3146,"Aiken County, SC",200,170776,117.1,117.11
+45007,Anderson,South Carolina,2020,265,257,8,0,0,0,0,71,46,35,0,0,265,0,0,45,007,"Anderson County, South Carolina",50865,1667 of 3146,"Anderson County, SC",229,206908,110.7,110.68
+45015,Berkeley,South Carolina,2020,220,219,1,0,0,0,0,51,43,31,0,0,220,0,0,45,015,"Berkeley County, South Carolina",63309,572 of 3146,"Berkeley County, SC",183,236701,77.3,77.31
+45019,Charleston,South Carolina,2020,366,328,37,1,0,0,0,117,51,35,0,1,137,228,0,45,019,"Charleston County, South Carolina",64022,522 of 3146,"Charleston County, SC",253,413024,61.3,61.26
+45025,Chesterfield,South Carolina,2020,346,321,25,0,0,0,0,89,49,34,0,0,219,127,0,45,025,"Chesterfield County, South Carolina",41505,2599 of 3146,"Chesterfield County, SC",53,43268,122.5,122.49
+45031,Darlington,South Carolina,2020,253,253,0,0,0,0,0,49,42,32,0,0,253,0,0,45,031,"Darlington County, South Carolina",38448,2811 of 3146,"Darlington County, SC",77,62755,122.7,122.7
+45037,Edgefield,South Carolina,2020,366,348,17,1,0,0,0,115,46,33,0,0,228,138,0,45,037,"Edgefield County, South Carolina",49127,1888 of 3146,"Edgefield County, SC",43,26153,164.4,164.42
+45041,Florence,South Carolina,2020,352,334,18,0,0,0,0,95,42,28,0,0,0,352,0,45,041,"Florence County, South Carolina",47058,2096 of 3146,"Florence County, SC",152,136504,111.4,111.35
+45045,Greenville,South Carolina,2020,366,294,71,1,0,0,0,116,55,39,0,1,199,166,0,45,045,"Greenville County, South Carolina",60351,748 of 3146,"Greenville County, SC",386,533834,72.3,72.31
+45051,Horry,South Carolina,2020,214,214,0,0,0,0,0,50,44,32,0,0,214,0,0,45,051,"Horry County, South Carolina",50704,1684 of 3146,"Horry County, SC",396,365579,108.3,108.32
+45063,Lexington,South Carolina,2020,365,333,31,1,0,0,0,111,48,29,0,0,0,349,16,45,063,"Lexington County, South Carolina",61173,688 of 3146,"Lexington County, SC",249,300137,83.0,82.96
+45079,Richland,South Carolina,2020,366,335,30,1,0,0,0,117,49,35,0,5,238,123,0,45,079,"Richland County, South Carolina",54767,1211 of 3146,"Richland County, SC",229,418307,54.7,54.74
+45083,Spartanburg,South Carolina,2020,366,303,61,2,0,0,0,112,54,40,0,0,170,196,0,45,083,"Spartanburg County, South Carolina",52332,1503 of 3146,"Spartanburg County, SC",313,335864,93.2,93.19
+45091,York,South Carolina,2020,366,346,20,0,0,0,0,92,47,35,0,0,224,142,0,45,091,"York County, South Carolina",65361,456 of 3146,"York County, SC",191,288595,66.2,66.18
+46013,Brown,South Dakota,2020,364,333,31,0,0,0,0,75,47,23,0,0,0,211,153,46,013,"Brown County, South Dakota",58216,905 of 3146,"Brown County, SD",35,38101,91.9,91.86
+46029,Codington,South Dakota,2020,366,321,44,1,0,0,0,101,53,36,0,0,198,103,65,46,029,"Codington County, South Dakota",56376,1067 of 3146,"Codington County, SD",31,28427,109.1,109.05
+46065,Hughes,South Dakota,2020,355,345,10,0,0,0,0,76,30,14,0,0,0,355,0,46,065,"Hughes County, South Dakota",64783,478 of 3146,"Hughes County, SD",19,17694,Unreliable,107.38
+46093,Meade,South Dakota,2020,364,342,22,0,0,0,0,84,47,38,0,0,350,0,14,46,093,"Meade County, South Dakota",60578,732 of 3146,"Meade County, SD",23,30173,76.2,76.23
+46099,Minnehaha,South Dakota,2020,366,324,42,0,0,0,0,90,52,35,0,6,253,90,17,46,099,"Minnehaha County, South Dakota",61772,651 of 3146,"Minnehaha County, SD",144,199685,72.1,72.11
+46103,Pennington,South Dakota,2020,366,291,75,0,0,0,0,91,62,31,0,38,0,148,180,46,103,"Pennington County, South Dakota",57039,1011 of 3146,"Pennington County, SD",96,111806,85.9,85.86
+46127,Union,South Dakota,2020,366,324,41,1,0,0,0,141,53,36,0,0,271,67,28,46,127,"Union County, South Dakota",70378,315 of 3146,"Union County, SD",10,16872,Unreliable,59.27
+47001,Anderson,Tennessee,2020,245,238,7,0,0,0,0,64,46,35,0,0,245,0,0,47,001,"Anderson County, Tennessee",50392,1727 of 3146,"Anderson County, TN",111,77576,143.1,143.09
+47009,Blount,Tennessee,2020,366,324,42,0,0,0,0,92,51,38,0,0,290,76,0,47,009,"Blount County, Tennessee",56667,1046 of 3146,"Blount County, TN",182,137605,132.3,132.26
+47025,Claiborne,Tennessee,2020,345,343,2,0,0,0,0,51,44,32,0,0,345,0,0,47,025,"Claiborne County, Tennessee",36835,2911 of 3146,"Claiborne County, TN",57,32267,176.7,176.65
+47037,Davidson,Tennessee,2020,366,283,81,2,0,0,0,116,58,41,0,20,127,219,0,47,037,"Davidson County, Tennessee",60388,743 of 3146,"Davidson County, TN",405,703953,57.5,57.53
+47041,DeKalb,Tennessee,2020,341,336,5,0,0,0,0,61,44,33,0,0,341,0,0,47,041,"DeKalb County, Tennessee",45511,2240 of 3146,"DeKalb County, TN",34,20478,166.0,166.03
+47045,Dyer,Tennessee,2020,351,332,18,1,0,0,0,117,42,23,0,0,0,351,0,47,045,"Dyer County, Tennessee",44185,2357 of 3146,"Dyer County, TN",61,36615,166.6,166.6
+47065,Hamilton,Tennessee,2020,365,291,73,0,1,0,0,151,55,40,0,0,163,202,0,47,065,"Hamilton County, Tennessee",55070,1179 of 3146,"Hamilton County, TN",375,369135,101.6,101.59
+47089,Jefferson,Tennessee,2020,240,232,8,0,0,0,0,74,48,37,0,0,240,0,0,47,089,"Jefferson County, Tennessee",49139,1886 of 3146,"Jefferson County, TN",80,55624,143.8,143.82
+47093,Knox,Tennessee,2020,366,299,67,0,0,0,0,90,55,38,0,0,165,201,0,47,093,"Knox County, Tennessee",57470,968 of 3146,"Knox County, TN",505,486677,103.8,103.76
+47099,Lawrence,Tennessee,2020,359,347,12,0,0,0,0,72,37,20,0,0,0,359,0,47,099,"Lawrence County, Tennessee",43614,2410 of 3146,"Lawrence County, TN",54,44828,120.5,120.46
+47105,Loudon,Tennessee,2020,366,337,29,0,0,0,0,97,49,34,0,0,196,170,0,47,105,"Loudon County, Tennessee",58065,916 of 3146,"Loudon County, TN",59,56690,104.1,104.07
+47107,McMinn,Tennessee,2020,358,327,31,0,0,0,0,88,47,28,0,0,0,358,0,47,107,"McMinn County, Tennessee",43285,2445 of 3146,"McMinn County, TN",62,54059,114.7,114.69
+47113,Madison,Tennessee,2020,354,334,19,1,0,0,0,108,42,25,0,0,0,354,0,47,113,"Madison County, Tennessee",48161,1968 of 3146,"Madison County, TN",95,98775,96.2,96.18
+47119,Maury,Tennessee,2020,351,339,12,0,0,0,0,91,42,22,0,0,0,351,0,47,119,"Maury County, Tennessee",57170,1000 of 3146,"Maury County, TN",99,104760,94.5,94.5
+47125,Montgomery,Tennessee,2020,359,340,17,2,0,0,0,116,44,26,0,0,0,359,0,47,125,"Montgomery County, Tennessee",57541,966 of 3146,"Montgomery County, TN",172,227900,75.5,75.47
+47141,Putnam,Tennessee,2020,359,345,13,1,0,0,0,105,40,23,0,0,0,359,0,47,141,"Putnam County, Tennessee",44259,2348 of 3146,"Putnam County, TN",103,81188,126.9,126.87
+47145,Roane,Tennessee,2020,338,316,22,0,0,0,0,91,46,26,0,0,0,338,0,47,145,"Roane County, Tennessee",53367,1368 of 3146,"Roane County, TN",83,53992,153.7,153.73
+47155,Sevier,Tennessee,2020,363,336,26,1,0,0,0,105,49,40,0,0,363,0,0,47,155,"Sevier County, Tennessee",49610,1831 of 3146,"Sevier County, TN",121,99517,121.6,121.59
+47157,Shelby,Tennessee,2020,366,263,102,0,1,0,0,152,61,44,0,2,162,202,0,47,157,"Shelby County, Tennessee",51657,1589 of 3146,"Shelby County, TN",680,924454,73.6,73.56
+47163,Sullivan,Tennessee,2020,366,350,16,0,0,0,0,80,48,34,0,0,220,146,0,47,163,"Sullivan County, Tennessee",46684,2127 of 3146,"Sullivan County, TN",219,159265,137.5,137.51
+47165,Sumner,Tennessee,2020,360,316,43,1,0,0,0,121,52,37,0,0,193,167,0,47,165,"Sumner County, Tennessee",67204,390 of 3146,"Sumner County, TN",155,200557,77.3,77.28
+47187,Williamson,Tennessee,2020,241,231,10,0,0,0,0,71,47,37,0,0,241,0,0,47,187,"Williamson County, Tennessee",112962,16 of 3146,"Williamson County, TN",95,255735,37.1,37.15
+47189,Wilson,Tennessee,2020,245,240,5,0,0,0,0,64,45,33,0,0,245,0,0,47,189,"Wilson County, Tennessee",75991,214 of 3146,"Wilson County, TN",103,151917,67.8,67.8
+48013,Atascosa,Texas,2020,214,179,34,0,1,0,0,156,60,29,0,0,0,214,0,48,013,"Atascosa County, Texas",55366,1147 of 3146,"Atascosa County, TX",34,49939,68.1,68.08
+48027,Bell,Texas,2020,366,293,72,1,0,0,0,135,61,40,0,0,251,115,0,48,027,"Bell County, Texas",54884,1198 of 3146,"Bell County, TX",270,379617,71.1,71.12
+48029,Bexar,Texas,2020,366,198,158,9,1,0,0,158,77,49,0,1,179,185,1,48,029,"Bexar County, Texas",57157,1003 of 3146,"Bexar County, TX",1033,2028236,50.9,50.93
+48037,Bowie,Texas,2020,358,270,87,1,0,0,0,127,56,36,0,0,0,358,0,48,037,"Bowie County, Texas",50164,1763 of 3146,"Bowie County, TX",90,92581,97.2,97.21
+48039,Brazoria,Texas,2020,365,328,34,2,1,0,0,182,51,33,0,11,354,0,0,48,039,"Brazoria County, Texas",81447,151 of 3146,"Brazoria County, TX",215,379689,56.6,56.63
+48041,Brazos,Texas,2020,303,263,40,0,0,0,0,99,52,30,0,0,0,303,0,48,041,"Brazos County, Texas",49181,1878 of 3146,"Brazos County, TX",85,237032,35.9,35.86
+48061,Cameron,Texas,2020,366,237,120,6,3,0,0,176,70,43,0,0,103,263,0,48,061,"Cameron County, Texas",38758,2791 of 3146,"Cameron County, TX",229,423029,54.1,54.13
+48085,Collin,Texas,2020,365,317,45,2,1,0,0,154,54,37,0,0,365,0,0,48,085,"Collin County, Texas",96913,49 of 3146,"Collin County, TX",424,1109462,38.2,38.22
+48113,Dallas,Texas,2020,366,272,88,6,0,0,0,135,67,42,0,29,216,120,1,48,113,"Dallas County, Texas",59607,804 of 3146,"Dallas County, TX",1223,2586050,47.3,47.29
+48121,Denton,Texas,2020,366,277,81,8,0,0,0,142,71,40,0,4,279,83,0,48,121,"Denton County, Texas",86913,100 of 3146,"Denton County, TX",360,941647,38.2,38.23
+48135,Ector,Texas,2020,346,311,35,0,0,0,0,95,51,27,0,0,0,346,0,48,135,"Ector County, Texas",62973,598 of 3146,"Ector County, TX",108,161091,67.0,67.04
+48139,Ellis,Texas,2020,366,299,66,1,0,0,0,125,58,39,0,2,243,121,0,48,139,"Ellis County, Texas",76871,205 of 3146,"Ellis County, TX",125,202678,61.7,61.67
+48141,El Paso,Texas,2020,366,143,204,17,2,0,0,192,89,55,0,21,194,120,31,48,141,"El Paso County, Texas",46871,2109 of 3146,"El Paso County, TX",400,867947,46.1,46.09
+48167,Galveston,Texas,2020,360,275,82,3,0,0,0,143,63,40,0,2,245,111,2,48,167,"Galveston County, Texas",73330,257 of 3146,"Galveston County, TX",270,355062,76.0,76.04
+48183,Gregg,Texas,2020,363,357,6,0,0,0,0,74,44,31,0,10,353,0,0,48,183,"Gregg County, Texas",50180,1760 of 3146,"Gregg County, TX",145,124201,116.7,116.75
+48201,Harris,Texas,2020,366,184,165,15,2,0,0,179,80,50,0,26,142,197,1,48,201,"Harris County, Texas",61705,657 of 3146,"Harris County, TX",2085,4728030,44.1,44.1
+48203,Harrison,Texas,2020,363,322,41,0,0,0,0,100,51,35,0,0,206,157,0,48,203,"Harrison County, Texas",52220,1519 of 3146,"Harrison County, TX",84,69150,121.5,121.48
+48215,Hidalgo,Texas,2020,366,270,91,3,2,0,0,155,65,37,0,0,130,234,2,48,215,"Hidalgo County, Texas",40014,2714 of 3146,"Hidalgo County, TX",331,880356,37.6,37.6
+48221,Hood,Texas,2020,357,330,27,0,0,0,0,100,48,33,0,0,357,0,0,48,221,"Hood County, Texas",64041,521 of 3146,"Hood County, TX",88,64222,137.0,137.02
+48231,Hunt,Texas,2020,366,351,15,0,0,0,0,87,45,32,0,2,364,0,0,48,231,"Hunt County, Texas",54959,1188 of 3146,"Hunt County, TX",121,103394,117.0,117.03
+48245,Jefferson,Texas,2020,363,269,92,2,0,0,0,122,62,40,0,0,225,138,0,48,245,"Jefferson County, Texas",51248,1637 of 3146,"Jefferson County, TX",220,253704,86.7,86.72
+48251,Johnson,Texas,2020,349,320,27,2,0,0,0,105,50,34,0,0,349,0,0,48,251,"Johnson County, Texas",64359,505 of 3146,"Johnson County, TX",157,187280,83.8,83.83
+48255,Karnes,Texas,2020,363,363,0,0,0,0,0,32,17,6,0,363,0,0,0,48,255,"Karnes County, Texas",56127,1086 of 3146,"Karnes County, TX",14,14754,Unreliable,94.89
+48257,Kaufman,Texas,2020,366,312,53,1,0,0,0,134,56,37,0,3,236,127,0,48,257,"Kaufman County, Texas",70107,318 of 3146,"Kaufman County, TX",115,157768,72.9,72.89
+48273,Kleberg,Texas,2020,330,240,84,4,2,0,0,168,66,35,0,0,0,330,0,48,273,"Kleberg County, Texas",43730,2398 of 3146,"Kleberg County, TX",15,30635,Unreliable,48.96
+48303,Lubbock,Texas,2020,352,329,23,0,0,0,0,81,40,20,0,0,0,352,0,48,303,"Lubbock County, Texas",52429,1489 of 3146,"Lubbock County, TX",258,314451,82.0,82.05
+48309,McLennan,Texas,2020,366,330,36,0,0,0,0,97,50,38,0,0,290,76,0,48,309,"McLennan County, Texas",49778,1809 of 3146,"McLennan County, TX",223,263115,84.8,84.75
+48323,Maverick,Texas,2020,347,292,54,0,1,0,0,160,56,27,0,0,0,347,0,48,323,"Maverick County, Texas",39625,2745 of 3146,"Maverick County, TX",28,58056,48.2,48.23
+48339,Montgomery,Texas,2020,366,281,77,8,0,0,0,129,62,40,0,1,216,149,0,48,339,"Montgomery County, Texas",80902,158 of 3146,"Montgomery County, TX",391,648886,60.3,60.26
+48349,Navarro,Texas,2020,366,311,53,2,0,0,0,113,53,37,0,4,216,146,0,48,349,"Navarro County, Texas",48529,1939 of 3146,"Navarro County, TX",47,53591,87.7,87.7
+48355,Nueces,Texas,2020,366,277,87,0,2,0,0,159,64,40,0,0,196,170,0,48,355,"Nueces County, Texas",55919,1102 of 3146,"Nueces County, TX",324,353079,91.8,91.76
+48361,Orange,Texas,2020,362,284,76,2,0,0,0,103,58,39,0,1,185,176,0,48,361,"Orange County, Texas",59399,820 of 3146,"Orange County, TX",114,84742,134.5,134.53
+48367,Parker,Texas,2020,362,331,30,1,0,0,0,115,50,35,0,0,362,0,0,48,367,"Parker County, Texas",77503,194 of 3146,"Parker County, TX",116,156764,74.0,74
+48373,Polk,Texas,2020,360,351,9,0,0,0,0,71,43,31,0,0,360,0,0,48,373,"Polk County, Texas",49279,1873 of 3146,"Polk County, TX",88,51899,169.6,169.56
+48375,Potter,Texas,2020,341,324,17,0,0,0,0,84,38,20,0,0,0,341,0,48,375,"Potter County, Texas",42528,2506 of 3146,"Potter County, TX",150,116547,128.7,128.7
+48381,Randall,Texas,2020,357,277,80,0,0,0,0,90,64,42,0,0,357,0,0,48,381,"Randall County, Texas",68261,364 of 3146,"Randall County, TX",113,143854,78.6,78.55
+48397,Rockwall,Texas,2020,363,345,17,1,0,0,0,133,45,32,0,0,363,0,0,48,397,"Rockwall County, Texas",100920,34 of 3146,"Rockwall County, TX",64,116381,55.0,54.99
+48423,Smith,Texas,2020,366,352,14,0,0,0,0,84,46,33,0,3,363,0,0,48,423,"Smith County, Texas",56810,1030 of 3146,"Smith County, TX",216,237186,91.1,91.07
+48439,Tarrant,Texas,2020,366,238,112,13,3,0,0,159,77,45,0,17,191,158,0,48,439,"Tarrant County, Texas",67700,375 of 3146,"Tarrant County, TX",1170,2126477,55.0,55.02
+48453,Travis,Texas,2020,366,260,104,1,1,0,0,153,63,44,0,6,162,197,1,48,453,"Travis County, Texas",75887,217 of 3146,"Travis County, TX",383,1305154,29.3,29.35
+48469,Victoria,Texas,2020,329,308,21,0,0,0,0,100,47,31,0,0,329,0,0,48,469,"Victoria County, Texas",56834,1029 of 3146,"Victoria County, TX",60,90964,66.0,65.96
+48479,Webb,Texas,2020,366,268,95,2,1,0,0,160,65,41,0,0,179,185,2,48,479,"Webb County, Texas",46475,2154 of 3146,"Webb County, TX",100,267945,37.3,37.32
+48493,Wilson,Texas,2020,365,365,0,0,0,0,0,34,18,7,0,365,0,0,0,48,493,"Wilson County, Texas",76692,208 of 3146,"Wilson County, TX",44,51257,85.8,85.84
+49003,Box Elder,Utah,2020,355,316,36,3,0,0,0,147,51,40,0,27,328,0,0,49,003,"Box Elder County, Utah",62233,635 of 3146,"Box Elder County, UT",41,59688,68.7,68.69
+49005,Cache,Utah,2020,366,252,105,5,4,0,0,159,71,44,0,0,213,132,21,49,005,"Cache County, Utah",59038,845 of 3146,"Cache County, UT",44,137417,32.0,32.02
+49007,Carbon,Utah,2020,350,308,42,0,0,0,0,93,51,43,0,2,348,0,0,49,007,"Carbon County, Utah",51158,1642 of 3146,"Carbon County, UT",35,20372,171.8,171.8
+49011,Davis,Utah,2020,366,242,110,13,1,0,0,155,77,44,0,42,219,105,0,49,011,"Davis County, Utah",83310,128 of 3146,"Davis County, UT",147,367285,40.0,40.02
+49013,Duchesne,Utah,2020,366,266,95,5,0,0,0,125,64,45,0,0,299,67,0,49,013,"Duchesne County, Utah",63224,577 of 3146,"Duchesne County, UT",19,19790,Unreliable,96.01
+49021,Iron,Utah,2020,366,332,34,0,0,0,0,86,50,40,0,24,311,31,0,49,021,"Iron County, Utah",51807,1569 of 3146,"Iron County, UT",29,60519,47.9,47.92
+49035,Salt Lake,Utah,2020,366,192,154,18,2,0,0,194,87,50,0,48,194,119,5,49,035,"Salt Lake County, Utah",74865,229 of 3146,"Salt Lake County, UT",506,1186421,42.6,42.65
+49037,San Juan,Utah,2020,352,306,44,2,0,0,0,108,54,43,0,0,347,5,0,49,037,"San Juan County, Utah",45394,2250 of 3146,"San Juan County, UT",11,14489,Unreliable,75.92
+49045,Tooele,Utah,2020,366,278,83,4,1,0,0,159,67,42,0,2,273,91,0,49,045,"Tooele County, Utah",74562,237 of 3146,"Tooele County, UT",46,76640,60.0,60.02
+49047,Uintah,Utah,2020,366,255,108,3,0,0,0,119,65,45,0,0,316,50,0,49,047,"Uintah County, Utah",65264,460 of 3146,"Uintah County, UT",27,36204,74.6,74.58
+49049,Utah,Utah,2020,366,237,124,5,0,0,0,150,77,45,0,9,254,101,2,49,049,"Utah County, Utah",74665,233 of 3146,"Utah County, UT",167,684986,24.4,24.38
+49053,Washington,Utah,2020,366,292,71,3,0,0,0,112,61,44,0,0,340,26,0,49,053,"Washington County, Utah",59839,790 of 3146,"Washington County, UT",117,191226,61.2,61.18
+49057,Weber,Utah,2020,366,258,102,6,0,0,0,140,71,44,0,48,238,72,8,49,057,"Weber County, Utah",67244,388 of 3146,"Weber County, UT",166,267066,62.2,62.16
+50003,Bennington,Vermont,2020,366,348,18,0,0,0,0,70,45,35,0,0,308,58,0,50,003,"Bennington County, Vermont",56183,1080 of 3146,"Bennington County, VT",43,37312,115.2,115.24
+50007,Chittenden,Vermont,2020,366,336,30,0,0,0,0,98,47,36,0,0,282,84,0,50,007,"Chittenden County, Vermont",73647,250 of 3146,"Chittenden County, VT",71,168865,42.0,42.05
+5001,Arkansas,Arkansas,2020,119,108,11,0,0,0,0,82,50,27,0,0,0,119,0,05,001,"Arkansas County, Arkansas",46696,2126 of 3146,"Arkansas County, AR",43,16722,257.1,257.15
+50021,Rutland,Vermont,2020,366,329,37,0,0,0,0,96,51,37,0,0,250,116,0,50,021,"Rutland County, Vermont",56139,1083 of 3146,"Rutland County, VT",59,60591,97.4,97.37
+50025,Windham,Vermont,2020,113,113,0,0,0,0,0,31,19,9,0,0,0,113,0,50,025,"Windham County, Vermont",51985,1553 of 3146,"Windham County, VT",31,46090,67.3,67.26
+5003,Ashley,Arkansas,2020,122,111,11,0,0,0,0,89,49,28,0,0,0,122,0,05,003,"Ashley County, Arkansas",44744,2304 of 3146,"Ashley County, AR",32,18674,171.4,171.36
+5019,Clark,Arkansas,2020,342,341,1,0,0,0,0,67,40,29,0,0,342,0,0,05,019,"Clark County, Arkansas",41620,2591 of 3146,"Clark County, AR",25,21321,117.3,117.26
+5035,Crittenden,Arkansas,2020,366,309,54,3,0,0,0,115,54,38,0,5,205,156,0,05,035,"Crittenden County, Arkansas",40161,2703 of 3146,"Crittenden County, AR",60,47525,126.2,126.25
+5051,Garland,Arkansas,2020,121,105,16,0,0,0,0,83,53,29,0,0,0,121,0,05,051,"Garland County, Arkansas",44777,2300 of 3146,"Garland County, AR",159,100330,158.5,158.48
+5067,Jackson,Arkansas,2020,122,109,13,0,0,0,0,77,51,26,0,0,0,122,0,05,067,"Jackson County, Arkansas",34109,3005 of 3146,"Jackson County, AR",25,16811,148.7,148.71
+51003,Albemarle,Virginia,2020,363,347,16,0,0,0,0,66,47,35,0,0,183,180,0,51,003,"Albemarle County, Virginia",79880,171 of 3146,"Albemarle County, VA",78,113535,68.7,68.7
+5101,Newton,Arkansas,2020,364,354,10,0,0,0,0,84,45,35,0,0,352,12,0,05,101,"Newton County, Arkansas",38082,2833 of 3146,"Newton County, AR",22,7204,305.4,305.39
+51013,Arlington,Virginia,2020,366,343,23,0,0,0,0,90,46,33,1,44,293,28,0,51,013,"Arlington County, Virginia",120071,8 of 3146,"Arlington County, VA",68,232965,29.2,29.19
+51033,Caroline,Virginia,2020,235,232,3,0,0,0,0,64,45,34,0,0,235,0,0,51,033,"Caroline County, Virginia",65103,466 of 3146,"Caroline County, VA",31,31332,98.9,98.94
+51035,Carroll,Virginia,2020,56,56,0,0,0,0,0,15,12,7,0,0,0,0,56,51,035,"Carroll County, Virginia",44835,2298 of 3146,"Carroll County, VA",47,29048,161.8,161.8
+51041,Chesterfield,Virginia,2020,279,277,2,0,0,0,0,61,44,32,0,0,220,59,0,51,041,"Chesterfield County, Virginia",82599,136 of 3146,"Chesterfield County, VA",243,370688,65.6,65.55
+51059,Fairfax,Virginia,2020,366,313,53,0,0,0,0,100,54,38,0,27,175,164,0,51,059,"Fairfax County, Virginia",124831,3 of 3146,"Fairfax County, VA",362,1139720,31.8,31.76
+51061,Fauquier,Virginia,2020,242,241,1,0,0,0,0,61,42,31,0,0,242,0,0,51,061,"Fauquier County, Virginia",100783,36 of 3146,"Fauquier County, VA",46,73815,62.3,62.32
+51069,Frederick,Virginia,2020,304,286,18,0,0,0,0,78,45,35,0,0,183,121,0,51,069,"Frederick County, Virginia",78002,188 of 3146,"Frederick County, VA",84,93717,89.6,89.63
+51071,Giles,Virginia,2020,342,337,5,0,0,0,0,67,45,36,0,0,342,0,0,51,071,"Giles County, Virginia",54520,1239 of 3146,"Giles County, VA",28,16562,169.1,169.06
+51085,Hanover,Virginia,2020,245,243,2,0,0,0,0,64,45,34,0,0,245,0,0,51,085,"Hanover County, Virginia",89390,75 of 3146,"Hanover County, VA",82,111603,73.5,73.47
+51087,Henrico,Virginia,2020,366,338,28,0,0,0,0,71,48,36,1,2,228,135,0,51,087,"Henrico County, Virginia",70307,316 of 3146,"Henrico County, VA",220,333554,66.0,65.96
+51107,Loudoun,Virginia,2020,366,353,12,1,0,0,0,108,45,33,0,25,309,32,0,51,107,"Loudoun County, Virginia",142299,1 of 3146,"Loudoun County, VA",95,427592,22.2,22.22
+5113,Polk,Arkansas,2020,359,336,23,0,0,0,0,84,47,36,0,0,326,33,0,05,113,"Polk County, Arkansas",37974,2845 of 3146,"Polk County, AR",37,19353,191.2,191.18
+51147,Prince Edward,Virginia,2020,361,361,0,0,0,0,0,49,42,30,0,0,361,0,0,51,147,"Prince Edward County, Virginia",47202,2081 of 3146,"Prince Edward County, VA",23,21932,104.9,104.87
+51153,Prince William,Virginia,2020,364,357,7,0,0,0,0,74,44,32,0,1,363,0,0,51,153,"Prince William County, Virginia",107132,23 of 3146,"Prince William County, VA",166,484472,34.3,34.26
+51161,Roanoke,Virginia,2020,366,338,28,0,0,0,0,69,48,35,0,9,182,175,0,51,161,"Roanoke County, Virginia",68948,346 of 3146,"Roanoke County, VA",65,96589,67.3,67.3
+51163,Rockbridge,Virginia,2020,284,284,0,0,0,0,0,49,42,30,0,0,235,49,0,51,163,"Rockbridge County, Virginia",54600,1229 of 3146,"Rockbridge County, VA",25,22641,110.4,110.42
+51165,Rockingham,Virginia,2020,363,356,7,0,0,0,0,74,44,32,0,100,226,37,0,51,165,"Rockingham County, Virginia",61864,648 of 3146,"Rockingham County, VA",67,84394,79.4,79.39
+51179,Stafford,Virginia,2020,362,357,5,0,0,0,0,84,44,32,0,0,360,0,2,51,179,"Stafford County, Virginia",111108,18 of 3146,"Stafford County, VA",76,160877,47.2,47.24
+5119,Pulaski,Arkansas,2020,366,275,89,2,0,0,0,132,59,42,0,6,155,205,0,05,119,"Pulaski County, Arkansas",51749,1576 of 3146,"Pulaski County, AR",313,397821,78.7,78.68
+51197,Wythe,Virginia,2020,235,233,2,0,0,0,0,61,45,34,0,0,235,0,0,51,197,"Wythe County, Virginia",49364,1861 of 3146,"Wythe County, VA",39,28178,138.4,138.41
+5139,Union,Arkansas,2020,121,106,15,0,0,0,0,89,52,34,0,0,0,121,0,05,139,"Union County, Arkansas",44663,2314 of 3146,"Union County, AR",41,38340,106.9,106.94
+5143,Washington,Arkansas,2020,366,321,44,1,0,0,0,150,52,39,0,0,244,122,0,05,143,"Washington County, Arkansas",50451,1720 of 3146,"Washington County, AR",127,250057,50.8,50.79
+51760,Richmond City,Virginia,2020,364,345,19,0,0,0,0,77,44,29,1,107,0,256,0,51,760,"Richmond City, Virginia",47250,2074 of 3146,"Richmond city, VA",146,226604,64.4,64.43
+53003,Asotin,Washington,2020,350,263,78,2,5,2,0,289,62,29,0,0,0,350,0,53,003,"Asotin County, Washington",53715,1325 of 3146,"Asotin County, WA",31,22397,138.4,138.41
+53005,Benton,Washington,2020,365,317,36,3,3,1,5,908,54,33,0,0,114,179,72,53,005,"Benton County, Washington",69023,343 of 3146,"Benton County, WA",135,210025,64.3,64.28
+53007,Chelan,Washington,2020,366,311,43,1,7,2,2,489,54,21,0,0,0,366,0,53,007,"Chelan County, Washington",58795,861 of 3146,"Chelan County, WA",51,79646,64.0,64.03
+53009,Clallam,Washington,2020,366,335,24,1,1,4,1,309,47,33,0,0,229,137,0,53,009,"Clallam County, Washington",52192,1524 of 3146,"Clallam County, WA",96,78209,122.7,122.75
+53011,Clark,Washington,2020,366,312,45,1,1,2,5,509,58,27,0,0,66,300,0,53,011,"Clark County, Washington",75253,223 of 3146,"Clark County, WA",324,511404,63.4,63.35
+53015,Cowlitz,Washington,2020,366,348,9,1,5,3,0,257,38,16,0,0,0,366,0,53,015,"Cowlitz County, Washington",54506,1243 of 3146,"Cowlitz County, WA",127,111524,113.9,113.88
+53021,Franklin,Washington,2020,336,321,7,0,5,3,0,260,34,14,0,0,0,336,0,53,021,"Franklin County, Washington",63584,553 of 3146,"Franklin County, WA",27,98268,27.5,27.48
+53025,Grant,Washington,2020,366,346,10,2,4,4,0,283,39,16,0,0,0,366,0,53,025,"Grant County, Washington",55556,1131 of 3146,"Grant County, WA",75,100297,74.8,74.78
+53027,Grays Harbor,Washington,2020,366,346,12,1,2,5,0,218,38,20,0,0,0,366,0,53,027,"Grays Harbor County, Washington",51240,1638 of 3146,"Grays Harbor County, WA",81,76841,105.4,105.41
+53031,Jefferson,Washington,2020,340,329,3,2,5,1,0,208,33,18,0,0,0,340,0,53,031,"Jefferson County, Washington",55127,1172 of 3146,"Jefferson County, WA",33,33605,98.2,98.2
+53033,King,Washington,2020,366,297,57,3,4,5,0,275,62,36,0,53,152,161,0,53,033,"King County, Washington",94974,56 of 3146,"King County, WA",835,2252305,37.1,37.07
+53035,Kitsap,Washington,2020,361,340,12,3,3,3,0,221,38,18,0,0,0,361,0,53,035,"Kitsap County, Washington",75411,222 of 3146,"Kitsap County, WA",187,274314,68.2,68.17
+53037,Kittitas,Washington,2020,365,320,34,2,3,3,3,459,54,18,0,0,0,365,0,53,037,"Kittitas County, Washington",56004,1096 of 3146,"Kittitas County, WA",25,45499,54.9,54.95
+53039,Klickitat,Washington,2020,318,302,7,0,2,1,6,669,39,17,0,0,0,318,0,53,039,"Klickitat County, Washington",55773,1113 of 3146,"Klickitat County, WA",26,23118,112.5,112.47
+53041,Lewis,Washington,2020,335,324,10,0,0,1,0,233,34,19,0,0,0,335,0,53,041,"Lewis County, Washington",53484,1353 of 3146,"Lewis County, WA",93,84398,110.2,110.19
+53045,Mason,Washington,2020,357,330,18,2,2,4,1,324,41,18,0,0,0,357,0,53,045,"Mason County, Washington",57634,961 of 3146,"Mason County, WA",74,67615,109.4,109.44
+53047,Okanogan,Washington,2020,366,240,113,1,6,4,2,423,71,35,0,0,0,366,0,53,047,"Okanogan County, Washington",47240,2075 of 3146,"Okanogan County, WA",38,42634,89.1,89.13
+53051,Pend Oreille,Washington,2020,20,18,2,0,0,0,0,59,53,35,0,0,0,20,0,53,051,"Pend Oreille County, Washington",50591,1692 of 3146,"Pend Oreille County, WA",17,13886,Unreliable,122.43
+53053,Pierce,Washington,2020,366,294,61,4,3,4,0,231,62,40,0,11,249,106,0,53,053,"Pierce County, Washington",72113,271 of 3146,"Pierce County, WA",536,925708,57.9,57.9
+53057,Skagit,Washington,2020,272,269,3,0,0,0,0,52,31,16,0,0,17,255,0,53,057,"Skagit County, Washington",67028,401 of 3146,"Skagit County, WA",102,130696,78.0,78.04
+53061,Snohomish,Washington,2020,366,292,64,3,6,1,0,225,64,30,0,0,0,366,0,53,061,"Snohomish County, Washington",86691,103 of 3146,"Snohomish County, WA",390,833540,46.8,46.79
+53063,Spokane,Washington,2020,366,323,36,0,2,1,4,479,52,33,0,0,119,215,32,53,063,"Spokane County, Washington",56904,1022 of 3146,"Spokane County, WA",425,546040,77.8,77.83
+53065,Stevens,Washington,2020,366,269,88,1,4,0,4,536,63,32,0,0,0,329,37,53,065,"Stevens County, Washington",51775,1573 of 3146,"Stevens County, WA",43,47426,90.7,90.67
+53067,Thurston,Washington,2020,366,340,19,0,4,3,0,217,44,25,0,0,126,240,0,53,067,"Thurston County, Washington",72003,275 of 3146,"Thurston County, WA",192,297977,64.4,64.43
+53071,Walla Walla,Washington,2020,366,330,27,0,2,1,6,819,50,22,0,0,0,143,223,53,071,"Walla Walla County, Washington",57858,939 of 3146,"Walla Walla County, WA",50,62682,79.8,79.77
+53073,Whatcom,Washington,2020,366,353,4,2,6,1,0,212,39,21,0,0,128,238,0,53,073,"Whatcom County, Washington",62984,596 of 3146,"Whatcom County, WA",152,228831,66.4,66.42
+53075,Whitman,Washington,2020,366,352,6,1,6,1,0,212,35,15,0,0,0,366,0,53,075,"Whitman County, Washington",42745,2488 of 3146,"Whitman County, WA",27,47873,56.4,56.4
+53077,Yakima,Washington,2020,366,248,103,6,2,3,4,465,76,35,0,0,0,365,1,53,077,"Yakima County, Washington",51637,1594 of 3146,"Yakima County, WA",170,256035,66.4,66.4
+54003,Berkeley,West Virginia,2020,278,261,17,0,0,0,0,95,48,36,0,0,227,51,0,54,003,"Berkeley County, West Virginia",62515,621 of 3146,"Berkeley County, WV",112,126069,88.8,88.84
+54009,Brooke,West Virginia,2020,366,342,24,0,0,0,0,75,40,17,0,0,0,121,245,54,009,"Brooke County, West Virginia",51496,1611 of 3146,"Brooke County, WV",38,22140,171.6,171.64
+54011,Cabell,West Virginia,2020,284,270,14,0,0,0,0,100,47,36,0,0,225,59,0,54,011,"Cabell County, West Virginia",40028,2713 of 3146,"Cabell County, WV",137,93418,146.7,146.65
+54025,Greenbrier,West Virginia,2020,234,232,2,0,0,0,0,54,44,34,0,0,234,0,0,54,025,"Greenbrier County, West Virginia",40200,2700 of 3146,"Greenbrier County, WV",69,32608,211.6,211.6
+54029,Hancock,West Virginia,2020,307,276,30,1,0,0,0,133,51,36,0,0,213,49,45,54,029,"Hancock County, West Virginia",45763,2215 of 3146,"Hancock County, WV",47,28656,164.0,164.01
+54033,Harrison,West Virginia,2020,118,110,8,0,0,0,0,78,43,26,0,0,0,118,0,54,033,"Harrison County, West Virginia",53022,1413 of 3146,"Harrison County, WV",93,65158,142.7,142.73
+54039,Kanawha,West Virginia,2020,366,342,24,0,0,0,0,84,48,37,0,0,246,120,0,54,039,"Kanawha County, West Virginia",46639,2136 of 3146,"Kanawha County, WV",245,177952,137.7,137.68
+54049,Marion,West Virginia,2020,74,69,5,0,0,0,0,67,47,26,0,0,0,74,0,54,049,"Marion County, West Virginia",50305,1740 of 3146,"Marion County, WV",84,56001,150.0,150
+54051,Marshall,West Virginia,2020,118,106,12,0,0,0,0,68,51,31,0,0,0,118,0,54,051,"Marshall County, West Virginia",48557,1936 of 3146,"Marshall County, WV",49,30115,162.7,162.71
+54061,Monongalia,West Virginia,2020,274,260,14,0,0,0,0,90,47,37,0,0,225,49,0,54,061,"Monongalia County, West Virginia",52455,1486 of 3146,"Monongalia County, WV",59,106387,55.5,55.46
+54069,Ohio,West Virginia,2020,274,244,29,1,0,0,0,101,51,38,0,0,223,51,0,54,069,"Ohio County, West Virginia",50584,1695 of 3146,"Ohio County, WV",56,41776,134.0,134.05
+54093,Tucker,West Virginia,2020,359,357,2,0,0,0,0,51,44,33,0,0,353,6,0,54,093,"Tucker County, West Virginia",49118,1889 of 3146,"Tucker County, WV",11,6672,Unreliable,164.87
+54107,Wood,West Virginia,2020,283,264,19,0,0,0,0,80,47,35,0,0,227,56,0,54,107,"Wood County, West Virginia",47321,2057 of 3146,"Wood County, WV",115,83624,137.5,137.52
+55003,Ashland,Wisconsin,2020,366,354,12,0,0,0,0,71,43,32,0,0,295,71,0,55,003,"Ashland County, Wisconsin",42510,2509 of 3146,"Ashland County, WI",20,16107,124.2,124.17
+55009,Brown,Wisconsin,2020,366,312,53,1,0,0,0,119,55,35,0,0,168,198,0,55,009,"Brown County, Wisconsin",62340,629 of 3146,"Brown County, WI",113,269591,41.9,41.92
+55021,Columbia,Wisconsin,2020,203,187,12,4,0,0,0,115,48,38,0,0,203,0,0,55,021,"Columbia County, Wisconsin",68005,368 of 3146,"Columbia County, WI",38,58488,65.0,64.97
+55025,Dane,Wisconsin,2020,366,286,78,2,0,0,0,112,59,39,0,0,147,219,0,55,025,"Dane County, Wisconsin",73893,247 of 3146,"Dane County, WI",229,563951,40.6,40.61
+55027,Dodge,Wisconsin,2020,366,297,67,2,0,0,0,136,56,38,0,0,231,133,2,55,027,"Dodge County, Wisconsin",60652,726 of 3146,"Dodge County, WI",76,89313,85.1,85.09
+55029,Door,Wisconsin,2020,205,184,17,4,0,0,0,150,51,36,0,0,205,0,0,55,029,"Door County, Wisconsin",61560,663 of 3146,"Door County, WI",28,30369,92.2,92.2
+55035,Eau Claire,Wisconsin,2020,366,312,54,0,0,0,0,93,54,37,0,0,171,194,1,55,035,"Eau Claire County, Wisconsin",59476,810 of 3146,"Eau Claire County, WI",68,106452,63.9,63.88
+55039,Fond du Lac,Wisconsin,2020,205,194,9,2,0,0,0,115,46,36,0,0,205,0,0,55,039,"Fond du Lac County, Wisconsin",62391,626 of 3146,"Fond du Lac County, WI",68,104362,65.2,65.16
+55041,Forest,Wisconsin,2020,366,338,28,0,0,0,0,93,47,35,0,0,280,86,0,55,041,"Forest County, Wisconsin",45536,2237 of 3146,"Forest County, WI",13,9258,Unreliable,140.42
+55043,Grant,Wisconsin,2020,361,305,56,0,0,0,0,82,55,30,0,0,0,361,0,55,043,"Grant County, Wisconsin",54800,1207 of 3146,"Grant County, WI",34,52110,65.2,65.25
+55055,Jefferson,Wisconsin,2020,210,189,17,4,0,0,0,136,51,38,0,0,210,0,0,55,055,"Jefferson County, Wisconsin",66291,427 of 3146,"Jefferson County, WI",70,84943,82.4,82.41
+55059,Kenosha,Wisconsin,2020,361,279,71,10,1,0,0,197,67,40,0,0,214,147,0,55,059,"Kenosha County, Wisconsin",63733,544 of 3146,"Kenosha County, WI",117,168732,69.3,69.34
+55061,Kewaunee,Wisconsin,2020,207,195,12,0,0,0,0,97,47,34,0,0,207,0,0,55,061,"Kewaunee County, Wisconsin",66192,431 of 3146,"Kewaunee County, WI",13,20543,Unreliable,63.28
+55063,La Crosse,Wisconsin,2020,364,304,60,0,0,0,0,93,54,37,0,0,168,196,0,55,063,"La Crosse County, Wisconsin",57882,937 of 3146,"La Crosse County, WI",84,120433,69.7,69.75
+55071,Manitowoc,Wisconsin,2020,192,169,19,4,0,0,0,136,58,36,0,0,192,0,0,55,071,"Manitowoc County, Wisconsin",56612,1048 of 3146,"Manitowoc County, WI",55,81505,67.5,67.48
+55073,Marathon,Wisconsin,2020,199,193,6,0,0,0,0,74,45,31,0,0,199,0,0,55,073,"Marathon County, Wisconsin",62633,615 of 3146,"Marathon County, WI",88,137648,63.9,63.93
+55079,Milwaukee,Wisconsin,2020,366,268,93,4,1,0,0,169,67,40,0,17,191,157,1,55,079,"Milwaukee County, Wisconsin",50606,1690 of 3146,"Milwaukee County, WI",592,928059,63.8,63.79
+55087,Outagamie,Wisconsin,2020,366,307,57,2,0,0,0,126,56,36,0,0,174,192,0,55,087,"Outagamie County, Wisconsin",65572,444 of 3146,"Outagamie County, WI",117,191545,61.1,61.08
+55089,Ozaukee,Wisconsin,2020,365,303,57,4,1,0,0,164,59,35,0,0,192,173,0,55,089,"Ozaukee County, Wisconsin",85215,112 of 3146,"Ozaukee County, WI",68,92497,73.5,73.52
+55101,Racine,Wisconsin,2020,199,162,29,7,1,0,0,172,67,38,0,0,199,0,0,55,101,"Racine County, Wisconsin",61336,677 of 3146,"Racine County, WI",197,196896,100.1,100.05
+55105,Rock,Wisconsin,2020,210,192,15,3,0,0,0,105,49,38,0,0,210,0,0,55,105,"Rock County, Wisconsin",57875,938 of 3146,"Rock County, WI",128,164381,77.9,77.87
+55111,Sauk,Wisconsin,2020,366,314,51,1,0,0,0,112,54,36,0,0,164,201,1,55,111,"Sauk County, Wisconsin",59943,784 of 3146,"Sauk County, WI",58,65697,88.3,88.28
+55117,Sheboygan,Wisconsin,2020,207,170,31,4,2,0,0,159,74,39,0,0,207,0,0,55,117,"Sheboygan County, Wisconsin",60696,722 of 3146,"Sheboygan County, WI",83,117747,70.5,70.49
+55119,Taylor,Wisconsin,2020,366,336,30,0,0,0,0,78,49,35,0,0,272,94,0,55,119,"Taylor County, Wisconsin",53020,1414 of 3146,"Taylor County, WI",14,19923,Unreliable,70.27
+55125,Vilas,Wisconsin,2020,366,351,15,0,0,0,0,84,46,30,0,0,188,178,0,55,125,"Vilas County, Wisconsin",47072,2095 of 3146,"Vilas County, WI",22,23520,93.5,93.54
+55127,Walworth,Wisconsin,2020,198,180,14,4,0,0,0,136,50,39,0,0,198,0,0,55,127,"Walworth County, Wisconsin",63776,540 of 3146,"Walworth County, WI",82,106799,76.8,76.78
+55133,Waukesha,Wisconsin,2020,359,274,83,2,0,0,0,129,60,39,0,0,144,214,1,55,133,"Waukesha County, Wisconsin",87277,94 of 3146,"Waukesha County, WI",248,408756,60.7,60.67
+56001,Albany,Wyoming,2020,366,253,104,7,2,0,0,177,71,46,0,0,288,9,69,56,001,"Albany County, Wyoming",49322,1865 of 3146,"Albany County, WY",19,37608,Unreliable,50.52
+56003,Big Horn,Wyoming,2020,359,349,8,2,0,0,0,126,46,38,0,0,359,0,0,56,003,"Big Horn County, Wyoming",52804,1445 of 3146,"Big Horn County, WY",12,11632,Unreliable,103.16
+56005,Campbell,Wyoming,2020,366,247,116,3,0,0,0,124,68,44,0,1,198,1,166,56,005,"Campbell County, Wyoming",82659,135 of 3146,"Campbell County, WY",32,46401,69.0,68.96
+56007,Carbon,Wyoming,2020,304,304,0,0,0,0,0,31,21,8,0,304,0,0,0,56,007,"Carbon County, Wyoming",60161,765 of 3146,"Carbon County, WY",17,14649,Unreliable,116.05
+56013,Fremont,Wyoming,2020,366,296,64,5,1,0,0,158,58,45,0,0,332,30,4,56,013,"Fremont County, Wyoming",55896,1106 of 3146,"Fremont County, WY",38,39336,96.6,96.6
+56019,Johnson,Wyoming,2020,364,337,27,0,0,0,0,93,50,40,0,2,355,0,7,56,019,"Johnson County, Wyoming",58132,911 of 3146,"Johnson County, WY",12,8623,Unreliable,139.16
+56021,Laramie,Wyoming,2020,366,322,39,3,2,0,0,157,54,39,0,4,297,38,27,56,021,"Laramie County, Wyoming",66910,406 of 3146,"Laramie County, WY",96,100863,95.2,95.18
+56023,Lincoln,Wyoming,2020,366,357,9,0,0,0,0,71,34,15,0,0,0,0,366,56,023,"Lincoln County, Wyoming",66964,405 of 3146,"Lincoln County, WY",14,20153,Unreliable,69.47
+56025,Natrona,Wyoming,2020,366,321,41,4,0,0,0,124,52,41,0,5,346,15,0,56,025,"Natrona County, Wyoming",62772,609 of 3146,"Natrona County, WY",103,79555,129.5,129.47
+56029,Park,Wyoming,2020,122,115,5,2,0,0,0,113,30,11,0,0,0,106,16,56,029,"Park County, Wyoming",63582,554 of 3146,"Park County, WY",27,30108,89.7,89.68
+56031,Platte,Wyoming,2020,224,202,20,1,0,1,0,283,50,19,0,0,0,0,224,56,031,"Platte County, Wyoming",50903,1662 of 3146,"Platte County, WY",19,8699,Unreliable,218.42
+56033,Sheridan,Wyoming,2020,366,344,22,0,0,0,0,100,47,39,0,0,342,22,2,56,033,"Sheridan County, Wyoming",60807,714 of 3146,"Sheridan County, WY",38,31646,120.1,120.08
+56037,Sweetwater,Wyoming,2020,366,238,116,7,4,0,1,1250,76,46,0,5,253,7,101,56,037,"Sweetwater County, Wyoming",74843,230 of 3146,"Sweetwater County, WY",32,41614,76.9,76.9
+56041,Uinta,Wyoming,2020,366,323,41,2,0,0,0,122,51,40,0,2,225,0,139,56,041,"Uinta County, Wyoming",63403,565 of 3146,"Uinta County, WY",18,20635,Unreliable,87.23
+56045,Weston,Wyoming,2020,353,323,29,1,0,0,0,119,49,40,0,0,353,0,0,56,045,"Weston County, Wyoming",57031,1012 of 3146,"Weston County, WY",10,6745,Unreliable,148.26
+6001,Alameda,California,2020,366,236,110,8,11,1,0,218,79,43,0,13,155,198,0,06,001,"Alameda County, California",99406,41 of 3146,"Alameda County, CA",713,1648556,43.2,43.25
+6005,Amador,California,2020,359,327,29,2,1,0,0,156,50,37,0,0,359,0,0,06,005,"Amador County, California",62772,609 of 3146,"Amador County, CA",38,41259,92.1,92.1
+6007,Butte,California,2020,366,183,144,18,18,2,1,379,110,51,0,0,195,164,7,06,007,"Butte County, California",52537,1477 of 3146,"Butte County, CA",207,208309,99.4,99.37
+6009,Calaveras,California,2020,364,260,81,10,13,0,0,192,77,44,0,0,237,122,5,06,009,"Calaveras County, California",63158,580 of 3146,"Calaveras County, CA",52,46221,112.5,112.5
+6011,Colusa,California,2020,366,247,87,9,23,0,0,198,86,38,0,0,190,144,32,06,011,"Colusa County, California",59401,819 of 3146,"Colusa County, CA",16,21917,Unreliable,73
+6013,Contra Costa,California,2020,366,258,90,7,11,0,0,197,72,41,0,5,188,173,0,06,013,"Contra Costa County, California",99716,40 of 3146,"Contra Costa County, CA",663,1161413,57.1,57.09
+6015,Del Norte,California,2020,292,248,35,4,4,1,0,220,55,32,0,0,0,292,0,06,015,"Del Norte County, California",45283,2260 of 3146,"Del Norte County, CA",39,28100,138.8,138.79
+6017,El Dorado,California,2020,366,258,85,17,6,0,0,190,90,43,0,0,351,8,7,06,017,"El Dorado County, California",83377,127 of 3146,"El Dorado County, CA",154,193221,79.7,79.7
+6019,Fresno,California,2020,366,94,173,59,34,6,0,298,153,74,0,3,168,180,15,06,019,"Fresno County, California",53969,1299 of 3146,"Fresno County, CA",581,1013581,57.3,57.32
+6021,Glenn,California,2020,364,251,84,7,22,0,0,197,82,43,0,0,203,143,18,06,021,"Glenn County, California",49633,1826 of 3146,"Glenn County, CA",24,28805,83.3,83.32
+6023,Humboldt,California,2020,366,333,30,3,0,0,0,109,44,29,0,0,236,68,62,06,023,"Humboldt County, California",48041,1978 of 3146,"Humboldt County, CA",106,136310,77.8,77.76
+6025,Imperial,California,2020,366,119,219,26,2,0,0,166,97,58,0,2,181,73,110,06,025,"Imperial County, California",47622,2026 of 3146,"Imperial County, CA",98,179851,54.5,54.49
+6027,Inyo,California,2020,366,172,139,23,19,5,8,684,130,52,0,0,228,116,22,06,027,"Inyo County, California",57316,978 of 3146,"Inyo County, CA",23,18970,121.2,121.24
+6029,Kern,California,2020,366,78,158,98,30,2,0,267,140,81,0,0,206,143,17,06,029,"Kern County, California",53350,1370 of 3146,"Kern County, CA",627,917673,68.3,68.32
+6031,Kings,California,2020,366,98,198,54,15,0,1,543,124,67,0,0,148,164,54,06,031,"Kings County, California",57848,940 of 3146,"Kings County, CA",88,153443,57.4,57.35
+6033,Lake,California,2020,351,341,6,1,3,0,0,180,43,32,0,0,336,13,2,06,033,"Lake County, California",47040,2099 of 3146,"Lake County, CA",82,68766,119.2,119.24
+6037,Los Angeles,California,2020,366,60,169,77,44,16,0,235,165,83,0,23,208,130,5,06,037,"Los Angeles County, California",68044,365 of 3146,"Los Angeles County, CA",4971,9829544,50.6,50.57
+6039,Madera,California,2020,366,137,176,34,17,2,0,250,113,61,0,0,192,149,25,06,039,"Madera County, California",57585,963 of 3146,"Madera County, CA",105,159410,65.9,65.87
+6041,Marin,California,2020,366,310,47,4,4,1,0,206,57,33,0,16,207,143,0,06,041,"Marin County, California",115246,14 of 3146,"Marin County, CA",145,260206,55.7,55.73
+6043,Mariposa,California,2020,366,208,110,27,12,4,5,618,111,47,0,0,295,61,10,06,043,"Mariposa County, California",48820,1907 of 3146,"Mariposa County, CA",14,17147,Unreliable,81.65
+6045,Mendocino,California,2020,366,280,63,10,10,1,2,456,76,34,0,0,179,182,5,06,045,"Mendocino County, California",51416,1619 of 3146,"Mendocino County, CA",66,91305,72.3,72.29
+6047,Merced,California,2020,366,171,163,17,15,0,0,183,95,53,0,0,192,173,1,06,047,"Merced County, California",53672,1330 of 3146,"Merced County, CA",162,286461,56.6,56.55
+6053,Monterey,California,2020,366,299,52,4,9,2,0,250,63,36,0,0,223,106,37,06,053,"Monterey County, California",71015,299 of 3146,"Monterey County, CA",208,437325,47.6,47.56
+6055,Napa,California,2020,365,298,52,7,8,0,0,199,62,36,3,0,227,135,0,06,055,"Napa County, California",88596,82 of 3146,"Napa County, CA",72,136207,52.9,52.86
+6057,Nevada,California,2020,366,268,66,15,13,4,0,252,90,41,0,0,237,129,0,06,057,"Nevada County, California",66096,434 of 3146,"Nevada County, CA",100,103487,96.6,96.63
+6059,Orange,California,2020,366,178,147,28,11,2,0,218,108,51,0,11,217,135,3,06,059,"Orange County, California",90234,68 of 3146,"Orange County, CA",1485,3167809,46.9,46.88
+6061,Placer,California,2020,366,167,158,20,18,3,0,222,108,54,0,0,229,129,8,06,061,"Placer County, California",89691,71 of 3146,"Placer County, CA",232,412300,56.3,56.27
+6063,Plumas,California,2020,360,183,127,16,20,10,4,469,146,49,0,0,0,360,0,06,063,"Plumas County, California",55359,1149 of 3146,"Plumas County, CA",13,19915,Unreliable,65.28
+6065,Riverside,California,2020,366,52,169,98,36,9,2,576,159,87,0,0,225,101,40,06,065,"Riverside County, California",67005,402 of 3146,"Riverside County, CA",1434,2458395,58.3,58.33
+6067,Sacramento,California,2020,366,176,154,17,19,0,0,200,100,52,0,2,192,163,9,06,067,"Sacramento County, California",67151,391 of 3146,"Sacramento County, CA",845,1588921,53.2,53.18
+6069,San Benito,California,2020,366,301,48,8,9,0,0,168,67,39,0,0,302,54,10,06,069,"San Benito County, California",86958,99 of 3146,"San Benito County, CA",21,66677,31.5,31.5
+6071,San Bernardino,California,2020,366,50,153,76,69,18,0,236,185,93,0,17,228,106,15,06,071,"San Bernardino County, California",63362,569 of 3146,"San Bernardino County, CA",1301,2194710,59.3,59.28
+6073,San Diego,California,2020,366,60,257,35,14,0,0,192,108,71,0,2,118,243,3,06,073,"San Diego County, California",78980,181 of 3146,"San Diego County, CA",1505,3286069,45.8,45.8
+6075,San Francisco,California,2020,366,277,81,3,5,0,0,198,62,36,0,15,159,192,0,06,075,"San Francisco County, California",112449,17 of 3146,"San Francisco County, CA",344,815201,42.2,42.2
+6077,San Joaquin,California,2020,366,197,138,16,15,0,0,195,96,48,0,0,177,169,20,06,077,"San Joaquin County, California",64432,503 of 3146,"San Joaquin County, CA",587,789410,74.4,74.36
+6079,San Luis Obispo,California,2020,366,211,124,21,8,2,0,292,90,48,0,0,250,96,20,06,079,"San Luis Obispo County, California",73518,254 of 3146,"San Luis Obispo County, CA",172,283159,60.7,60.74
+6081,San Mateo,California,2020,366,307,49,5,5,0,0,186,60,35,0,21,196,149,0,06,081,"San Mateo County, California",122641,5 of 3146,"San Mateo County, CA",282,737888,38.2,38.22
+6083,Santa Barbara,California,2020,366,273,80,9,4,0,0,168,66,42,0,0,247,113,6,06,083,"Santa Barbara County, California",74624,234 of 3146,"Santa Barbara County, CA",205,446475,45.9,45.92
+6085,Santa Clara,California,2020,366,237,109,11,9,0,0,186,79,44,0,8,171,187,0,06,085,"Santa Clara County, California",124055,4 of 3146,"Santa Clara County, CA",511,1885508,27.1,27.1
+6087,Santa Cruz,California,2020,366,304,42,6,10,2,2,426,64,34,0,0,207,159,0,06,087,"Santa Cruz County, California",82234,141 of 3146,"Santa Cruz County, CA",135,267792,50.4,50.41
+6089,Shasta,California,2020,366,295,63,6,2,0,0,166,64,41,0,0,336,30,0,06,089,"Shasta County, California",54667,1219 of 3146,"Shasta County, CA",244,182139,134.0,133.96
+6093,Siskiyou,California,2020,366,305,38,10,10,2,1,359,61,36,0,0,246,120,0,06,093,"Siskiyou County, California",45241,2264 of 3146,"Siskiyou County, CA",66,44118,149.6,149.6
+6095,Solano,California,2020,366,257,93,9,6,1,0,204,76,41,0,0,191,174,1,06,095,"Solano County, California",81472,149 of 3146,"Solano County, CA",264,451716,58.4,58.44
+6097,Sonoma,California,2020,366,319,40,1,6,0,0,187,53,33,0,1,215,139,11,06,097,"Sonoma County, California",81018,156 of 3146,"Sonoma County, CA",293,485887,60.3,60.3
+6099,Stanislaus,California,2020,366,156,173,21,16,0,0,189,102,55,0,1,195,150,20,06,099,"Stanislaus County, California",60704,721 of 3146,"Stanislaus County, CA",380,552999,68.7,68.72
+6101,Sutter,California,2020,366,208,127,15,14,1,1,303,89,48,0,0,183,179,4,06,101,"Sutter County, California",59050,843 of 3146,"Sutter County, CA",76,99063,76.7,76.72
+6103,Tehama,California,2020,366,249,84,12,21,0,0,196,93,43,0,0,244,122,0,06,103,"Tehama County, California",44514,2328 of 3146,"Tehama County, CA",72,65498,109.9,109.93
+6105,Trinity,California,2020,343,256,59,12,16,0,0,193,79,27,0,0,0,343,0,06,105,"Trinity County, California",40846,2655 of 3146,"Trinity County, CA",25,16060,155.7,155.67
+6107,Tulare,California,2020,366,79,152,103,30,2,0,209,145,79,0,0,186,166,14,06,107,"Tulare County, California",49687,1821 of 3146,"Tulare County, CA",282,477054,59.1,59.11
+6109,Tuolumne,California,2020,353,277,71,5,0,0,0,143,64,41,0,0,353,0,0,06,109,"Tuolumne County, California",60108,775 of 3146,"Tuolumne County, CA",67,55810,120.1,120.05
+6111,Ventura,California,2020,366,225,115,21,5,0,0,174,90,47,0,0,299,58,9,06,111,"Ventura County, California",88131,85 of 3146,"Ventura County, CA",433,839784,51.6,51.56
+6113,Yolo,California,2020,366,255,83,14,14,0,0,192,84,42,0,1,208,157,0,06,113,"Yolo County, California",70228,317 of 3146,"Yolo County, CA",106,216986,48.9,48.85
+8001,Adams,Colorado,2020,366,222,132,11,1,0,0,151,72,47,0,68,179,59,60,08,001,"Adams County, Colorado",71202,292 of 3146,"Adams County, CO",298,522140,57.1,57.07
+8003,Alamosa,Colorado,2020,119,116,3,0,0,0,0,60,30,10,0,0,0,119,0,08,003,"Alamosa County, Colorado",37515,2869 of 3146,"Alamosa County, CO",12,16547,Unreliable,72.52
+8005,Arapahoe,Colorado,2020,366,248,107,9,2,0,0,159,76,45,0,0,356,10,0,08,005,"Arapahoe County, Colorado",77469,195 of 3146,"Arapahoe County, CO",341,654900,52.1,52.07
+8013,Boulder,Colorado,2020,366,217,128,19,2,0,0,173,84,47,0,0,249,116,1,08,013,"Boulder County, Colorado",83019,131 of 3146,"Boulder County, CO",135,329543,41.0,40.97
+8029,Delta,Colorado,2020,365,328,37,0,0,0,0,97,51,41,0,0,331,34,0,08,029,"Delta County, Colorado",45269,2261 of 3146,"Delta County, CO",33,31661,104.2,104.23
+8031,Denver,Colorado,2020,366,185,164,17,0,0,0,150,80,50,0,108,142,113,3,08,031,"Denver County, Colorado",68592,359 of 3146,"Denver County, CO",337,711463,47.4,47.37
+8035,Douglas,Colorado,2020,361,237,107,14,3,0,0,159,80,46,0,0,308,53,0,08,035,"Douglas County, Colorado",119730,9 of 3146,"Douglas County, CO",119,368990,32.3,32.25
+8041,El Paso,Colorado,2020,366,255,104,6,1,0,0,151,74,45,0,0,340,26,0,08,041,"El Paso County, Colorado",68779,350 of 3146,"El Paso County, CO",473,737867,64.1,64.1
+8043,Fremont,Colorado,2020,17,17,0,0,0,0,0,27,20,11,0,0,0,0,17,08,043,"Fremont County, Colorado",49409,1856 of 3146,"Fremont County, CO",70,49661,141.0,140.96
+8045,Garfield,Colorado,2020,366,255,106,5,0,0,0,122,74,46,0,0,349,17,0,08,045,"Garfield County, Colorado",75937,215 of 3146,"Garfield County, CO",36,62161,57.9,57.91
+8059,Jefferson,Colorado,2020,366,231,108,23,4,0,0,161,90,46,0,0,366,0,0,08,059,"Jefferson County, Colorado",82986,132 of 3146,"Jefferson County, CO",408,579581,70.4,70.4
+8067,La Plata,Colorado,2020,366,284,80,2,0,0,0,133,61,44,0,0,348,18,0,08,067,"La Plata County, Colorado",68685,354 of 3146,"La Plata County, CO",48,56250,85.3,85.33
+8069,Larimer,Colorado,2020,366,222,125,17,2,0,0,157,87,48,0,0,316,50,0,08,069,"Larimer County, Colorado",71881,278 of 3146,"Larimer County, CO",177,362533,48.8,48.82
+8077,Mesa,Colorado,2020,366,302,61,3,0,0,0,108,58,44,0,0,299,66,1,08,077,"Mesa County, Colorado",55379,1145 of 3146,"Mesa County, CO",168,157335,106.8,106.78
+8083,Montezuma,Colorado,2020,366,301,63,2,0,0,0,126,58,44,0,0,366,0,0,08,083,"Montezuma County, Colorado",49470,1850 of 3146,"Montezuma County, CO",25,26175,95.5,95.51
+8099,Prowers,Colorado,2020,350,327,19,1,2,1,0,238,42,17,0,0,0,0,350,08,099,"Prowers County, Colorado",41929,2562 of 3146,"Prowers County, CO",18,11996,Unreliable,150.05
+8101,Pueblo,Colorado,2020,96,91,5,0,0,0,0,63,45,19,0,0,0,49,47,08,101,"Pueblo County, Colorado",46783,2118 of 3146,"Pueblo County, CO",266,169622,156.8,156.82
+8123,Weld,Colorado,2020,366,219,134,13,0,0,0,140,82,48,0,7,234,125,0,08,123,"Weld County, Colorado",74150,243 of 3146,"Weld County, CO",178,340036,52.3,52.35
+9001,Fairfield,Connecticut,2020,366,256,97,12,1,0,0,161,80,44,0,14,191,161,0,09,001,"Fairfield County, Connecticut",95645,55 of 3146,"Fairfield County, CT",534,959768,55.6,55.64
+9003,Hartford,Connecticut,2020,366,310,56,0,0,0,0,98,55,39,1,22,219,124,0,09,003,"Hartford County, Connecticut",75148,225 of 3146,"Hartford County, CT",600,896854,66.9,66.9
+9005,Litchfield,Connecticut,2020,362,327,35,0,0,0,0,84,50,38,2,0,301,59,0,09,005,"Litchfield County, Connecticut",79906,170 of 3146,"Litchfield County, CT",196,185000,105.9,105.95
+9007,Middlesex,Connecticut,2020,208,182,24,2,0,0,0,129,54,39,0,0,208,0,0,09,007,"Middlesex County, Connecticut",85898,107 of 3146,"Middlesex County, CT",110,164759,66.8,66.76
+9009,New Haven,Connecticut,2020,366,266,87,11,2,0,0,174,77,42,1,15,211,135,4,09,009,"New Haven County, Connecticut",69905,325 of 3146,"New Haven County, CT",590,863700,68.3,68.31
+9011,New London,Connecticut,2020,365,310,51,3,1,0,0,172,58,37,0,0,186,178,1,09,011,"New London County, Connecticut",73490,255 of 3146,"New London County, CT",231,268805,85.9,85.94
+9013,Tolland,Connecticut,2020,206,192,14,0,0,0,0,93,48,39,0,0,206,0,0,09,013,"Tolland County, Connecticut",87069,97 of 3146,"Tolland County, CT",112,150293,74.5,74.52
+9015,Windham,Connecticut,2020,356,345,11,0,0,0,0,87,44,35,0,0,356,0,0,09,015,"Windham County, Connecticut",66550,418 of 3146,"Windham County, CT",108,116418,92.8,92.77
